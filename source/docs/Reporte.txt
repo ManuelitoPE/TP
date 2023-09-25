@@ -1,0 +1,582 @@
+               DETALLE DE MOVIMIENTOS DE ALMACENES
+================================================================================
+ALMACEN: 10004 - Almacen San Miguel                 DISTRITO: 15094
+================================================================================
+          PRODUCTOSTOCK INICIAL
+70351 - Gelatina dany limon 125gr 
+          PRODUCTOSTOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr 
+          PRODUCTOSTOCK INICIAL
+23195 - Tortillas de maiz 1kg 
+          PRODUCTOSTOCK INICIAL
+86545 - Corazones de orejona pza 
+          PRODUCTOSTOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g 
+          PRODUCTOSTOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos 
+          PRODUCTOSTOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr 
+          PRODUCTOSTOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr 
+          PRODUCTOSTOCK INICIAL
+76402 - Yoghurt lala light 240gr 
+          PRODUCTOSTOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr 
+          PRODUCTOSTOCK INICIAL
+21583 - Vainilla molina 500ml 
+          PRODUCTOSTOCK INICIAL
+52703 - Papaya 
+          PRODUCTOSTOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr 
+          PRODUCTOSTOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr 
+          PRODUCTOSTOCK INICIAL
+61460 - Campana extractora modelo glass 
+          PRODUCTOSTOCK INICIAL
+66435 - Lavadora automatica 
+          PRODUCTOSTOCK INICIAL
+20413 - Cocina a gas ingenious 
+          PRODUCTOSTOCK INICIAL
+78931 - Refrigeradora door in door 
+          PRODUCTOSTOCK INICIAL
+85293 - Horno microondas 0.7 p3 
+          PRODUCTOSTOCK INICIAL
+68474 - Refrigeradora top mount 
+          PRODUCTOSTOCK INICIAL
+22397 - Televisor serie led r555a 
+          PRODUCTOSTOCK INICIAL
+41584 - Cocina a gas toscana 
+          PRODUCTOSTOCK INICIAL
+16913 - Parlantes portatiles soundshooter 
+          PRODUCTOSTOCK INICIAL
+43356 - Impresora mutifuncional led color 
+          PRODUCTOSTOCK INICIAL
+73510 - Dispensador de agua 
+          PRODUCTOSTOCK INICIAL
+29466 - Cocina electronica convencion 
+          PRODUCTOSTOCK INICIAL
+20052 - Autoradio mex bt3150u 
+          PRODUCTOSTOCK INICIAL
+44072 - Deshumedecedor dm-190h 
+          PRODUCTOSTOCK INICIAL
+18575 - Cocina a gas blogna 
+          PRODUCTOSTOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel 
+          PRODUCTOSTOCK INICIAL
+98824 - Tablets 10.1 
+          PRODUCTOSTOCK INICIAL
+18683 - Tiamazol 5mg 20t 
+          PRODUCTOSTOCK INICIAL
+74543 - Cefuroxima 250mg susp 
+          PRODUCTOSTOCK INICIAL
+55888 - Guayacol ampolleta 1ml 
+          PRODUCTOSTOCK INICIAL
+41003 - Sucralfato 40 tab/1g 
+          PRODUCTOSTOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg 
+          PRODUCTOSTOCK INICIAL
+60829 - Digoxina 0.250 mg c/24 
+          PRODUCTOSTOCK INICIAL
+92819 - Pravastatina 10 mg c/15 
+          PRODUCTOSTOCK INICIAL
+83464 - Hidrocortisona cra 30gr 
+          PRODUCTOSTOCK INICIAL
+38853 - Bezocaina 10gr gel 
+          PRODUCTOSTOCK INICIAL
+22303 - Cefadroxilo 250mg susp 
+          PRODUCTOSTOCK INICIAL
+13450 - Fexofenadina c/10 180mg 
+          PRODUCTOSTOCK INICIAL
+95819 - Calcio+vitamina d susp 
+          PRODUCTOSTOCK INICIAL
+44031 - Amoxicilina+bromexina c12 
+          PRODUCTOSTOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps 
+          PRODUCTOSTOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab 
+          PRODUCTOSTOCK INICIAL
+29182 - Alfiler metalico 
+          PRODUCTOSTOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina 
+          PRODUCTOSTOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande 
+          PRODUCTOSTOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
+          PRODUCTOSTOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
+          PRODUCTOSTOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
+          PRODUCTOSTOCK INICIAL
+57409 - Fastener metalico 
+          PRODUCTOSTOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+42169 - Lapiz d/madera bicolor 
+          PRODUCTOSTOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b 
+ALMACEN: 10001 - Almacen Jesus Maria                DISTRITO: 15084
+================================================================================
+          PRODUCTOSTOCK INICIAL
+70351 - Gelatina dany limon 125gr 
+          PRODUCTOSTOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr 
+          PRODUCTOSTOCK INICIAL
+23195 - Tortillas de maiz 1kg 
+          PRODUCTOSTOCK INICIAL
+86545 - Corazones de orejona pza 
+          PRODUCTOSTOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g 
+          PRODUCTOSTOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos 
+          PRODUCTOSTOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr 
+          PRODUCTOSTOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr 
+          PRODUCTOSTOCK INICIAL
+76402 - Yoghurt lala light 240gr 
+          PRODUCTOSTOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr 
+          PRODUCTOSTOCK INICIAL
+21583 - Vainilla molina 500ml 
+          PRODUCTOSTOCK INICIAL
+52703 - Papaya 
+          PRODUCTOSTOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr 
+          PRODUCTOSTOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr 
+          PRODUCTOSTOCK INICIAL
+61460 - Campana extractora modelo glass 
+          PRODUCTOSTOCK INICIAL
+66435 - Lavadora automatica 
+          PRODUCTOSTOCK INICIAL
+20413 - Cocina a gas ingenious 
+          PRODUCTOSTOCK INICIAL
+78931 - Refrigeradora door in door 
+          PRODUCTOSTOCK INICIAL
+85293 - Horno microondas 0.7 p3 
+          PRODUCTOSTOCK INICIAL
+68474 - Refrigeradora top mount 
+          PRODUCTOSTOCK INICIAL
+22397 - Televisor serie led r555a 
+          PRODUCTOSTOCK INICIAL
+41584 - Cocina a gas toscana 
+          PRODUCTOSTOCK INICIAL
+16913 - Parlantes portatiles soundshooter 
+          PRODUCTOSTOCK INICIAL
+43356 - Impresora mutifuncional led color 
+          PRODUCTOSTOCK INICIAL
+73510 - Dispensador de agua 
+          PRODUCTOSTOCK INICIAL
+29466 - Cocina electronica convencion 
+          PRODUCTOSTOCK INICIAL
+20052 - Autoradio mex bt3150u 
+          PRODUCTOSTOCK INICIAL
+44072 - Deshumedecedor dm-190h 
+          PRODUCTOSTOCK INICIAL
+18575 - Cocina a gas blogna 
+          PRODUCTOSTOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel 
+          PRODUCTOSTOCK INICIAL
+98824 - Tablets 10.1 
+          PRODUCTOSTOCK INICIAL
+18683 - Tiamazol 5mg 20t 
+          PRODUCTOSTOCK INICIAL
+74543 - Cefuroxima 250mg susp 
+          PRODUCTOSTOCK INICIAL
+55888 - Guayacol ampolleta 1ml 
+          PRODUCTOSTOCK INICIAL
+41003 - Sucralfato 40 tab/1g 
+          PRODUCTOSTOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg 
+          PRODUCTOSTOCK INICIAL
+60829 - Digoxina 0.250 mg c/24 
+          PRODUCTOSTOCK INICIAL
+92819 - Pravastatina 10 mg c/15 
+          PRODUCTOSTOCK INICIAL
+83464 - Hidrocortisona cra 30gr 
+          PRODUCTOSTOCK INICIAL
+38853 - Bezocaina 10gr gel 
+          PRODUCTOSTOCK INICIAL
+22303 - Cefadroxilo 250mg susp 
+          PRODUCTOSTOCK INICIAL
+13450 - Fexofenadina c/10 180mg 
+          PRODUCTOSTOCK INICIAL
+95819 - Calcio+vitamina d susp 
+          PRODUCTOSTOCK INICIAL
+44031 - Amoxicilina+bromexina c12 
+          PRODUCTOSTOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps 
+          PRODUCTOSTOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab 
+          PRODUCTOSTOCK INICIAL
+29182 - Alfiler metalico 
+          PRODUCTOSTOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina 
+          PRODUCTOSTOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande 
+          PRODUCTOSTOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
+          PRODUCTOSTOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
+          PRODUCTOSTOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
+          PRODUCTOSTOCK INICIAL
+57409 - Fastener metalico 
+          PRODUCTOSTOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+42169 - Lapiz d/madera bicolor 
+          PRODUCTOSTOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b 
+ALMACEN: 10003 - Almacen San Juan De Miraflores     DISTRITO: 15085
+================================================================================
+          PRODUCTOSTOCK INICIAL
+70351 - Gelatina dany limon 125gr 
+          PRODUCTOSTOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr 
+          PRODUCTOSTOCK INICIAL
+23195 - Tortillas de maiz 1kg 
+          PRODUCTOSTOCK INICIAL
+86545 - Corazones de orejona pza 
+          PRODUCTOSTOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g 
+          PRODUCTOSTOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos 
+          PRODUCTOSTOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr 
+          PRODUCTOSTOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr 
+          PRODUCTOSTOCK INICIAL
+76402 - Yoghurt lala light 240gr 
+          PRODUCTOSTOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr 
+          PRODUCTOSTOCK INICIAL
+21583 - Vainilla molina 500ml 
+          PRODUCTOSTOCK INICIAL
+52703 - Papaya 
+          PRODUCTOSTOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr 
+          PRODUCTOSTOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr 
+          PRODUCTOSTOCK INICIAL
+61460 - Campana extractora modelo glass 
+          PRODUCTOSTOCK INICIAL
+66435 - Lavadora automatica 
+          PRODUCTOSTOCK INICIAL
+20413 - Cocina a gas ingenious 
+          PRODUCTOSTOCK INICIAL
+78931 - Refrigeradora door in door 
+          PRODUCTOSTOCK INICIAL
+85293 - Horno microondas 0.7 p3 
+          PRODUCTOSTOCK INICIAL
+68474 - Refrigeradora top mount 
+          PRODUCTOSTOCK INICIAL
+22397 - Televisor serie led r555a 
+          PRODUCTOSTOCK INICIAL
+41584 - Cocina a gas toscana 
+          PRODUCTOSTOCK INICIAL
+16913 - Parlantes portatiles soundshooter 
+          PRODUCTOSTOCK INICIAL
+43356 - Impresora mutifuncional led color 
+          PRODUCTOSTOCK INICIAL
+73510 - Dispensador de agua 
+          PRODUCTOSTOCK INICIAL
+29466 - Cocina electronica convencion 
+          PRODUCTOSTOCK INICIAL
+20052 - Autoradio mex bt3150u 
+          PRODUCTOSTOCK INICIAL
+44072 - Deshumedecedor dm-190h 
+          PRODUCTOSTOCK INICIAL
+18575 - Cocina a gas blogna 
+          PRODUCTOSTOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel 
+          PRODUCTOSTOCK INICIAL
+98824 - Tablets 10.1 
+          PRODUCTOSTOCK INICIAL
+18683 - Tiamazol 5mg 20t 
+          PRODUCTOSTOCK INICIAL
+74543 - Cefuroxima 250mg susp 
+          PRODUCTOSTOCK INICIAL
+55888 - Guayacol ampolleta 1ml 
+          PRODUCTOSTOCK INICIAL
+41003 - Sucralfato 40 tab/1g 
+          PRODUCTOSTOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg 
+          PRODUCTOSTOCK INICIAL
+60829 - Digoxina 0.250 mg c/24 
+          PRODUCTOSTOCK INICIAL
+92819 - Pravastatina 10 mg c/15 
+          PRODUCTOSTOCK INICIAL
+83464 - Hidrocortisona cra 30gr 
+          PRODUCTOSTOCK INICIAL
+38853 - Bezocaina 10gr gel 
+          PRODUCTOSTOCK INICIAL
+22303 - Cefadroxilo 250mg susp 
+          PRODUCTOSTOCK INICIAL
+13450 - Fexofenadina c/10 180mg 
+          PRODUCTOSTOCK INICIAL
+95819 - Calcio+vitamina d susp 
+          PRODUCTOSTOCK INICIAL
+44031 - Amoxicilina+bromexina c12 
+          PRODUCTOSTOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps 
+          PRODUCTOSTOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab 
+          PRODUCTOSTOCK INICIAL
+29182 - Alfiler metalico 
+          PRODUCTOSTOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina 
+          PRODUCTOSTOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande 
+          PRODUCTOSTOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
+          PRODUCTOSTOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
+          PRODUCTOSTOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
+          PRODUCTOSTOCK INICIAL
+57409 - Fastener metalico 
+          PRODUCTOSTOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+42169 - Lapiz d/madera bicolor 
+          PRODUCTOSTOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b 
+ALMACEN: 10005 - Alamacen Central                   DISTRITO: 15166
+================================================================================
+          PRODUCTOSTOCK INICIAL
+70351 - Gelatina dany limon 125gr 
+          PRODUCTOSTOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr 
+          PRODUCTOSTOCK INICIAL
+23195 - Tortillas de maiz 1kg 
+          PRODUCTOSTOCK INICIAL
+86545 - Corazones de orejona pza 
+          PRODUCTOSTOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g 
+          PRODUCTOSTOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos 
+          PRODUCTOSTOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr 
+          PRODUCTOSTOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr 
+          PRODUCTOSTOCK INICIAL
+76402 - Yoghurt lala light 240gr 
+          PRODUCTOSTOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr 
+          PRODUCTOSTOCK INICIAL
+21583 - Vainilla molina 500ml 
+          PRODUCTOSTOCK INICIAL
+52703 - Papaya 
+          PRODUCTOSTOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr 
+          PRODUCTOSTOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr 
+          PRODUCTOSTOCK INICIAL
+61460 - Campana extractora modelo glass 
+          PRODUCTOSTOCK INICIAL
+66435 - Lavadora automatica 
+          PRODUCTOSTOCK INICIAL
+20413 - Cocina a gas ingenious 
+          PRODUCTOSTOCK INICIAL
+78931 - Refrigeradora door in door 
+          PRODUCTOSTOCK INICIAL
+85293 - Horno microondas 0.7 p3 
+          PRODUCTOSTOCK INICIAL
+68474 - Refrigeradora top mount 
+          PRODUCTOSTOCK INICIAL
+22397 - Televisor serie led r555a 
+          PRODUCTOSTOCK INICIAL
+41584 - Cocina a gas toscana 
+          PRODUCTOSTOCK INICIAL
+16913 - Parlantes portatiles soundshooter 
+          PRODUCTOSTOCK INICIAL
+43356 - Impresora mutifuncional led color 
+          PRODUCTOSTOCK INICIAL
+73510 - Dispensador de agua 
+          PRODUCTOSTOCK INICIAL
+29466 - Cocina electronica convencion 
+          PRODUCTOSTOCK INICIAL
+20052 - Autoradio mex bt3150u 
+          PRODUCTOSTOCK INICIAL
+44072 - Deshumedecedor dm-190h 
+          PRODUCTOSTOCK INICIAL
+18575 - Cocina a gas blogna 
+          PRODUCTOSTOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel 
+          PRODUCTOSTOCK INICIAL
+98824 - Tablets 10.1 
+          PRODUCTOSTOCK INICIAL
+18683 - Tiamazol 5mg 20t 
+          PRODUCTOSTOCK INICIAL
+74543 - Cefuroxima 250mg susp 
+          PRODUCTOSTOCK INICIAL
+55888 - Guayacol ampolleta 1ml 
+          PRODUCTOSTOCK INICIAL
+41003 - Sucralfato 40 tab/1g 
+          PRODUCTOSTOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg 
+          PRODUCTOSTOCK INICIAL
+60829 - Digoxina 0.250 mg c/24 
+          PRODUCTOSTOCK INICIAL
+92819 - Pravastatina 10 mg c/15 
+          PRODUCTOSTOCK INICIAL
+83464 - Hidrocortisona cra 30gr 
+          PRODUCTOSTOCK INICIAL
+38853 - Bezocaina 10gr gel 
+          PRODUCTOSTOCK INICIAL
+22303 - Cefadroxilo 250mg susp 
+          PRODUCTOSTOCK INICIAL
+13450 - Fexofenadina c/10 180mg 
+          PRODUCTOSTOCK INICIAL
+95819 - Calcio+vitamina d susp 
+          PRODUCTOSTOCK INICIAL
+44031 - Amoxicilina+bromexina c12 
+          PRODUCTOSTOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps 
+          PRODUCTOSTOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab 
+          PRODUCTOSTOCK INICIAL
+29182 - Alfiler metalico 
+          PRODUCTOSTOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina 
+          PRODUCTOSTOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande 
+          PRODUCTOSTOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
+          PRODUCTOSTOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
+          PRODUCTOSTOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
+          PRODUCTOSTOCK INICIAL
+57409 - Fastener metalico 
+          PRODUCTOSTOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+42169 - Lapiz d/madera bicolor 
+          PRODUCTOSTOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b 
+ALMACEN: 10007 - Almacen Villa Maria Del Triunfo    DISTRITO: 15156
+================================================================================
+          PRODUCTOSTOCK INICIAL
+70351 - Gelatina dany limon 125gr 
+          PRODUCTOSTOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr 
+          PRODUCTOSTOCK INICIAL
+23195 - Tortillas de maiz 1kg 
+          PRODUCTOSTOCK INICIAL
+86545 - Corazones de orejona pza 
+          PRODUCTOSTOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g 
+          PRODUCTOSTOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos 
+          PRODUCTOSTOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr 
+          PRODUCTOSTOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr 
+          PRODUCTOSTOCK INICIAL
+76402 - Yoghurt lala light 240gr 
+          PRODUCTOSTOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr 
+          PRODUCTOSTOCK INICIAL
+21583 - Vainilla molina 500ml 
+          PRODUCTOSTOCK INICIAL
+52703 - Papaya 
+          PRODUCTOSTOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr 
+          PRODUCTOSTOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr 
+          PRODUCTOSTOCK INICIAL
+61460 - Campana extractora modelo glass 
+          PRODUCTOSTOCK INICIAL
+66435 - Lavadora automatica 
+          PRODUCTOSTOCK INICIAL
+20413 - Cocina a gas ingenious 
+          PRODUCTOSTOCK INICIAL
+78931 - Refrigeradora door in door 
+          PRODUCTOSTOCK INICIAL
+85293 - Horno microondas 0.7 p3 
+          PRODUCTOSTOCK INICIAL
+68474 - Refrigeradora top mount 
+          PRODUCTOSTOCK INICIAL
+22397 - Televisor serie led r555a 
+          PRODUCTOSTOCK INICIAL
+41584 - Cocina a gas toscana 
+          PRODUCTOSTOCK INICIAL
+16913 - Parlantes portatiles soundshooter 
+          PRODUCTOSTOCK INICIAL
+43356 - Impresora mutifuncional led color 
+          PRODUCTOSTOCK INICIAL
+73510 - Dispensador de agua 
+          PRODUCTOSTOCK INICIAL
+29466 - Cocina electronica convencion 
+          PRODUCTOSTOCK INICIAL
+20052 - Autoradio mex bt3150u 
+          PRODUCTOSTOCK INICIAL
+44072 - Deshumedecedor dm-190h 
+          PRODUCTOSTOCK INICIAL
+18575 - Cocina a gas blogna 
+          PRODUCTOSTOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel 
+          PRODUCTOSTOCK INICIAL
+98824 - Tablets 10.1 
+          PRODUCTOSTOCK INICIAL
+18683 - Tiamazol 5mg 20t 
+          PRODUCTOSTOCK INICIAL
+74543 - Cefuroxima 250mg susp 
+          PRODUCTOSTOCK INICIAL
+55888 - Guayacol ampolleta 1ml 
+          PRODUCTOSTOCK INICIAL
+41003 - Sucralfato 40 tab/1g 
+          PRODUCTOSTOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg 
+          PRODUCTOSTOCK INICIAL
+60829 - Digoxina 0.250 mg c/24 
+          PRODUCTOSTOCK INICIAL
+92819 - Pravastatina 10 mg c/15 
+          PRODUCTOSTOCK INICIAL
+83464 - Hidrocortisona cra 30gr 
+          PRODUCTOSTOCK INICIAL
+38853 - Bezocaina 10gr gel 
+          PRODUCTOSTOCK INICIAL
+22303 - Cefadroxilo 250mg susp 
+          PRODUCTOSTOCK INICIAL
+13450 - Fexofenadina c/10 180mg 
+          PRODUCTOSTOCK INICIAL
+95819 - Calcio+vitamina d susp 
+          PRODUCTOSTOCK INICIAL
+44031 - Amoxicilina+bromexina c12 
+          PRODUCTOSTOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps 
+          PRODUCTOSTOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab 
+          PRODUCTOSTOCK INICIAL
+29182 - Alfiler metalico 
+          PRODUCTOSTOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina 
+          PRODUCTOSTOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande 
+          PRODUCTOSTOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
+          PRODUCTOSTOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
+          PRODUCTOSTOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
+          PRODUCTOSTOCK INICIAL
+57409 - Fastener metalico 
+          PRODUCTOSTOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio 
+          PRODUCTOSTOCK INICIAL
+42169 - Lapiz d/madera bicolor 
+          PRODUCTOSTOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b 

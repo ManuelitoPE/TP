@@ -1,0 +1,5 @@
+10004    Almacen_San_Miguel    15094
+10001  Almacen_Jesus_Maria    15084
+10003      Almacen_San_Juan_De_Miraflores    15085
+10005    Alamacen_Central    15166
+10007     Almacen_Villa_Maria_Del_Triunfo    15156
