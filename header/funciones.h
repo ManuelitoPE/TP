@@ -10,6 +10,12 @@ void lecturaProductoYStock(ifstream& Productos,ifstream& Stock,
 void nombreProducto(ifstream& Productos,ofstream& Report);
 void lecturaEImpresionStock(ofstream& Report,ifstream& Stock,
                             int num_almacen,int num_producto, double& );
+void impresionTransacciones(ifstream& Transacciones,ofstream& Report,
+                            int num_almacen, int num_producto);
+void TransaccionDeProducto(ifstream& Transacciones,ofstream& Report,
+                            int num_producto);
+void impresionTIPO(ofstream& Report,char tipo, int almacen);
+
 
 
 

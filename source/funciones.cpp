@@ -61,7 +61,10 @@ void emitiReporte(const char* nomAlmacen, const char* nomProductos,
             Stock.clear();
             Stock.seekg(0,ios::beg);
             lecturaEImpresionStock(Report,Stock,num_almacen,num_producto, stockInicial);
+            // Transferencias
+            impresionTransacciones(Transacciones,Report,num_almacen,num_producto);
         }
+
     }
        
 }
@@ -140,3 +143,46 @@ void lecturaEImpresionStock(ofstream& Report,ifstream& Stock,
     Report<<right<<stockInicial<<left<<endl;
     espaciado(Report,lineas, '-');
 }
+void impresionTransacciones(ifstream& Transacciones,ofstream& Report,
+                            int num_almacen, int num_producto){
+    int producto,almacen, dd,mm,aa,hh,min,seg,cantidad,almacenT;
+    char c,tipo;
+    // ENCABEZADO
+    Report<<left<<"TRANSACCIONES"<<endl<<setw(15)<<"Fecha"
+                <<setw(15)<<"Hora"<<setw(15)<<"Cantidad"<<setw(20)<<"Tipo"
+                <<setw(15)<<"Almacen"<<endl;
+    // Reiniciamos el puntero
+    Transacciones.clear();
+    Transacciones.seekg(0, ios::beg);
+    while(true){
+        // Confirmamos que es del almacen
+        Transacciones>>almacen;
+        if(Transacciones.eof())break;
+        Transacciones>>dd>>c>>mm>>c>>aa;
+        while(true){
+            if(Transacciones.get()=='\n')break;
+            Transacciones>>hh>>c>>min>>c>>seg>>producto>>cantidad>>tipo;
+            if(tipo=='T')Transacciones>>almacenT;
+            if(producto==num_producto && (almacen==num_almacen or almacenT==num_almacen)){
+                // IMPRIMIMOS LOS DATOS
+                Report<<right<<setfill('0')<<setw(2)<<dd<<'/'<<setw(2)
+                <<mm<<'/'<<setw(4)<<aa<<setfill(' ')<<setw(4)<<' '
+                <<setfill('0')<<setw(2)<<hh<<':'<<setw(2)<<min<<':'
+                <<setw(2)<<seg<<setfill(' ')<<setw(4)<<' '<<setw(8)<<cantidad
+                <<setw(5)<<' ';
+                impresionTIPO(Report,tipo, almacenT);
+            } 
+        }
+    }
+    espaciado(Report,lineas, '-');
+}
+void impresionTIPO(ofstream& Report,char tipo,int almacen){
+    if(tipo=='I'){
+        Report<<"Ingreso"<<setw(15)<<' '<<endl;
+    }else if(tipo=='S'){
+        Report<<"Salida"<<setw(15)<<' '<<endl;        
+    }else{
+        Report<<"Transferencia"<<setw(15)<<' '<<almacen<<endl;
+    }
+}
+
