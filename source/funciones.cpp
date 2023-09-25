@@ -5,7 +5,8 @@ using namespace std;
 #include"../header/funciones.h"
 #define n_title 50
 #define lineas 80
-#define al_pro_title 35
+#define almacen_title 30
+#define producto_title 80
 void emitiReporte(const char* nomAlmacen, const char* nomProductos,
                 const char* nomStock, const char* nomTransacciones,
                 const char* nomReporte){
@@ -54,9 +55,12 @@ void emitiReporte(const char* nomAlmacen, const char* nomProductos,
             Productos.seekg(0,ios::beg);
         // Lectura del producto y el stock inicial
         while (true){   
-            lecturaProductoYStock(Productos,Stock,Report,num_almacen,num_producto
-                                ,stockInicial);
+            lecturaProductoYStock(Productos,Stock,Report,num_almacen,num_producto);
             if(Productos.eof())break;
+            // Debemos actualizar la lectura de stock
+            Stock.clear();
+            Stock.seekg(0,ios::beg);
+            lecturaEImpresionStock(Report,Stock,num_almacen,num_producto, stockInicial);
         }
     }
        
@@ -97,24 +101,20 @@ void nombreAlmacen(ifstream& Almacen,ofstream& Report){
         }
         Report<<c;
     } 
-    Report<<setw(al_pro_title-contBlancos)<<' ';   
+    Report<<setw(almacen_title-contBlancos)<<' ';   
 }
 void lecturaProductoYStock(ifstream& Productos,ifstream& Stock,
-                        ofstream& Report,int num_almacen,int& num_producto
-                            ,double& stockInicial){
+                        ofstream& Report,int num_almacen,int& num_producto){    
     // Leemos el numero del producto
     Productos>>num_producto;
     if(Productos.eof())return;
     // Imprimimos el encabezado
-    Report<<setw(10)<<' '<<"PRODUCTO"<<setw(10)<<"STOCK INICIAL"<<endl
+    Report<<setw(10)<<' '<<"PRODUCTO"<<right<<setw(60)<<"STOCK INICIAL"<<endl
             <<num_producto<<" - ";
     //Ahora leemos y imprimimos el nombre del producto
     Productos>>ws;
     Productos.get();
     nombreProducto(Productos,Report);
-    Report<<endl;
-    // Ahora buscamos el stock inicial 
-
 }
 void nombreProducto(ifstream& Productos,ofstream& Report){
     int contBlancos;
@@ -128,5 +128,15 @@ void nombreProducto(ifstream& Productos,ofstream& Report){
         Report<<c;
         primera=false;
     } 
-    Report<<setw(al_pro_title-contBlancos)<<' ';  
+    Report<<left<<setw(producto_title-contBlancos)<<' ';
+}
+void lecturaEImpresionStock(ofstream& Report,ifstream& Stock,
+                            int num_almacen,int num_producto, double& stockInicial){
+    int almacenREF, productoREF;
+    while(true){
+        Stock>>productoREF>>almacenREF>>stockInicial;
+        if(productoREF==num_producto && almacenREF==num_almacen)break;
+    }
+    Report<<right<<stockInicial<<left<<endl;
+    espaciado(Report,lineas, '-');
 }

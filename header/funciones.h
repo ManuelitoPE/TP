@@ -6,9 +6,11 @@ void espaciado(ofstream& Report,int num,char signo );
 void lecturaAlmacen(ifstream& Almacen,ofstream& Report,int& num_almacen);
 void nombreAlmacen(ifstream& Almacen,ofstream& Report);
 void lecturaProductoYStock(ifstream& Productos,ifstream& Stock,
-                        ofstream& Report,int num_almacen,int& num_producto
-                            ,double& stockInicial);
+                        ofstream& Report,int num_almacen,int& num_producto);
 void nombreProducto(ifstream& Productos,ofstream& Report);
+void lecturaEImpresionStock(ofstream& Report,ifstream& Stock,
+                            int num_almacen,int num_producto, double& );
+
 
 
 #endif

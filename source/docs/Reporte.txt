@@ -1,582 +1,867 @@
                DETALLE DE MOVIMIENTOS DE ALMACENES
 ================================================================================
-ALMACEN: 10004 - Almacen San Miguel                 DISTRITO: 15094
+ALMACEN: 10004 - Almacen San Miguel            DISTRITO: 15094
 ================================================================================
-          PRODUCTOSTOCK INICIAL
-70351 - Gelatina dany limon 125gr 
-          PRODUCTOSTOCK INICIAL
-18157 - Sal baja pacific bolsa 1kgr 
-          PRODUCTOSTOCK INICIAL
-23195 - Tortillas de maiz 1kg 
-          PRODUCTOSTOCK INICIAL
-86545 - Corazones de orejona pza 
-          PRODUCTOSTOCK INICIAL
-38304 - Yoghurt p beber lactigurt coco 250g 
-          PRODUCTOSTOCK INICIAL
-46108 - Polvo para hornear rexal 15kilos 
-          PRODUCTOSTOCK INICIAL
-16043 - Salsa de chile habanero rojo 260gr 
-          PRODUCTOSTOCK INICIAL
-66721 - Palomitas pofets flamin hot 28gr 
-          PRODUCTOSTOCK INICIAL
-76402 - Yoghurt lala light 240gr 
-          PRODUCTOSTOCK INICIAL
-39131 - Yoghurt fresa con granola chelsy 240gr 
-          PRODUCTOSTOCK INICIAL
-21583 - Vainilla molina 500ml 
-          PRODUCTOSTOCK INICIAL
-52703 - Papaya 
-          PRODUCTOSTOCK INICIAL
-46549 - Aguacate regional kg.1.000 gr 
-          PRODUCTOSTOCK INICIAL
-14616 - Flan lala sabor vainilla 100gr 
-          PRODUCTOSTOCK INICIAL
-61460 - Campana extractora modelo glass 
-          PRODUCTOSTOCK INICIAL
-66435 - Lavadora automatica 
-          PRODUCTOSTOCK INICIAL
-20413 - Cocina a gas ingenious 
-          PRODUCTOSTOCK INICIAL
-78931 - Refrigeradora door in door 
-          PRODUCTOSTOCK INICIAL
-85293 - Horno microondas 0.7 p3 
-          PRODUCTOSTOCK INICIAL
-68474 - Refrigeradora top mount 
-          PRODUCTOSTOCK INICIAL
-22397 - Televisor serie led r555a 
-          PRODUCTOSTOCK INICIAL
-41584 - Cocina a gas toscana 
-          PRODUCTOSTOCK INICIAL
-16913 - Parlantes portatiles soundshooter 
-          PRODUCTOSTOCK INICIAL
-43356 - Impresora mutifuncional led color 
-          PRODUCTOSTOCK INICIAL
-73510 - Dispensador de agua 
-          PRODUCTOSTOCK INICIAL
-29466 - Cocina electronica convencion 
-          PRODUCTOSTOCK INICIAL
-20052 - Autoradio mex bt3150u 
-          PRODUCTOSTOCK INICIAL
-44072 - Deshumedecedor dm-190h 
-          PRODUCTOSTOCK INICIAL
-18575 - Cocina a gas blogna 
-          PRODUCTOSTOCK INICIAL
-31389 - Refrigeradora  coolstyle 281a steel 
-          PRODUCTOSTOCK INICIAL
-98824 - Tablets 10.1 
-          PRODUCTOSTOCK INICIAL
-18683 - Tiamazol 5mg 20t 
-          PRODUCTOSTOCK INICIAL
-74543 - Cefuroxima 250mg susp 
-          PRODUCTOSTOCK INICIAL
-55888 - Guayacol ampolleta 1ml 
-          PRODUCTOSTOCK INICIAL
-41003 - Sucralfato 40 tab/1g 
-          PRODUCTOSTOCK INICIAL
-33947 - Diltiazem 30 tab/30 mg 
-          PRODUCTOSTOCK INICIAL
-60829 - Digoxina 0.250 mg c/24 
-          PRODUCTOSTOCK INICIAL
-92819 - Pravastatina 10 mg c/15 
-          PRODUCTOSTOCK INICIAL
-83464 - Hidrocortisona cra 30gr 
-          PRODUCTOSTOCK INICIAL
-38853 - Bezocaina 10gr gel 
-          PRODUCTOSTOCK INICIAL
-22303 - Cefadroxilo 250mg susp 
-          PRODUCTOSTOCK INICIAL
-13450 - Fexofenadina c/10 180mg 
-          PRODUCTOSTOCK INICIAL
-95819 - Calcio+vitamina d susp 
-          PRODUCTOSTOCK INICIAL
-44031 - Amoxicilina+bromexina c12 
-          PRODUCTOSTOCK INICIAL
-94310 - Nifedipino 30 mg 30 cps 
-          PRODUCTOSTOCK INICIAL
-70604 - Verapamilo 80 mg/20 tab 
-          PRODUCTOSTOCK INICIAL
-29182 - Alfiler metalico 
-          PRODUCTOSTOCK INICIAL
-72450 - Boligrafo d/tinta seca. color verde. punta fina 
-          PRODUCTOSTOCK INICIAL
-17963 - Borrador d/caucho p/tinta. t: grande 
-          PRODUCTOSTOCK INICIAL
-97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
-          PRODUCTOSTOCK INICIAL
-71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
-          PRODUCTOSTOCK INICIAL
-31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
-          PRODUCTOSTOCK INICIAL
-57409 - Fastener metalico 
-          PRODUCTOSTOCK INICIAL
-58204 - Folder colgante c/varilla metalica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-23981 - Folder colgante c/varilla plastica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-42169 - Lapiz d/madera bicolor 
-          PRODUCTOSTOCK INICIAL
-55401 - Lapiz d/madera c/mina de grafito 2b 
-ALMACEN: 10001 - Almacen Jesus Maria                DISTRITO: 15084
+          PRODUCTO                                               STOCK INICIAL
+70351 - Gelatina dany limon 125gr                                1062.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr                              287.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23195 - Tortillas de maiz 1kg                                    65.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+86545 - Corazones de orejona pza                                 531.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g                      578.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos                         1671.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr                       2313.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr                         44.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+76402 - Yoghurt lala light 240gr                                 427.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr                   2186.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+21583 - Vainilla molina 500ml                                    833.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+52703 - Papaya                                                   974.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr                            48.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr                           40.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+61460 - Campana extractora modelo glass                          53.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66435 - Lavadora automatica                                      605.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20413 - Cocina a gas ingenious                                   597.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+78931 - Refrigeradora door in door                               2206.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+85293 - Horno microondas 0.7 p3                                  2248.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+68474 - Refrigeradora top mount                                  2118.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22397 - Televisor serie led r555a                                2261.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41584 - Cocina a gas toscana                                     98.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16913 - Parlantes portatiles soundshooter                        996.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+43356 - Impresora mutifuncional led color                        2761.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+73510 - Dispensador de agua                                      1216.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29466 - Cocina electronica convencion                            954.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20052 - Autoradio mex bt3150u                                    49.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44072 - Deshumedecedor dm-190h                                   2486.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18575 - Cocina a gas blogna                                      80.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel                      68.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+98824 - Tablets 10.1                                             69.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18683 - Tiamazol 5mg 20t                                         50.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+74543 - Cefuroxima 250mg susp                                    845.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55888 - Guayacol ampolleta 1ml                                   946.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41003 - Sucralfato 40 tab/1g                                     2069.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg                                   477.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+60829 - Digoxina 0.250 mg c/24                                   2086.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+92819 - Pravastatina 10 mg c/15                                  673.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+83464 - Hidrocortisona cra 30gr                                  269.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38853 - Bezocaina 10gr gel                                       47.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22303 - Cefadroxilo 250mg susp                                   2428.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+13450 - Fexofenadina c/10 180mg                                  1489.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+95819 - Calcio+vitamina d susp                                   56.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44031 - Amoxicilina+bromexina c12                                1441.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps                                  69.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab                                  2706.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29182 - Alfiler metalico                                         2341.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina          98.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande                     2159.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico              1732.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd.             86.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd.             91.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+57409 - Fastener metalico                                        1778.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio            58.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio            59.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+42169 - Lapiz d/madera bicolor                                   2823.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b                      2300.00
+--------------------------------------------------------------------------------
+ALMACEN: 10001 - Almacen Jesus Maria           DISTRITO: 15084
 ================================================================================
-          PRODUCTOSTOCK INICIAL
-70351 - Gelatina dany limon 125gr 
-          PRODUCTOSTOCK INICIAL
-18157 - Sal baja pacific bolsa 1kgr 
-          PRODUCTOSTOCK INICIAL
-23195 - Tortillas de maiz 1kg 
-          PRODUCTOSTOCK INICIAL
-86545 - Corazones de orejona pza 
-          PRODUCTOSTOCK INICIAL
-38304 - Yoghurt p beber lactigurt coco 250g 
-          PRODUCTOSTOCK INICIAL
-46108 - Polvo para hornear rexal 15kilos 
-          PRODUCTOSTOCK INICIAL
-16043 - Salsa de chile habanero rojo 260gr 
-          PRODUCTOSTOCK INICIAL
-66721 - Palomitas pofets flamin hot 28gr 
-          PRODUCTOSTOCK INICIAL
-76402 - Yoghurt lala light 240gr 
-          PRODUCTOSTOCK INICIAL
-39131 - Yoghurt fresa con granola chelsy 240gr 
-          PRODUCTOSTOCK INICIAL
-21583 - Vainilla molina 500ml 
-          PRODUCTOSTOCK INICIAL
-52703 - Papaya 
-          PRODUCTOSTOCK INICIAL
-46549 - Aguacate regional kg.1.000 gr 
-          PRODUCTOSTOCK INICIAL
-14616 - Flan lala sabor vainilla 100gr 
-          PRODUCTOSTOCK INICIAL
-61460 - Campana extractora modelo glass 
-          PRODUCTOSTOCK INICIAL
-66435 - Lavadora automatica 
-          PRODUCTOSTOCK INICIAL
-20413 - Cocina a gas ingenious 
-          PRODUCTOSTOCK INICIAL
-78931 - Refrigeradora door in door 
-          PRODUCTOSTOCK INICIAL
-85293 - Horno microondas 0.7 p3 
-          PRODUCTOSTOCK INICIAL
-68474 - Refrigeradora top mount 
-          PRODUCTOSTOCK INICIAL
-22397 - Televisor serie led r555a 
-          PRODUCTOSTOCK INICIAL
-41584 - Cocina a gas toscana 
-          PRODUCTOSTOCK INICIAL
-16913 - Parlantes portatiles soundshooter 
-          PRODUCTOSTOCK INICIAL
-43356 - Impresora mutifuncional led color 
-          PRODUCTOSTOCK INICIAL
-73510 - Dispensador de agua 
-          PRODUCTOSTOCK INICIAL
-29466 - Cocina electronica convencion 
-          PRODUCTOSTOCK INICIAL
-20052 - Autoradio mex bt3150u 
-          PRODUCTOSTOCK INICIAL
-44072 - Deshumedecedor dm-190h 
-          PRODUCTOSTOCK INICIAL
-18575 - Cocina a gas blogna 
-          PRODUCTOSTOCK INICIAL
-31389 - Refrigeradora  coolstyle 281a steel 
-          PRODUCTOSTOCK INICIAL
-98824 - Tablets 10.1 
-          PRODUCTOSTOCK INICIAL
-18683 - Tiamazol 5mg 20t 
-          PRODUCTOSTOCK INICIAL
-74543 - Cefuroxima 250mg susp 
-          PRODUCTOSTOCK INICIAL
-55888 - Guayacol ampolleta 1ml 
-          PRODUCTOSTOCK INICIAL
-41003 - Sucralfato 40 tab/1g 
-          PRODUCTOSTOCK INICIAL
-33947 - Diltiazem 30 tab/30 mg 
-          PRODUCTOSTOCK INICIAL
-60829 - Digoxina 0.250 mg c/24 
-          PRODUCTOSTOCK INICIAL
-92819 - Pravastatina 10 mg c/15 
-          PRODUCTOSTOCK INICIAL
-83464 - Hidrocortisona cra 30gr 
-          PRODUCTOSTOCK INICIAL
-38853 - Bezocaina 10gr gel 
-          PRODUCTOSTOCK INICIAL
-22303 - Cefadroxilo 250mg susp 
-          PRODUCTOSTOCK INICIAL
-13450 - Fexofenadina c/10 180mg 
-          PRODUCTOSTOCK INICIAL
-95819 - Calcio+vitamina d susp 
-          PRODUCTOSTOCK INICIAL
-44031 - Amoxicilina+bromexina c12 
-          PRODUCTOSTOCK INICIAL
-94310 - Nifedipino 30 mg 30 cps 
-          PRODUCTOSTOCK INICIAL
-70604 - Verapamilo 80 mg/20 tab 
-          PRODUCTOSTOCK INICIAL
-29182 - Alfiler metalico 
-          PRODUCTOSTOCK INICIAL
-72450 - Boligrafo d/tinta seca. color verde. punta fina 
-          PRODUCTOSTOCK INICIAL
-17963 - Borrador d/caucho p/tinta. t: grande 
-          PRODUCTOSTOCK INICIAL
-97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
-          PRODUCTOSTOCK INICIAL
-71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
-          PRODUCTOSTOCK INICIAL
-31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
-          PRODUCTOSTOCK INICIAL
-57409 - Fastener metalico 
-          PRODUCTOSTOCK INICIAL
-58204 - Folder colgante c/varilla metalica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-23981 - Folder colgante c/varilla plastica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-42169 - Lapiz d/madera bicolor 
-          PRODUCTOSTOCK INICIAL
-55401 - Lapiz d/madera c/mina de grafito 2b 
-ALMACEN: 10003 - Almacen San Juan De Miraflores     DISTRITO: 15085
+          PRODUCTO                                               STOCK INICIAL
+70351 - Gelatina dany limon 125gr                                179.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr                              1538.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23195 - Tortillas de maiz 1kg                                    95.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+86545 - Corazones de orejona pza                                 2099.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g                      1450.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos                         59.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr                       2776.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr                         1711.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+76402 - Yoghurt lala light 240gr                                 2687.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr                   897.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+21583 - Vainilla molina 500ml                                    1622.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+52703 - Papaya                                                   1917.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr                            502.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr                           1632.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+61460 - Campana extractora modelo glass                          2700.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66435 - Lavadora automatica                                      606.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20413 - Cocina a gas ingenious                                   36.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+78931 - Refrigeradora door in door                               1033.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+85293 - Horno microondas 0.7 p3                                  643.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+68474 - Refrigeradora top mount                                  140.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22397 - Televisor serie led r555a                                1752.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41584 - Cocina a gas toscana                                     1491.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16913 - Parlantes portatiles soundshooter                        1947.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+43356 - Impresora mutifuncional led color                        2114.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+73510 - Dispensador de agua                                      1813.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29466 - Cocina electronica convencion                            1599.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20052 - Autoradio mex bt3150u                                    75.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44072 - Deshumedecedor dm-190h                                   1438.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18575 - Cocina a gas blogna                                      2317.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel                      1594.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+98824 - Tablets 10.1                                             82.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18683 - Tiamazol 5mg 20t                                         2890.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+74543 - Cefuroxima 250mg susp                                    2397.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55888 - Guayacol ampolleta 1ml                                   186.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41003 - Sucralfato 40 tab/1g                                     2183.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg                                   149.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+60829 - Digoxina 0.250 mg c/24                                   1049.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+92819 - Pravastatina 10 mg c/15                                  162.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+83464 - Hidrocortisona cra 30gr                                  59.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38853 - Bezocaina 10gr gel                                       839.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22303 - Cefadroxilo 250mg susp                                   1542.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+13450 - Fexofenadina c/10 180mg                                  2094.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+95819 - Calcio+vitamina d susp                                   571.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44031 - Amoxicilina+bromexina c12                                2732.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps                                  2315.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab                                  27.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29182 - Alfiler metalico                                         2237.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina          2023.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande                     161.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico              2333.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd.             673.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd.             2088.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+57409 - Fastener metalico                                        229.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio            2899.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio            1360.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+42169 - Lapiz d/madera bicolor                                   237.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b                      500.00
+--------------------------------------------------------------------------------
+ALMACEN: 10003 - Almacen San Juan De Miraflores DISTRITO: 15085
 ================================================================================
-          PRODUCTOSTOCK INICIAL
-70351 - Gelatina dany limon 125gr 
-          PRODUCTOSTOCK INICIAL
-18157 - Sal baja pacific bolsa 1kgr 
-          PRODUCTOSTOCK INICIAL
-23195 - Tortillas de maiz 1kg 
-          PRODUCTOSTOCK INICIAL
-86545 - Corazones de orejona pza 
-          PRODUCTOSTOCK INICIAL
-38304 - Yoghurt p beber lactigurt coco 250g 
-          PRODUCTOSTOCK INICIAL
-46108 - Polvo para hornear rexal 15kilos 
-          PRODUCTOSTOCK INICIAL
-16043 - Salsa de chile habanero rojo 260gr 
-          PRODUCTOSTOCK INICIAL
-66721 - Palomitas pofets flamin hot 28gr 
-          PRODUCTOSTOCK INICIAL
-76402 - Yoghurt lala light 240gr 
-          PRODUCTOSTOCK INICIAL
-39131 - Yoghurt fresa con granola chelsy 240gr 
-          PRODUCTOSTOCK INICIAL
-21583 - Vainilla molina 500ml 
-          PRODUCTOSTOCK INICIAL
-52703 - Papaya 
-          PRODUCTOSTOCK INICIAL
-46549 - Aguacate regional kg.1.000 gr 
-          PRODUCTOSTOCK INICIAL
-14616 - Flan lala sabor vainilla 100gr 
-          PRODUCTOSTOCK INICIAL
-61460 - Campana extractora modelo glass 
-          PRODUCTOSTOCK INICIAL
-66435 - Lavadora automatica 
-          PRODUCTOSTOCK INICIAL
-20413 - Cocina a gas ingenious 
-          PRODUCTOSTOCK INICIAL
-78931 - Refrigeradora door in door 
-          PRODUCTOSTOCK INICIAL
-85293 - Horno microondas 0.7 p3 
-          PRODUCTOSTOCK INICIAL
-68474 - Refrigeradora top mount 
-          PRODUCTOSTOCK INICIAL
-22397 - Televisor serie led r555a 
-          PRODUCTOSTOCK INICIAL
-41584 - Cocina a gas toscana 
-          PRODUCTOSTOCK INICIAL
-16913 - Parlantes portatiles soundshooter 
-          PRODUCTOSTOCK INICIAL
-43356 - Impresora mutifuncional led color 
-          PRODUCTOSTOCK INICIAL
-73510 - Dispensador de agua 
-          PRODUCTOSTOCK INICIAL
-29466 - Cocina electronica convencion 
-          PRODUCTOSTOCK INICIAL
-20052 - Autoradio mex bt3150u 
-          PRODUCTOSTOCK INICIAL
-44072 - Deshumedecedor dm-190h 
-          PRODUCTOSTOCK INICIAL
-18575 - Cocina a gas blogna 
-          PRODUCTOSTOCK INICIAL
-31389 - Refrigeradora  coolstyle 281a steel 
-          PRODUCTOSTOCK INICIAL
-98824 - Tablets 10.1 
-          PRODUCTOSTOCK INICIAL
-18683 - Tiamazol 5mg 20t 
-          PRODUCTOSTOCK INICIAL
-74543 - Cefuroxima 250mg susp 
-          PRODUCTOSTOCK INICIAL
-55888 - Guayacol ampolleta 1ml 
-          PRODUCTOSTOCK INICIAL
-41003 - Sucralfato 40 tab/1g 
-          PRODUCTOSTOCK INICIAL
-33947 - Diltiazem 30 tab/30 mg 
-          PRODUCTOSTOCK INICIAL
-60829 - Digoxina 0.250 mg c/24 
-          PRODUCTOSTOCK INICIAL
-92819 - Pravastatina 10 mg c/15 
-          PRODUCTOSTOCK INICIAL
-83464 - Hidrocortisona cra 30gr 
-          PRODUCTOSTOCK INICIAL
-38853 - Bezocaina 10gr gel 
-          PRODUCTOSTOCK INICIAL
-22303 - Cefadroxilo 250mg susp 
-          PRODUCTOSTOCK INICIAL
-13450 - Fexofenadina c/10 180mg 
-          PRODUCTOSTOCK INICIAL
-95819 - Calcio+vitamina d susp 
-          PRODUCTOSTOCK INICIAL
-44031 - Amoxicilina+bromexina c12 
-          PRODUCTOSTOCK INICIAL
-94310 - Nifedipino 30 mg 30 cps 
-          PRODUCTOSTOCK INICIAL
-70604 - Verapamilo 80 mg/20 tab 
-          PRODUCTOSTOCK INICIAL
-29182 - Alfiler metalico 
-          PRODUCTOSTOCK INICIAL
-72450 - Boligrafo d/tinta seca. color verde. punta fina 
-          PRODUCTOSTOCK INICIAL
-17963 - Borrador d/caucho p/tinta. t: grande 
-          PRODUCTOSTOCK INICIAL
-97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
-          PRODUCTOSTOCK INICIAL
-71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
-          PRODUCTOSTOCK INICIAL
-31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
-          PRODUCTOSTOCK INICIAL
-57409 - Fastener metalico 
-          PRODUCTOSTOCK INICIAL
-58204 - Folder colgante c/varilla metalica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-23981 - Folder colgante c/varilla plastica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-42169 - Lapiz d/madera bicolor 
-          PRODUCTOSTOCK INICIAL
-55401 - Lapiz d/madera c/mina de grafito 2b 
-ALMACEN: 10005 - Alamacen Central                   DISTRITO: 15166
+          PRODUCTO                                               STOCK INICIAL
+70351 - Gelatina dany limon 125gr                                2777.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr                              1179.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23195 - Tortillas de maiz 1kg                                    51.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+86545 - Corazones de orejona pza                                 920.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g                      51.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos                         46.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr                       866.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr                         2571.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+76402 - Yoghurt lala light 240gr                                 1694.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr                   2388.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+21583 - Vainilla molina 500ml                                    50.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+52703 - Papaya                                                   2506.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr                            94.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr                           2576.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+61460 - Campana extractora modelo glass                          57.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66435 - Lavadora automatica                                      1813.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20413 - Cocina a gas ingenious                                   26.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+78931 - Refrigeradora door in door                               2286.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+85293 - Horno microondas 0.7 p3                                  2489.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+68474 - Refrigeradora top mount                                  69.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22397 - Televisor serie led r555a                                1397.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41584 - Cocina a gas toscana                                     2676.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16913 - Parlantes portatiles soundshooter                        1848.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+43356 - Impresora mutifuncional led color                        1949.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+73510 - Dispensador de agua                                      1915.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29466 - Cocina electronica convencion                            71.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20052 - Autoradio mex bt3150u                                    2735.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44072 - Deshumedecedor dm-190h                                   2901.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18575 - Cocina a gas blogna                                      2792.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel                      2099.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+98824 - Tablets 10.1                                             1599.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18683 - Tiamazol 5mg 20t                                         240.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+74543 - Cefuroxima 250mg susp                                    1248.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55888 - Guayacol ampolleta 1ml                                   26.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41003 - Sucralfato 40 tab/1g                                     1118.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg                                   2903.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+60829 - Digoxina 0.250 mg c/24                                   60.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+92819 - Pravastatina 10 mg c/15                                  2940.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+83464 - Hidrocortisona cra 30gr                                  2009.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38853 - Bezocaina 10gr gel                                       1944.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22303 - Cefadroxilo 250mg susp                                   51.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+13450 - Fexofenadina c/10 180mg                                  2407.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+95819 - Calcio+vitamina d susp                                   683.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44031 - Amoxicilina+bromexina c12                                1749.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps                                  1845.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab                                  2015.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29182 - Alfiler metalico                                         2269.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina          2593.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande                     2465.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico              27.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd.             1833.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd.             2797.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+57409 - Fastener metalico                                        74.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio            82.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio            1776.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+42169 - Lapiz d/madera bicolor                                   1327.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b                      1315.00
+--------------------------------------------------------------------------------
+ALMACEN: 10005 - Alamacen Central              DISTRITO: 15166
 ================================================================================
-          PRODUCTOSTOCK INICIAL
-70351 - Gelatina dany limon 125gr 
-          PRODUCTOSTOCK INICIAL
-18157 - Sal baja pacific bolsa 1kgr 
-          PRODUCTOSTOCK INICIAL
-23195 - Tortillas de maiz 1kg 
-          PRODUCTOSTOCK INICIAL
-86545 - Corazones de orejona pza 
-          PRODUCTOSTOCK INICIAL
-38304 - Yoghurt p beber lactigurt coco 250g 
-          PRODUCTOSTOCK INICIAL
-46108 - Polvo para hornear rexal 15kilos 
-          PRODUCTOSTOCK INICIAL
-16043 - Salsa de chile habanero rojo 260gr 
-          PRODUCTOSTOCK INICIAL
-66721 - Palomitas pofets flamin hot 28gr 
-          PRODUCTOSTOCK INICIAL
-76402 - Yoghurt lala light 240gr 
-          PRODUCTOSTOCK INICIAL
-39131 - Yoghurt fresa con granola chelsy 240gr 
-          PRODUCTOSTOCK INICIAL
-21583 - Vainilla molina 500ml 
-          PRODUCTOSTOCK INICIAL
-52703 - Papaya 
-          PRODUCTOSTOCK INICIAL
-46549 - Aguacate regional kg.1.000 gr 
-          PRODUCTOSTOCK INICIAL
-14616 - Flan lala sabor vainilla 100gr 
-          PRODUCTOSTOCK INICIAL
-61460 - Campana extractora modelo glass 
-          PRODUCTOSTOCK INICIAL
-66435 - Lavadora automatica 
-          PRODUCTOSTOCK INICIAL
-20413 - Cocina a gas ingenious 
-          PRODUCTOSTOCK INICIAL
-78931 - Refrigeradora door in door 
-          PRODUCTOSTOCK INICIAL
-85293 - Horno microondas 0.7 p3 
-          PRODUCTOSTOCK INICIAL
-68474 - Refrigeradora top mount 
-          PRODUCTOSTOCK INICIAL
-22397 - Televisor serie led r555a 
-          PRODUCTOSTOCK INICIAL
-41584 - Cocina a gas toscana 
-          PRODUCTOSTOCK INICIAL
-16913 - Parlantes portatiles soundshooter 
-          PRODUCTOSTOCK INICIAL
-43356 - Impresora mutifuncional led color 
-          PRODUCTOSTOCK INICIAL
-73510 - Dispensador de agua 
-          PRODUCTOSTOCK INICIAL
-29466 - Cocina electronica convencion 
-          PRODUCTOSTOCK INICIAL
-20052 - Autoradio mex bt3150u 
-          PRODUCTOSTOCK INICIAL
-44072 - Deshumedecedor dm-190h 
-          PRODUCTOSTOCK INICIAL
-18575 - Cocina a gas blogna 
-          PRODUCTOSTOCK INICIAL
-31389 - Refrigeradora  coolstyle 281a steel 
-          PRODUCTOSTOCK INICIAL
-98824 - Tablets 10.1 
-          PRODUCTOSTOCK INICIAL
-18683 - Tiamazol 5mg 20t 
-          PRODUCTOSTOCK INICIAL
-74543 - Cefuroxima 250mg susp 
-          PRODUCTOSTOCK INICIAL
-55888 - Guayacol ampolleta 1ml 
-          PRODUCTOSTOCK INICIAL
-41003 - Sucralfato 40 tab/1g 
-          PRODUCTOSTOCK INICIAL
-33947 - Diltiazem 30 tab/30 mg 
-          PRODUCTOSTOCK INICIAL
-60829 - Digoxina 0.250 mg c/24 
-          PRODUCTOSTOCK INICIAL
-92819 - Pravastatina 10 mg c/15 
-          PRODUCTOSTOCK INICIAL
-83464 - Hidrocortisona cra 30gr 
-          PRODUCTOSTOCK INICIAL
-38853 - Bezocaina 10gr gel 
-          PRODUCTOSTOCK INICIAL
-22303 - Cefadroxilo 250mg susp 
-          PRODUCTOSTOCK INICIAL
-13450 - Fexofenadina c/10 180mg 
-          PRODUCTOSTOCK INICIAL
-95819 - Calcio+vitamina d susp 
-          PRODUCTOSTOCK INICIAL
-44031 - Amoxicilina+bromexina c12 
-          PRODUCTOSTOCK INICIAL
-94310 - Nifedipino 30 mg 30 cps 
-          PRODUCTOSTOCK INICIAL
-70604 - Verapamilo 80 mg/20 tab 
-          PRODUCTOSTOCK INICIAL
-29182 - Alfiler metalico 
-          PRODUCTOSTOCK INICIAL
-72450 - Boligrafo d/tinta seca. color verde. punta fina 
-          PRODUCTOSTOCK INICIAL
-17963 - Borrador d/caucho p/tinta. t: grande 
-          PRODUCTOSTOCK INICIAL
-97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
-          PRODUCTOSTOCK INICIAL
-71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
-          PRODUCTOSTOCK INICIAL
-31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
-          PRODUCTOSTOCK INICIAL
-57409 - Fastener metalico 
-          PRODUCTOSTOCK INICIAL
-58204 - Folder colgante c/varilla metalica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-23981 - Folder colgante c/varilla plastica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-42169 - Lapiz d/madera bicolor 
-          PRODUCTOSTOCK INICIAL
-55401 - Lapiz d/madera c/mina de grafito 2b 
-ALMACEN: 10007 - Almacen Villa Maria Del Triunfo    DISTRITO: 15156
+          PRODUCTO                                               STOCK INICIAL
+70351 - Gelatina dany limon 125gr                                1095.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr                              2360.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23195 - Tortillas de maiz 1kg                                    431.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+86545 - Corazones de orejona pza                                 49.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g                      2356.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos                         400.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr                       2667.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr                         563.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+76402 - Yoghurt lala light 240gr                                 79.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr                   38.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+21583 - Vainilla molina 500ml                                    38.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+52703 - Papaya                                                   1602.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr                            347.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr                           377.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+61460 - Campana extractora modelo glass                          2545.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66435 - Lavadora automatica                                      1357.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20413 - Cocina a gas ingenious                                   186.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+78931 - Refrigeradora door in door                               1068.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+85293 - Horno microondas 0.7 p3                                  44.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+68474 - Refrigeradora top mount                                  2020.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22397 - Televisor serie led r555a                                484.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41584 - Cocina a gas toscana                                     817.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16913 - Parlantes portatiles soundshooter                        972.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+43356 - Impresora mutifuncional led color                        68.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+73510 - Dispensador de agua                                      1119.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29466 - Cocina electronica convencion                            26.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20052 - Autoradio mex bt3150u                                    89.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44072 - Deshumedecedor dm-190h                                   444.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18575 - Cocina a gas blogna                                      1115.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel                      1949.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+98824 - Tablets 10.1                                             800.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18683 - Tiamazol 5mg 20t                                         35.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+74543 - Cefuroxima 250mg susp                                    1445.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55888 - Guayacol ampolleta 1ml                                   199.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41003 - Sucralfato 40 tab/1g                                     2877.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg                                   718.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+60829 - Digoxina 0.250 mg c/24                                   42.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+92819 - Pravastatina 10 mg c/15                                  2722.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+83464 - Hidrocortisona cra 30gr                                  81.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38853 - Bezocaina 10gr gel                                       1568.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22303 - Cefadroxilo 250mg susp                                   194.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+13450 - Fexofenadina c/10 180mg                                  1232.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+95819 - Calcio+vitamina d susp                                   29.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44031 - Amoxicilina+bromexina c12                                12.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps                                  829.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab                                  222.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29182 - Alfiler metalico                                         2031.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina          1191.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande                     17.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico              1455.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd.             346.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd.             419.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+57409 - Fastener metalico                                        163.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio            51.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio            1786.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+42169 - Lapiz d/madera bicolor                                   920.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b                      2023.00
+--------------------------------------------------------------------------------
+ALMACEN: 10007 - Almacen Villa Maria Del Triunfo DISTRITO: 15156
 ================================================================================
-          PRODUCTOSTOCK INICIAL
-70351 - Gelatina dany limon 125gr 
-          PRODUCTOSTOCK INICIAL
-18157 - Sal baja pacific bolsa 1kgr 
-          PRODUCTOSTOCK INICIAL
-23195 - Tortillas de maiz 1kg 
-          PRODUCTOSTOCK INICIAL
-86545 - Corazones de orejona pza 
-          PRODUCTOSTOCK INICIAL
-38304 - Yoghurt p beber lactigurt coco 250g 
-          PRODUCTOSTOCK INICIAL
-46108 - Polvo para hornear rexal 15kilos 
-          PRODUCTOSTOCK INICIAL
-16043 - Salsa de chile habanero rojo 260gr 
-          PRODUCTOSTOCK INICIAL
-66721 - Palomitas pofets flamin hot 28gr 
-          PRODUCTOSTOCK INICIAL
-76402 - Yoghurt lala light 240gr 
-          PRODUCTOSTOCK INICIAL
-39131 - Yoghurt fresa con granola chelsy 240gr 
-          PRODUCTOSTOCK INICIAL
-21583 - Vainilla molina 500ml 
-          PRODUCTOSTOCK INICIAL
-52703 - Papaya 
-          PRODUCTOSTOCK INICIAL
-46549 - Aguacate regional kg.1.000 gr 
-          PRODUCTOSTOCK INICIAL
-14616 - Flan lala sabor vainilla 100gr 
-          PRODUCTOSTOCK INICIAL
-61460 - Campana extractora modelo glass 
-          PRODUCTOSTOCK INICIAL
-66435 - Lavadora automatica 
-          PRODUCTOSTOCK INICIAL
-20413 - Cocina a gas ingenious 
-          PRODUCTOSTOCK INICIAL
-78931 - Refrigeradora door in door 
-          PRODUCTOSTOCK INICIAL
-85293 - Horno microondas 0.7 p3 
-          PRODUCTOSTOCK INICIAL
-68474 - Refrigeradora top mount 
-          PRODUCTOSTOCK INICIAL
-22397 - Televisor serie led r555a 
-          PRODUCTOSTOCK INICIAL
-41584 - Cocina a gas toscana 
-          PRODUCTOSTOCK INICIAL
-16913 - Parlantes portatiles soundshooter 
-          PRODUCTOSTOCK INICIAL
-43356 - Impresora mutifuncional led color 
-          PRODUCTOSTOCK INICIAL
-73510 - Dispensador de agua 
-          PRODUCTOSTOCK INICIAL
-29466 - Cocina electronica convencion 
-          PRODUCTOSTOCK INICIAL
-20052 - Autoradio mex bt3150u 
-          PRODUCTOSTOCK INICIAL
-44072 - Deshumedecedor dm-190h 
-          PRODUCTOSTOCK INICIAL
-18575 - Cocina a gas blogna 
-          PRODUCTOSTOCK INICIAL
-31389 - Refrigeradora  coolstyle 281a steel 
-          PRODUCTOSTOCK INICIAL
-98824 - Tablets 10.1 
-          PRODUCTOSTOCK INICIAL
-18683 - Tiamazol 5mg 20t 
-          PRODUCTOSTOCK INICIAL
-74543 - Cefuroxima 250mg susp 
-          PRODUCTOSTOCK INICIAL
-55888 - Guayacol ampolleta 1ml 
-          PRODUCTOSTOCK INICIAL
-41003 - Sucralfato 40 tab/1g 
-          PRODUCTOSTOCK INICIAL
-33947 - Diltiazem 30 tab/30 mg 
-          PRODUCTOSTOCK INICIAL
-60829 - Digoxina 0.250 mg c/24 
-          PRODUCTOSTOCK INICIAL
-92819 - Pravastatina 10 mg c/15 
-          PRODUCTOSTOCK INICIAL
-83464 - Hidrocortisona cra 30gr 
-          PRODUCTOSTOCK INICIAL
-38853 - Bezocaina 10gr gel 
-          PRODUCTOSTOCK INICIAL
-22303 - Cefadroxilo 250mg susp 
-          PRODUCTOSTOCK INICIAL
-13450 - Fexofenadina c/10 180mg 
-          PRODUCTOSTOCK INICIAL
-95819 - Calcio+vitamina d susp 
-          PRODUCTOSTOCK INICIAL
-44031 - Amoxicilina+bromexina c12 
-          PRODUCTOSTOCK INICIAL
-94310 - Nifedipino 30 mg 30 cps 
-          PRODUCTOSTOCK INICIAL
-70604 - Verapamilo 80 mg/20 tab 
-          PRODUCTOSTOCK INICIAL
-29182 - Alfiler metalico 
-          PRODUCTOSTOCK INICIAL
-72450 - Boligrafo d/tinta seca. color verde. punta fina 
-          PRODUCTOSTOCK INICIAL
-17963 - Borrador d/caucho p/tinta. t: grande 
-          PRODUCTOSTOCK INICIAL
-97340 - Borrador d/caucho p/tinta y lapiz. t: chico 
-          PRODUCTOSTOCK INICIAL
-71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd. 
-          PRODUCTOSTOCK INICIAL
-31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd. 
-          PRODUCTOSTOCK INICIAL
-57409 - Fastener metalico 
-          PRODUCTOSTOCK INICIAL
-58204 - Folder colgante c/varilla metalica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-23981 - Folder colgante c/varilla plastica. t: oficio 
-          PRODUCTOSTOCK INICIAL
-42169 - Lapiz d/madera bicolor 
-          PRODUCTOSTOCK INICIAL
-55401 - Lapiz d/madera c/mina de grafito 2b 
+          PRODUCTO                                               STOCK INICIAL
+70351 - Gelatina dany limon 125gr                                1147.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18157 - Sal baja pacific bolsa 1kgr                              629.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23195 - Tortillas de maiz 1kg                                    984.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+86545 - Corazones de orejona pza                                 620.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38304 - Yoghurt p beber lactigurt coco 250g                      2801.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46108 - Polvo para hornear rexal 15kilos                         555.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16043 - Salsa de chile habanero rojo 260gr                       2612.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66721 - Palomitas pofets flamin hot 28gr                         1267.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+76402 - Yoghurt lala light 240gr                                 2016.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+39131 - Yoghurt fresa con granola chelsy 240gr                   98.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+21583 - Vainilla molina 500ml                                    917.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+52703 - Papaya                                                   681.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+46549 - Aguacate regional kg.1.000 gr                            20.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+14616 - Flan lala sabor vainilla 100gr                           161.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+61460 - Campana extractora modelo glass                          1815.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+66435 - Lavadora automatica                                      1249.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20413 - Cocina a gas ingenious                                   561.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+78931 - Refrigeradora door in door                               82.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+85293 - Horno microondas 0.7 p3                                  2352.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+68474 - Refrigeradora top mount                                  580.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22397 - Televisor serie led r555a                                61.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41584 - Cocina a gas toscana                                     2063.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+16913 - Parlantes portatiles soundshooter                        525.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+43356 - Impresora mutifuncional led color                        425.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+73510 - Dispensador de agua                                      709.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29466 - Cocina electronica convencion                            736.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+20052 - Autoradio mex bt3150u                                    402.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44072 - Deshumedecedor dm-190h                                   77.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18575 - Cocina a gas blogna                                      1109.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31389 - Refrigeradora  coolstyle 281a steel                      2113.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+98824 - Tablets 10.1                                             59.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+18683 - Tiamazol 5mg 20t                                         527.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+74543 - Cefuroxima 250mg susp                                    263.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55888 - Guayacol ampolleta 1ml                                   2495.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+41003 - Sucralfato 40 tab/1g                                     1150.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+33947 - Diltiazem 30 tab/30 mg                                   50.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+60829 - Digoxina 0.250 mg c/24                                   696.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+92819 - Pravastatina 10 mg c/15                                  83.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+83464 - Hidrocortisona cra 30gr                                  895.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+38853 - Bezocaina 10gr gel                                       1513.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+22303 - Cefadroxilo 250mg susp                                   2519.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+13450 - Fexofenadina c/10 180mg                                  1267.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+95819 - Calcio+vitamina d susp                                   923.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+44031 - Amoxicilina+bromexina c12                                99.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+94310 - Nifedipino 30 mg 30 cps                                  98.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+70604 - Verapamilo 80 mg/20 tab                                  639.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+29182 - Alfiler metalico                                         973.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+72450 - Boligrafo d/tinta seca. color verde. punta fina          86.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+17963 - Borrador d/caucho p/tinta. t: grande                     1257.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+97340 - Borrador d/caucho p/tinta y lapiz. t: chico              2599.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+71509 - Cinta adhesiva transparente. t: 1/2 x 72 yd.             2854.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+31855 - Cinta adhesiva transparente. t: 3/4 x 36 yd.             94.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+57409 - Fastener metalico                                        714.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+58204 - Folder colgante c/varilla metalica. t: oficio            1666.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+23981 - Folder colgante c/varilla plastica. t: oficio            1875.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+42169 - Lapiz d/madera bicolor                                   2711.00
+--------------------------------------------------------------------------------
+          PRODUCTO                                               STOCK INICIAL
+55401 - Lapiz d/madera c/mina de grafito 2b                      93.00
+--------------------------------------------------------------------------------
