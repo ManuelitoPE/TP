@@ -18,22 +18,38 @@ int compresionCiclo(int ano,int ciclo);
 void emitirReporteSimple(int num_escalas,int* ARRanoEscalas,
                     char* ARRescalaEscalas
                     ,double* ARRmontoEscalas);
+void descomprimir(int num,int& ano,int& ciclo);
+
     //Actualizando
 void acutlizandoDatos(int num_alumnos,int num_escalas,int num_cursos,
                     int* ARRcodigoAlumnos,int* ARRcodigoCursos,
                     int* ARRanoEscalas,char* ARRescalaAlumnos,
                     char* ARRescalaEscalas,double* ARRcreditoCursos
                     ,double* ARRmontoEscalas,int* ARRcantidad,
-                    double* ARRcantCreditos,double* ARRtotalIngresos);
+                    double* ARRcantCreditos,
+                    const char* nomArch);
+char busquedaEscala(int* ARRcodigoAlumnos,char* ARRescalaAlumnos,
+                               int codigoAlumno,int num_alumnos);
+int busquedaPosicion_escala(int anoREF,int cicloREF,
+                        char escalaREF,int* ARRanoEscalas,char* 
+                        ARRescalaEscalas,int num_escalas);
+void sumaCantidadCreditos(double* ARRcantCreditos,int posicion_escala
+                        ,int* ARRcodigoCursos,double* ARRcreditoCursos,
+                        ifstream& arch,int num_cursos);
+int buscarCredito(int* ARRcodigoCursos,int codigoREF,int num_cursos);
     //Ordenamos los datos
-void ordenar(int* ARRanoEscalas,char* ARRescalaAlumnos,
+void ordenar(int* ARRanoEscalas,char* ARRescala,
             int* ARRcantidad,double* ARRmontoEscalas
-            ,double* ARRcantCreditos,double* ARRtotalIngresos,
+            ,double* ARRcantCreditos,
             int num_escalas);
+void cambiarInt(int& a,int& b);
+void cambiarDouble(double& a,double& b);
+void cambiarChar(char& a,char& b);
     //Emitir el reporte final
-void reporte(int* ARRanoEscalas,char* ARRescalaAlumnos,
+void reporte(int* ARRanoEscalas,char* ARRescala,
             int* ARRcantidad,double* ARRmontoEscalas
-            ,double* ARRcantCreditos,double* ARRtotalIngresos,
+            ,double* ARRcantCreditos,
             int num_escalas
             ,const char* nomArch);
+void linea(ofstream& arch,int num,char signo);
 #endif

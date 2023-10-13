@@ -14,8 +14,8 @@ int main(int argc, char** argv){
     char ARRescalaAlumnos[MAX_ALUMNOS], ARRescalaEscalas[MAX_ESCALAS];
     double ARRcreditoCursos[MAX_CURSOS],ARRmontoEscalas[MAX_ESCALAS];
     //ARREGLOS PARA MI INFORME
-    int ARRcantidad[MAX_ESCALAS];
-    double ARRtotalIngresos[MAX_ESCALAS],ARRcantCreditos[MAX_ESCALAS];
+    int ARRcantidad[MAX_ESCALAS]{};
+    double ARRcantCreditos[MAX_ESCALAS]{};
     //lectura del Alumnos.txt
     lecturaARRalumnos(num_alumnos,ARRcodigoAlumnos,ARRescalaAlumnos
                     ,"source/docs/Alumnos.txt");
@@ -26,21 +26,23 @@ int main(int argc, char** argv){
     lecturaARRescalas(num_escalas,ARRanoEscalas,ARRescalaEscalas
                     ,ARRmontoEscalas,"source/docs/Escalas.txt");
     //Emitir un reporte simple
-    emitirReporteSimple(num_escalas,ARRanoEscalas,ARRescalaEscalas
-                    ,ARRmontoEscalas);
+    // emitirReporteSimple(num_escalas,ARRanoEscalas,ARRescalaEscalas
+    //                 ,ARRmontoEscalas);
+    
     //Actualizando
     acutlizandoDatos(num_alumnos,num_escalas,num_cursos,
                     ARRcodigoAlumnos,ARRcodigoCursos,ARRanoEscalas,
                     ARRescalaAlumnos,ARRescalaEscalas,
                     ARRcreditoCursos,ARRmontoEscalas,
                     ARRcantidad,ARRcantCreditos,
-                    ARRtotalIngresos);
+                
+                    "source/docs/Matricula.txt");
     //Ordenamos los datos
-    ordenar(ARRanoEscalas,ARRescalaAlumnos,ARRcantidad,ARRmontoEscalas
-            ,ARRcantCreditos,ARRtotalIngresos,num_escalas);
+    ordenar(ARRanoEscalas,ARRescalaEscalas,ARRcantidad,ARRmontoEscalas
+            ,ARRcantCreditos,num_escalas);
     //Emitir el reporte final
-    reporte(ARRanoEscalas,ARRescalaAlumnos,ARRcantidad,ARRmontoEscalas
-            ,ARRcantCreditos,ARRtotalIngresos,num_escalas
+    reporte(ARRanoEscalas,ARRescalaEscalas,ARRcantidad,ARRmontoEscalas
+            ,ARRcantCreditos,num_escalas
             ,"source/docs/Reporte.txt");
     return 0;
 }
