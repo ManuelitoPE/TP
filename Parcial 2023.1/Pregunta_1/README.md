@@ -1,1 +1,1 @@
-# TP-Arreglos de la clase "Tecnicas de Programacion, Guanira"
+# Examen Parcial del 2023.1"
