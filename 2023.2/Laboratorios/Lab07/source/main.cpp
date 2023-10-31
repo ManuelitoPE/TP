@@ -1,15 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cppFiles/main.cc to edit this template
- */
-
-/* 
- * File:   main.cpp
- * Author: Sergio Manuel Sutta Pinedo 20210646
- *
- * Created on 30 de octubre de 2023, 07:06 PM
- */
-
+//Author:MAKO
 #include <iostream>
 #include<iomanip>
 #include<cstring>
@@ -24,6 +13,7 @@ using namespace std;
 int main(int argc, char** argv) {
     //variables
     int ciclo;
+    double total=0;
     //Cantidad de datos
     int num_alumno=0,num_escala=0,num_curso=0;
     //Arreglos para alumnoss
@@ -39,7 +29,6 @@ int main(int argc, char** argv) {
     //ARREGLOS PARA EL INFORME
     int ARRnum_cursos[MAX_ALUMNO]{};
     double ARRnum_creditos[MAX_ALUMNO]{},ARRmonto_pagado[MAX_ALUMNO]{};
-    
     //Solicitar datos
     solicitarDatosAlUsuario(ciclo);
     //Leer datos alumnos
@@ -48,7 +37,7 @@ int main(int argc, char** argv) {
                     "source/docs/Alumnos.txt");
     //Leer datos cursos
     leerDatosCurso(ARRcodigoCurso,ARRcreditoCurso,num_curso,
-                    "source/docs/Cursos.txt");
+                   "source/docs/Cursos.txt");
     //Leer datos escalas 
     leerDatosEscala(ARRcicloEscala,ARRescalaEscala,ARRcostoEscala,
                     num_escala,"source/docs/Escalas.txt");
@@ -58,10 +47,17 @@ int main(int argc, char** argv) {
                     ARRcodigoCurso,ARRcreditoCurso,ARRcicloEscala,
                     ARRescalaEscala,ARRcostoEscala,ARRnum_cursos,
                     ARRnum_creditos,ARRmonto_pagado,"source/docs/Matricula.txt");
+    //Ordenar datos
+    ordenarDatos(num_alumno,ARRcodigoAlumno,ARRnombreAlumno,
+                  ARRescalaAlumno,ARRnum_cursos,
+                  ARRnum_creditos,ARRmonto_pagado);
+    //Calcular monto total
+    calcularMonto(total,ARRmonto_pagado,num_alumno);
     //Emitir reporte
-     emitirReporte(ciclo,num_alumno,ARRcodigoAlumno,ARRnombreAlumno,
-                    ARRescalaAlumno,ARRnum_cursos,
-                    ARRnum_creditos,ARRmonto_pagado,"source/docs/ReporteDePagoPorAlumno.txt");
+    emitirReporte(ciclo,num_alumno,ARRcodigoAlumno,ARRnombreAlumno,
+                  ARRescalaAlumno,ARRnum_cursos,
+                  ARRnum_creditos,ARRmonto_pagado,total,
+                  "source/docs/ReporteDePagoPorAlumno.txt");
    
      return 0;
 }

@@ -1,15 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cppFiles/file.h to edit this template
- */
-
-/* 
- * File:   funciones.h
- * Author: Sergio Manuel Sutta Pinedo 20210646
- *
- * Created on 30 de octubre de 2023, 07:08 PM
- */
-
+//Author:MAKO
 #ifndef FUNCIONES_H
 #define FUNCIONES_H
 #include<fstream>
@@ -22,8 +11,9 @@ void leerDatosAlumno(int* ARRcodigoAlumno,char** ARRnombreAlumno,
                     const char* nomArch);
 char* leerNombreExacto(ifstream& arch,char delimitador);
 void ordenarAlumnos(int* ARRcodigoAlumno,char** ARRnombreAlumno, 
-             char* ARRescalaAlumno,int& num_alumno,
-             int codigo,char* nombre,char escala);
+                    char* ARRescalaAlumno,int& num_alumno,
+                    int codigo,char* nombre,char escala);
+void nombreEdicion(char** ARRnombreAlumno,int num_alumno);
     //Leer datos cursos
 void leerDatosCurso(int* ARRcodigoCurso,double* ARRcreditoCurso,
                     int& num_curso,const char* nomArch);
@@ -46,18 +36,28 @@ void lecturaDecursos(int ciclo,int num_alumno,int num_escala,int num_curso,
                     double *ARRcreditoCurso,int* ARRcicloEscala,
                     char* ARRescalaEscala,double* ARRcostoEscala,
                     int* ARRnum_cursos,double* ARRnum_creditos,
-                    double* ARRmonto_pagado,ifstream& arch
-                    ,int codigoAlumno,bool& saltar);
+                    double* ARRmonto_pagado,ifstream& arch,
+                    int codigoAlumno,bool& saltar);
 int buscarPosicion(int codigoAlumno,int* ARRcodigoAlumno,
-                        int num_alumno);
+                    int num_alumno);
 int buscarPosicionEscala(int ciclo,char ARRescalaAlumno,
-                 int* ARRcicloEscala,char* ARRescalaEscala,
-                 int num_escala);
+                        int* ARRcicloEscala,char* ARRescalaEscala,
+                        int num_escala);
+//Ordenar datos
+void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
+                char** ARRnombreAlumno,
+                char* ARRescalaAlumno,int* ARRnum_cursos,
+                double* ARRnum_creditos,double* ARRmonto_pagado);
+    //Calcular monto total
+void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno);
 void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,
-                   char** ARRnombreAlumno,
-                   char* ARRescalaAlumno,int* ARRnum_cursos,
-                   double* ARRnum_creditos,double* ARRmonto_pagado,
-                     const char* nomArch);
+                    char** ARRnombreAlumno,
+                    char* ARRescalaAlumno,int* ARRnum_cursos,
+                    double* ARRnum_creditos,double* ARRmonto_pagado,
+                    double total,const char* nomArch);
 void descomprimir(int ciclo,int& anio,int& cicloREF);
+void encabezado(ofstream& arch,int anio,int cicloREF);
+void linea(ofstream& arch, int num, char signo);
+
 #endif /* FUNCIONES_H */
 

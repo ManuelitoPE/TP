@@ -1,14 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/cppFiles/file.cc to edit this template
- */
-//Author:Sergio Manuel Sutta Pinedo 20210646
+//Author:MAKO
 #include<iostream>
 #include<iomanip>
 #include<fstream>
 #include<cstring>
 using namespace std;
 #include "../header/funciones.h"
+#define MAX_LINEA 90
 //Solicitar datos
 void solicitarDatosAlUsuario(int& ciclo){
 //    int anio,cicloREF;
@@ -48,6 +45,7 @@ void leerDatosAlumno(int* ARRcodigoAlumno,char** ARRnombreAlumno,
                 ARRescalaAlumno,num_alumno,ARRcodigoAlumno[num_alumno],
                 ARRnombreAlumno[num_alumno],ARRescalaAlumno[num_alumno]);
     }
+    nombreEdicion(ARRnombreAlumno,num_alumno);
 }
 char* leerNombreExacto(ifstream& arch,char delimitador){
     char *ptr,buff[100];
@@ -72,6 +70,22 @@ void ordenarAlumnos(int* ARRcodigoAlumno,char** ARRnombreAlumno,
     ARRescalaAlumno[i+1]=escala;
     num_alumno++;
 }
+    //Cambiamos el nombre a nombreEdicion
+void nombreEdicion(char** ARRnombreAlumno,int num_alumno){
+    char* ptr;
+    char* espacio;
+    for(int i=0;i<num_alumno;i++){
+        ptr=ARRnombreAlumno[i];
+        for(int j=0;ptr[j];j++){
+            //Le quitamos los espacios    
+            if(ptr[j]=='_')ptr[j]=' ';
+            else{
+                ptr[j]-=(ptr[j]>='A' and ptr[j]<='Z')?0:'a'-'A';
+            }
+        }
+    }
+}
+
     //Leer datos cursos
 void leerDatosCurso(int* ARRcodigoCurso,double* ARRcreditoCurso,
                     int& num_curso,const char* nomArch){
@@ -140,15 +154,15 @@ void actualizarDatos(int ciclo,int num_alumno,int num_escala,int num_curso,
         exit(1);
     }
     //Variables
-    int anio,cicloA,cicloREF,codigoAlumno;
+    int anio_matricula,ciclo_matricula,cicloREF,codigoAlumno;
     char c;
     
     while(true){
         bool saltar=true;
-        arch>>anio>>c>>cicloA;
+        arch>>anio_matricula>>c>>ciclo_matricula;
         if(arch.eof())break;
-        cicloREF=comprimirDatos(anio,cicloA);
-        
+        cicloREF=comprimirDatos(anio_matricula,ciclo_matricula);
+        //Verificamos el ciclo
         if(cicloREF==ciclo){
             arch>>codigoAlumno;
             lecturaDecursos(ciclo,num_alumno,num_escala,num_curso,
@@ -174,6 +188,7 @@ void lecturaDecursos(int ciclo,int num_alumno,int num_escala,int num_curso,
                     double* ARRmonto_pagado,ifstream& arch
                     ,int codigoAlumno,bool& saltar){
     int codigoCurso,pos,pos2,pos3;
+    //Buscamos la posicion del alumno
     pos=buscarPosicion(codigoAlumno,ARRcodigoAlumno,num_alumno);
     if(pos==-1){
         cout<<"Alumno no encontrado"<<endl;
@@ -181,19 +196,24 @@ void lecturaDecursos(int ciclo,int num_alumno,int num_escala,int num_curso,
     }
     while(true){
         arch>>codigoCurso;
+        //Sumamos la cantidad de cursos
         ARRnum_cursos[pos]++;
+        //Buscamos la posicion del curso
         pos2=buscarPosicion(codigoCurso,ARRcodigoCurso,num_curso);
         if(pos2==-1){
         cout<<"Curso no encontrado"<<endl;
         exit(1);
         }
+        //Sumamos la cantidad de creditos
         ARRnum_creditos[pos]+=ARRcreditoCurso[pos2];
+        //Buscamos la posicon del monto de la escala del alumno
         pos3=buscarPosicionEscala(ciclo,ARRescalaAlumno[pos],
                  ARRcicloEscala,ARRescalaEscala,num_escala);
         if(pos3==-1){
         cout<<"No encontrado"<<endl;
         exit(1);
         }
+
         ARRmonto_pagado[pos]+=ARRcostoEscala[pos3]*ARRcreditoCurso[pos2];
         if(arch.get()=='\n'){
             saltar=false;
@@ -203,6 +223,7 @@ void lecturaDecursos(int ciclo,int num_alumno,int num_escala,int num_curso,
 }
 int buscarPosicion(int codigo,int* ARR,
                         int num){
+    //Busqueda binaria
     int limitInf=0,limitSup=num-1;
     int ptomedio;
     while(true){
@@ -213,38 +234,78 @@ int buscarPosicion(int codigo,int* ARR,
         if(ARR[ptomedio]<codigo)limitInf=ptomedio+1;
     }
 }
-    int buscarPosicionEscala(int ciclo,char ARRescalaAlumno,
-                     int* ARRcicloEscala,char* ARRescalaEscala,
-                     int num_escala){
+int buscarPosicionEscala(int ciclo,char ARRescalaAlumno,
+                         int* ARRcicloEscala,char* ARRescalaEscala,
+                         int num_escala){
     for(int i=0;i<num_escala;i++){
         if(ARRcicloEscala[i]==ciclo 
-                and ARRescalaAlumno==ARRescalaEscala[i])return i;
+           and ARRescalaAlumno==ARRescalaEscala[i])return i;
     }
     return -1;
 }
+//Ordenar datos
+void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
+                char** ARRnombreAlumno,
+                char* ARRescalaAlumno,int* ARRnum_cursos,
+                double* ARRnum_creditos,double* ARRmonto_pagado){
+    // for(int i=0;i<num_alumno-1;i++){
+    //     for(int j=i+1;j<num_alumno;j++){
+    //         if(){
+
+    //         }
+    //     }
+    // }
+}
+    //Calcular monto total
+void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno){
+    for(int i=0;i<num_alumno;i++){
+        total+=ARRmonto_pagado[i];
+    }
+}
 void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,
-                   char** ARRnombreAlumno,
-                   char* ARRescalaAlumno,int* ARRnum_cursos,
-                   double* ARRnum_creditos,double* ARRmonto_pagado,
-                     const char* nomArch){
+                char** ARRnombreAlumno,
+                char* ARRescalaAlumno,int* ARRnum_cursos,
+                double* ARRnum_creditos,double* ARRmonto_pagado,
+                double total,const char* nomArch){
     ofstream arch(nomArch,ios::out);
     if(not arch.is_open()){
         cout<<"ERROR: Se produjo un error al abrir el arch "<<nomArch<<endl;
         exit(1);
     }
+    //Descomprimimos nuestro ciclo
     int anio,cicloREF;
     descomprimir(ciclo,anio,cicloREF);
-    arch<<"INSTITUCION EDUCATIVA_TP"<<endl;
-        arch<<"DETALLE DE PAGOS REALIZADOS POR CICLO"<<endl;
-        arch<<"CICLO: "<<anio<<" - "<<cicloREF<<endl;
+    //Encabezado
+    encabezado(arch,anio,cicloREF);
         for(int i=0;i<num_alumno;i++){
-            arch<<setfill('0')<<right<<setw(2)<<i<<")"<<left<<setfill(' ')
-                    <<ARRcodigoAlumno[i]<<setw(4)<<" - "<<ARRnombreAlumno[i]
-                    <<setw(4)<<" "<<ARRnum_cursos[i]<<setw(4)<<" "<<ARRnum_creditos[i]
-                    <<setw(4)<<" "<<ARRmonto_pagado[i]<<endl;
+            arch<<setw(5)<<" "<<setfill('0')<<right<<setw(2)<<i+1<<")"
+                <<left<<setfill(' ')<<ARRcodigoAlumno[i]<<setw(4)<<"  -  "
+                <<setw(35)<<ARRnombreAlumno[i]
+                <<setw(7)<<ARRnum_cursos[i]
+                <<setw(10)<<ARRnum_creditos[i]<<right
+                <<setw(10)<<ARRmonto_pagado[i]<<endl<<left;
         }
+    linea(arch,MAX_LINEA,'-');
+    arch<<"Monto total de todos los estudiantes: "<<total<<endl;
+    linea(arch,MAX_LINEA,'=');
 }
 void descomprimir(int ciclo,int& anio,int& cicloREF){
     anio=ciclo/10;
     cicloREF=ciclo%10;
+}
+void encabezado(ofstream& arch,int anio,int cicloREF){
+    arch<<setw(50)<<"INSTITUCION EDUCATIVA_TP"<<endl
+        <<setw(55)<<"DETALLE DE PAGOS REALIZADOS POR CICLO"<<endl
+        <<setw(38)<<"CICLO: "<<anio<<" - "<<cicloREF<<endl;
+    linea(arch,MAX_LINEA,'=');
+    arch<<setw(15)<<"CODIGO"<<setw(30)<<"NOMBRE DEL ALUMNO"
+        <<setw(15)<<"CURSOS"<<setw(10)<<"CREDITOS"
+        <<setw(12)<<"MONTO"<<endl;
+    linea(arch,MAX_LINEA,'-');
+}
+void linea(ofstream& arch, int num, char signo){
+    for(int i=0;i<num;i++){
+        arch<<signo;
+    }
+    arch<<endl;
 }
