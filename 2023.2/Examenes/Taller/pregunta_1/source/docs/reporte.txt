@@ -1,0 +1,16 @@
+                                REPORTE DE VENTAS Y OCUPACION DE SALAS
+                                           Fecha: 11/05/2019
+====================================================================================================
+Pelicula: 980 -  VENGADORES : ENDGAME                   
+----------------------------------------------------------------------------------------------------
+Cant.Funciones      Tot.Butacas.Disp    Tot.Butacas.Vend    Tot.Butacas.Ocup.   %Venta              %Ocupacion          
+5                   480                 303                 275                 63.12               %57.29               %
+Pelicula: 990 -  A PESAR DE TODO                        
+----------------------------------------------------------------------------------------------------
+Cant.Funciones      Tot.Butacas.Disp    Tot.Butacas.Vend    Tot.Butacas.Ocup.   %Venta              %Ocupacion          
+6                   580                 420                 387                 72.41               %66.72               %
+====================================================================================================
+Cantidad de Peliculas: 2
+Total Recaudacion (s/.): 11206
+%Venta total: 68.21
+Ocupacion total: 62.45

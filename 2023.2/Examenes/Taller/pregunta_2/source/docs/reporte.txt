@@ -1,0 +1,20 @@
+                                REPORTE DE VENTAS Y OCUPACION DE SALAS
+Fecha: 18/04/2019
+====================================================================================================
+Pelicula: 960 - Tot.Recaudacion(S/.): 945.5
+----------------------------------------------------------------------------------------------------
+Cant.Funciones      Tot.Butacas.Disp    Tot.Butacas.vend    Tot.Butacas.Ocup    %Venta              %Ocupacion          
+3                   240                 61                  154                 25.4167             64.1667             
+Pelicula: 950 - Tot.Recaudacion(S/.): 604.5
+----------------------------------------------------------------------------------------------------
+Cant.Funciones      Tot.Butacas.Disp    Tot.Butacas.vend    Tot.Butacas.Ocup    %Venta              %Ocupacion          
+2                   180                 39                  99                  21.6667             55                  
+Pelicula: 970 - Tot.Recaudacion(S/.): 325.5
+----------------------------------------------------------------------------------------------------
+Cant.Funciones      Tot.Butacas.Disp    Tot.Butacas.vend    Tot.Butacas.Ocup    %Venta              %Ocupacion          
+2                   200                 21                  81                  10.5                40.5                
+====================================================================================================
+Cantidad de Peliculas: 3
+Total Recaudacion (s/.) 1875.5
+%Venta total: 19.5161%
+%Ocupacion total: 53.871
