@@ -38,14 +38,25 @@ char* leerCadenaExacta(ifstream& arch,char delimitador){
 void ordenar(int& num_almacen,char** ARRcodigoAlmacen,
             char** ARRnombreAlmacen,int* ARRpostalAlmacen,
             char* nombre,int postal,char* codigo){
-    int i=num_almacen-1;
-    while(i>=0 and ARRpostalAlmacen[i]>postal or
+    // int i=num_almacen-1;
+    // while(i>=0 and ARRpostalAlmacen[i]>postal or
+    //         ARRpostalAlmacen[i]==postal &&  
+    //         strcmp(ARRnombreAlmacen[i],nombre)<0){
+    //             ARRcodigoAlmacen[i+1]=ARRcodigoAlmacen[i];
+    //             ARRnombreAlmacen[i+1]=ARRnombreAlmacen[i];
+    //             ARRpostalAlmacen[i+1]=ARRpostalAlmacen[i];
+    //             i--;
+    // }
+    int i;
+    for(i=num_almacen-1;i>=0;i--){
+        if(ARRpostalAlmacen[i]<postal or
             ARRpostalAlmacen[i]==postal &&  
-            strcmp(ARRnombreAlmacen[i],nombre)<0){
-                ARRcodigoAlmacen[i+1]=ARRcodigoAlmacen[i];
-                ARRnombreAlmacen[i+1]=ARRnombreAlmacen[i];
-                ARRpostalAlmacen[i+1]=ARRpostalAlmacen[i];
-                i--;
+            strcmp(ARRnombreAlmacen[i],nombre)>0)break;
+
+            ARRcodigoAlmacen[i+1]=ARRcodigoAlmacen[i];
+            ARRnombreAlmacen[i+1]=ARRnombreAlmacen[i];
+            ARRpostalAlmacen[i+1]=ARRpostalAlmacen[i];
+        
     }
     ARRcodigoAlmacen[i+1]=codigo;
     ARRnombreAlmacen[i+1]=nombre;
