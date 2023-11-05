@@ -4,7 +4,7 @@
 #include<fstream>
 using namespace std;
 #include "../header/funciones.h"
-#define MAX_LINEA 100
+#define MAX_LINEA 105
 #define MAX_NOMBRE 30
 #define MAX_APELLIDO 20
 //Solicitud 
@@ -233,7 +233,7 @@ void emitirReporte(double* ARRnum_creditos,int* ARRnum_cursos,
                 Arch_nombre>>nombreAlumno;
                 modificarTexto(nombreAlumno,apellidoAlumno);
                 arch<<ARRcodigoAlumnos[posAlumno]<<" - "
-                    <<setw(35)<<nombreAlumno<<setw(15)<<ARRnum_cursos[posAlumno]
+                    <<setw(43)<<nombreAlumno<<setw(15)<<ARRnum_cursos[posAlumno]
                     <<setw(15)<<ARRnum_creditos[posAlumno]<<setw(10)
                     <<ARRescalaAlumnos[posAlumno]<<ARRmonto_pagado[posAlumno]<<endl;
         }
@@ -245,18 +245,45 @@ void emitirReporte(double* ARRnum_creditos,int* ARRnum_cursos,
     //         <<ARRescalaAlumnos[i]<<ARRmonto_pagado[i]<<endl;
     // }
     linea(arch,MAX_LINEA,'-');
-    arch<<"MONTO TOTAL PAGADO:"<<setw(74)<<right<<total<<endl;
+    arch<<"MONTO TOTAL PAGADO:"<<setw(83)<<right<<total<<endl;
     linea(arch,MAX_LINEA,'=');
 }
 void modificarTexto(char* nombreAlumno,char* apellidoAlumno){
     char aux[100];
     int numCad, primerEspacio,fin;
+    //Ponemos las mayusculas apellido paterno y nombre
     for(int i=0; nombreAlumno[i];i++){
         if(nombreAlumno[i]=='_')nombreAlumno[i]=' ';
         else{
             nombreAlumno[i]-=('a'<=nombreAlumno[i] and 'z'>=nombreAlumno[i])?'a'-'A':0;
         }
     }
+    //Ponemos en mayusculas el apellido materno
+    for(int i=0;apellidoAlumno[i];i++){
+        apellidoAlumno[i]-=('a'<=apellidoAlumno[i] and 'z'>=apellidoAlumno[i])?'a'-'A':0;
+    }
+    //Buscamos el primer espcio
+    for(primerEspacio=0;nombreAlumno[primerEspacio]!=' ';primerEspacio++);
+    primerEspacio++;
+    //Copiamos el string
+    for(int i=0;i<=primerEspacio;i++){
+        aux[i]=nombreAlumno[i];
+    }
+    //Copiamos el apellido materno
+    for(fin=0;apellidoAlumno[fin];fin++){
+        aux[primerEspacio+fin]=apellidoAlumno[fin];
+    }
+    aux[primerEspacio+fin]=' ';
+    //Ahora copiamos el resto
+    int i;
+    for(i=primerEspacio+fin+1;nombreAlumno[primerEspacio];i++,primerEspacio++){
+        aux[i]=nombreAlumno[primerEspacio];
+    }
+    aux[i]=0;
+    for(i=0;aux[i];i++){
+        nombreAlumno[i]=aux[i];
+    }
+    nombreAlumno[i]=0;
 }
 void linea(ofstream& arch,int num,char signo){
     for(int i=0;i<num;i++){
@@ -269,7 +296,7 @@ void encabezado(ofstream& arch,int anio,int ciclo){
         <<setw(70)<<"DETALLE DE PAGOS REALIZADOS POR CICLO"<<endl
         <<setw(50)<<"CICLO: "<<anio<<"-"<<ciclo<<endl;
     linea(arch,MAX_LINEA,'=');
-    arch<<setw(5)<<" "<<setw(35)<<left<<"ALUMNO"
+    arch<<setw(5)<<" "<<setw(43)<<left<<"ALUMNO"
         <<setw(18)<<"No. DE CURSOS"<<setw(15)<<"CREDITOS"
         <<setw(10)<<"ESCALA"<<setw(10)<<"MONTO PAGADO"<<endl;
     linea(arch,MAX_LINEA,'-');
