@@ -250,7 +250,8 @@ void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
                 double* ARRnum_creditos,double* ARRmonto_pagado){
     for(int i=0;i<num_alumno-1;i++){
         for(int j=i+1;j<num_alumno;j++){
-            if(ARRescalaAlumno[i]-ARRescalaAlumno[j]<0 or 
+            if(ARRescalaAlumno[i]-ARRescalaAlumno[j]==0 
+                or 
                 ARRescalaAlumno[i]-ARRescalaAlumno[j]==0 and
                 strcmp(ARRnombreAlumno[i],ARRnombreAlumno[j])>0
                 ){
