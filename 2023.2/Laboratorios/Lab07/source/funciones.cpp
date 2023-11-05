@@ -5,7 +5,7 @@
 #include<cstring>
 using namespace std;
 #include "../header/funciones.h"
-#define MAX_LINEA 90
+#define MAX_LINEA 100
 //Solicitar datos
 void solicitarDatosAlUsuario(int& ciclo){
 //    int anio,cicloREF;
@@ -248,13 +248,45 @@ void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
                 char** ARRnombreAlumno,
                 char* ARRescalaAlumno,int* ARRnum_cursos,
                 double* ARRnum_creditos,double* ARRmonto_pagado){
-    // for(int i=0;i<num_alumno-1;i++){
-    //     for(int j=i+1;j<num_alumno;j++){
-    //         if(){
-
-    //         }
-    //     }
-    // }
+    for(int i=0;i<num_alumno-1;i++){
+        for(int j=i+1;j<num_alumno;j++){
+            if(ARRescalaAlumno[i]-ARRescalaAlumno[j]<0 or 
+                ARRescalaAlumno[i]-ARRescalaAlumno[j]==0 and
+                strcmp(ARRnombreAlumno[i],ARRnombreAlumno[j])>0
+                ){
+                    cambiarINT(ARRcodigoAlumno[i],ARRcodigoAlumno[j]);
+                    cambiarChar(ARRescalaAlumno[i],ARRescalaAlumno[j]);
+                    cambiarDouble(ARRmonto_pagado[i],ARRmonto_pagado[j]);
+                    cambiarString(ARRnombreAlumno[i],ARRnombreAlumno[j]);
+                    cambiarDouble(ARRnum_creditos[i],ARRnum_creditos[j]);
+                    cambiarINT(ARRnum_cursos[i],ARRnum_cursos[j]);
+            }
+        }
+    }
+}
+void cambiarINT(int& a,int& b){
+    int aux;
+    aux=a;
+    a=b;
+    b=aux;
+}
+void cambiarDouble(double& a,double& b){
+    double aux;
+    aux=a;
+    a=b;
+    b=aux;
+}
+void cambiarChar(char& a, char& b){
+    char aux;
+    aux=a;
+    a=b;
+    b=aux;
+}
+void cambiarString(char* a, char* b){
+    char aux[100];
+    strcpy(aux,a);
+    strcpy(a,b);
+    strcpy(b,aux);
 }
     //Calcular monto total
 void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno){
@@ -272,6 +304,8 @@ void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,
         cout<<"ERROR: Se produjo un error al abrir el arch "<<nomArch<<endl;
         exit(1);
     }
+    arch.precision(2);
+    arch<<fixed;
     //Descomprimimos nuestro ciclo
     int anio,cicloREF;
     descomprimir(ciclo,anio,cicloREF);
@@ -282,8 +316,9 @@ void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,
                 <<left<<setfill(' ')<<ARRcodigoAlumno[i]<<setw(4)<<"  -  "
                 <<setw(35)<<ARRnombreAlumno[i]
                 <<setw(7)<<ARRnum_cursos[i]
-                <<setw(10)<<ARRnum_creditos[i]<<right
-                <<setw(10)<<ARRmonto_pagado[i]<<endl<<left;
+                <<setw(5)<<ARRnum_creditos[i]<<right
+                <<setw(12)<<ARRescalaAlumno[i]
+                <<setw(15)<<ARRmonto_pagado[i]<<endl<<left;
         }
     linea(arch,MAX_LINEA,'-');
     arch<<"Monto total de todos los estudiantes: "<<total<<endl;
@@ -300,6 +335,7 @@ void encabezado(ofstream& arch,int anio,int cicloREF){
     linea(arch,MAX_LINEA,'=');
     arch<<setw(15)<<"CODIGO"<<setw(30)<<"NOMBRE DEL ALUMNO"
         <<setw(15)<<"CURSOS"<<setw(10)<<"CREDITOS"
+        <<setw(12)<<"ESCALA"
         <<setw(12)<<"MONTO"<<endl;
     linea(arch,MAX_LINEA,'-');
 }

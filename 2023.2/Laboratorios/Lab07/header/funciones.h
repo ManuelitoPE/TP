@@ -48,6 +48,10 @@ void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
                 char** ARRnombreAlumno,
                 char* ARRescalaAlumno,int* ARRnum_cursos,
                 double* ARRnum_creditos,double* ARRmonto_pagado);
+void cambiarINT(int& a,int& b);
+void cambiarDouble(double& a,double& b);
+void cambiarChar(char& a, char& b);
+void cambiarString(char* a, char* b);
     //Calcular monto total
 void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno);
 void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,

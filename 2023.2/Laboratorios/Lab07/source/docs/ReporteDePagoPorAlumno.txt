@@ -1,84 +1,84 @@
                           INSTITUCION EDUCATIVA_TP
                   DETALLE DE PAGOS REALIZADOS POR CICLO
                                CICLO: 2022 - 1
-==========================================================================================
-         CODIGO             NOMBRE DEL ALUMNO         CURSOS  CREDITOS       MONTO
-------------------------------------------------------------------------------------------
-     01)20191754  -  DELGADO GUILLERMO ALFONSO          4      15.5         5980.21
-     02)20192298  -  CERNA JOSE ROLANDO                 3      12           3879.48
-     03)20193012  -  LOZADA MARTHA                      5      16.75        5415.11
-     04)20193373  -  MARTEL ASMAD BRUNO ROBERTO         5      18.5         5980.87
-     05)20193490  -  HIJAR WILLIAMS CHRISTIAN           5      22.75        7354.85
-     06)20193573  -  VILLEGAS DORIS FREYSA              4      13.25        2810.32
-     07)20193769  -  SUAREZ BOLANOS RAFAEL              5      21.25        5624.66
-     08)20193891  -  RAFFO ADRIA GLORIA                 5      20.75        8005.76
-     09)20193984  -  MOYA ARANDA JOHNNY                 4      15            3181.5
-     10)20194050  -  VALVERDE BERROCAL RONY GONZALO     2      9.5          2014.95
-     11)20195244  -  AURIS JAVIER DANIEL                1      4.75         1007.48
-     12)20195340  -  HENRIQUEZ PORTUGAL ALEX            5      22           8488.04
-     13)20195764  -  CHAVEZ SILVANA                     5      21.5         4560.15
-     14)20195979  -  MALDONADO FLORIAN JOHANA           5      21            9208.5
-     15)20196245  -  SUAREZ RAFAEL                      5      18.25        7041.22
-     16)20196536  -  PALOMARES HENRRY HUMBERTO          3      9.25         2448.38
-     17)20197155  -  NORABUENA CINTHIA                  2      5             1060.5
-     18)20197374  -  ARCA EDRIC RONALD                  1      3.25         1253.91
-     19)20197378  -  LAURA MELVIN HENRRY                3      10.5         2779.24
-     20)20197480  -  ASMAD ACUNA ANNIE OFELIA           4      16            3393.6
-     21)20197557  -  CALIXTO TOMASICHE MONICA DORIS     4      16.25        6269.57
-     22)20198069  -  VILLA TATIANA NANCY                5      17.25        7564.12
-     23)20198237  -  MEDINA VELASQUEZ MILENA JENNY      2      7            2263.03
-     24)20198434  -  MALDONADO JOHANA                   3      11.75        4533.39
-     25)20198608  -  LANDEO ADOLFO                      2      7.5          1985.17
-     26)20198845  -  CORTEZ SEGURA CARMELA INES         4      15.5         6796.75
-     27)20198922  -  HIJAR YEP WILLIAMS CHRISTIAN       2      7.5          3288.75
-     28)20202031  -  RETAMOSO BARRERA OSCAR             2      7.75         2051.35
-     29)20202687  -  MEJIA HUAYANAY CHRISTIAN ALONSO    5      19            4029.9
-     30)20202756  -  AMEZQUITA EPIQUEN EVERT ROBERTO    1      4.25         1639.73
-     31)20205830  -  DE LA CUBA ALBERTO PAIRAZAMAN      3      12.75        2704.27
-     32)20205844  -  GORDILLO YINO YVONNE ROSARIO       5      20.25        4295.02
-     33)20205864  -  SALAS DANIEL                       1      3            1157.46
-     34)20207053  -  BARRIOS TOMASICHE CARLOS ALBERTO   4      14           4526.06
-     35)20207741  -  CORONADO FIGUEROA JOHAN            2      9.5          4165.75
-     36)20208175  -  CORONEL HELI                       1      4.75         1007.48
-     37)20208940  -  CORONADO JOHAN                     1      3.75         992.587
-     38)20208971  -  HENRIQUEZ BEATRIZ                  5      21.25        6869.91
-     39)20209968  -  CALDERON ORTEGA GUILLERMO          3      13.5         5208.57
-     40)20211892  -  RETAMOSO OSCAR                     5      21.75        5757.01
-     41)20212697  -  MOYA JOHNNY                        2      8.5          2747.97
-     42)20213075  -  GORDILLO YVONNE ROSARIO            1      3             1315.5
-     43)20215248  -  CARO SANDRO                        4      18            3817.8
-     44)20216298  -  CRUZ FUENTES JOHANA YDALI          3      11            4823.5
-     45)20216619  -  CASTRO ROLANDO                     1      3.75         1446.83
-     46)20217328  -  CAMACHO ELIA ROSA                  2      6             1272.6
-     47)20218255  -  BENAVENTE AYALA VIRGINIA IRMA      3      12.25        3242.45
-     48)20218376  -  CALDERON GUILLERMO                 4      14            2969.4
-     49)20218679  -  VILLEGAS PALOMINO DORIS FREYSA     3      11.25        4340.48
-     50)20219566  -  JUSTINO WILLIAMS                   1      3.25         1050.69
-     51)20219990  -  PASQUEL SURAMI JANET               2      7.5          1590.75
-     52)20221316  -  MIYAKE MEREL MADELEINE YLIANA      4      12            2545.2
-     53)20221873  -  CRUZ JOHANA YDALI                  2      10.5         2779.24
-     54)20222575  -  HENRIQUEZ ALEX                     2      7.25            1919
-     55)20224165  -  CORTEZ CARMELA INES                4      12.75        2704.28
-     56)20224223  -  ACUNA YINO ROCIO YOLANDA           1      3.75         1644.38
-     57)20225162  -  YOSHINARI RIVERA PAUL              1      4.75         1535.63
-     58)20226271  -  IBEROS VALDERRAMA RAFAEL           1      4            1293.16
-     59)20226455  -  ALAMO PAIRAZAMAN MIGUEL ROBERTO    5      20.5         5426.15
-     60)20227341  -  LANDA PISCOYA CHRISTIAN            2      9            3472.38
-     61)20227724  -  HIJAR PAIRAZAMAN JENNY DELICIA     2      6.5          2507.83
-     62)20229272  -  VALVERDE RONY GONZALO              4      15.75        6906.38
-     63)20229400  -  CORREA VIZCARDO MIGUEL             3      15            3181.5
-     64)20231152  -  CABRERA GUILLERMO EDRIC            4      19            8331.5
-     65)20231938  -  MALDONADO SILVANA                  4      16.25        7125.62
-     66)20233583  -  VEGA MUNOZ GONZALO                 5      18.25        4830.59
-     67)20233816  -  PAIRAZAMAN MOISES MIGUEL           1      3.75         1644.38
-     68)20235440  -  VEGA GONZALO                       5      20.75        8005.76
-     69)20236102  -  GONZALES ARIAS HENRY               1      4.25         1124.93
-     70)20236453  -  FLORIAN MORALES YDALI              1      5.25         1389.62
-     71)20236905  -  RUIZ GORDILLO CAROLA ERIKA         4      15            3181.5
-     72)20237059  -  DIAZ MAGALI SILVANA                3      11.75        4533.39
-     73)20238246  -  PISCOYA CESAR BRUNO                2      8.5          2747.97
-     74)20238549  -  CHAVEZ PRADO SILVANA               4      15.5         3287.55
-     75)20239652  -  VILCARA CORREA VICTOR              5      15.75        6906.38
-------------------------------------------------------------------------------------------
-Monto total de todos los estudiantes: 286237
-==========================================================================================
+====================================================================================================
+         CODIGO             NOMBRE DEL ALUMNO         CURSOS  CREDITOS      ESCALA       MONTO
+----------------------------------------------------------------------------------------------------
+     01)20231152  -  DELGADO GUILLERMO ALFONSO          4      19.00           E        8331.50
+     02)20224223  -  CERNA JOSE ROLANDO                 1      3.75            E        1644.38
+     03)20216298  -  LOZADA MARTHA                      3      11.00           E        4823.50
+     04)20231938  -  MARTEL ASMAD BRUNO ROBERTO         4      16.25           E        7125.62
+     05)20207741  -  HIJAR WILLIAMS CHRISTIAN           2      9.50            E        4165.75
+     06)20239652  -  VILLEGAS DORIS FREYSA              5      15.75           E        6906.38
+     07)20198069  -  SUAREZ BOLANOS RAFAEL              5      17.25           E        7564.12
+     08)20213075  -  RAFFO ADRIA GLORIA                 1      3.00            E        1315.50
+     09)20198922  -  MOYA ARANDA JOHNNY                 2      7.50            E        3288.75
+     10)20229272  -  VALVERDE BERROCAL RONY GONZALO     4      15.75           E        6906.38
+     11)20198845  -  AURIS JAVIER DANIEL                4      15.50           E        6796.75
+     12)20195979  -  HENRIQUEZ PORTUGAL ALEX            5      21.00           E        9208.50
+     13)20233816  -  CHAVEZ SILVANA                     1      3.75            E        1644.38
+     14)20237059  -  MALDONADO FLORIAN JOHANA           3      11.75           D        4533.39
+     15)20205864  -  SUAREZ RAFAEL                      1      3.00            D        1157.46
+     16)20227341  -  PALOMARES HENRRY HUMBERTO          2      9.00            D        3472.38
+     17)20202756  -  NORABUENA CINTHIA                  1      4.25            D        1639.73
+     18)20197557  -  ARCA EDRIC RONALD                  4      16.25           D        6269.57
+     19)20209968  -  LAURA MELVIN HENRRY                3      13.50           D        5208.57
+     20)20218679  -  ASMAD ACUNA ANNIE OFELIA           3      11.25           D        4340.48
+     21)20195340  -  CALIXTO TOMASICHE MONICA DORIS     5      22.00           D        8488.04
+     22)20196245  -  VILLA TATIANA NANCY                5      18.25           D        7041.22
+     23)20235440  -  MEDINA VELASQUEZ MILENA JENNY      5      20.75           D        8005.76
+     24)20191754  -  MALDONADO JOHANA                   4      15.50           D        5980.21
+     25)20193891  -  LANDEO ADOLFO                      5      20.75           D        8005.76
+     26)20198434  -  CORTEZ SEGURA CARMELA INES         3      11.75           D        4533.39
+     27)20227724  -  HIJAR YEP WILLIAMS CHRISTIAN       2      6.50            D        2507.83
+     28)20216619  -  RETAMOSO BARRERA OSCAR             1      3.75            D        1446.83
+     29)20197374  -  MEJIA HUAYANAY CHRISTIAN ALONSO    1      3.25            D        1253.91
+     30)20225162  -  AMEZQUITA EPIQUEN EVERT ROBERTO    1      4.75            C        1535.63
+     31)20212697  -  DE LA CUBA ALBERTO PAIRAZAMAN      2      8.50            C        2747.97
+     32)20219566  -  GORDILLO YINO YVONNE ROSARIO       1      3.25            C        1050.69
+     33)20238246  -  SALAS DANIEL                       2      8.50            C        2747.97
+     34)20193373  -  BARRIOS TOMASICHE CARLOS ALBERTO   5      18.50           C        5980.87
+     35)20208971  -  CORONADO FIGUEROA JOHAN            5      21.25           C        6869.91
+     36)20193490  -  CORONEL HELI                       5      22.75           C        7354.85
+     37)20193012  -  CORONADO JOHAN                     5      16.75           C        5415.11
+     38)20226271  -  HENRIQUEZ BEATRIZ                  1      4.00            C        1293.16
+     39)20192298  -  CALDERON ORTEGA GUILLERMO          3      12.00           C        3879.48
+     40)20207053  -  RETAMOSO OSCAR                     4      14.00           C        4526.06
+     41)20198237  -  MOYA JOHNNY                        2      7.00            C        2263.03
+     42)20236102  -  GORDILLO YVONNE ROSARIO            1      4.25            B        1124.93
+     43)20222575  -  CARO SANDRO                        2      7.25            B        1919.00
+     44)20197378  -  CRUZ FUENTES JOHANA YDALI          3      10.50           B        2779.24
+     45)20202031  -  CASTRO ROLANDO                     2      7.75            B        2051.35
+     46)20198608  -  CAMACHO ELIA ROSA                  2      7.50            B        1985.17
+     47)20226455  -  BENAVENTE AYALA VIRGINIA IRMA      5      20.50           B        5426.15
+     48)20233583  -  CALDERON GUILLERMO                 5      18.25           B        4830.59
+     49)20236453  -  VILLEGAS PALOMINO DORIS FREYSA     1      5.25            B        1389.62
+     50)20208940  -  JUSTINO WILLIAMS                   1      3.75            B         992.59
+     51)20193769  -  PASQUEL SURAMI JANET               5      21.25           B        5624.66
+     52)20218255  -  MIYAKE MEREL MADELEINE YLIANA      3      12.25           B        3242.45
+     53)20221873  -  CRUZ JOHANA YDALI                  2      10.50           B        2779.24
+     54)20211892  -  HENRIQUEZ ALEX                     5      21.75           B        5757.01
+     55)20196536  -  CORTEZ CARMELA INES                3      9.25            B        2448.38
+     56)20205844  -  ACUNA YINO ROCIO YOLANDA           5      20.25           A        4295.02
+     57)20238549  -  YOSHINARI RIVERA PAUL              4      15.50           A        3287.55
+     58)20224165  -  IBEROS VALDERRAMA RAFAEL           4      12.75           A        2704.28
+     59)20205830  -  ALAMO PAIRAZAMAN MIGUEL ROBERTO    3      12.75           A        2704.27
+     60)20236905  -  LANDA PISCOYA CHRISTIAN            4      15.00           A        3181.50
+     61)20208175  -  HIJAR PAIRAZAMAN JENNY DELICIA     1      4.75            A        1007.48
+     62)20229400  -  VALVERDE RONY GONZALO              3      15.00           A        3181.50
+     63)20219990  -  CORREA VIZCARDO MIGUEL             2      7.50            A        1590.75
+     64)20197155  -  CABRERA GUILLERMO EDRIC            2      5.00            A        1060.50
+     65)20195244  -  MALDONADO SILVANA                  1      4.75            A        1007.48
+     66)20193984  -  VEGA MUNOZ GONZALO                 4      15.00           A        3181.50
+     67)20218376  -  PAIRAZAMAN MOISES MIGUEL           4      14.00           A        2969.40
+     68)20215248  -  VEGA GONZALO                       4      18.00           A        3817.80
+     69)20197480  -  GONZALES ARIAS HENRY               4      16.00           A        3393.60
+     70)20194050  -  FLORIAN MORALES YDALI              2      9.50            A        2014.95
+     71)20217328  -  RUIZ GORDILLO CAROLA ERIKA         2      6.00            A        1272.60
+     72)20193573  -  DIAZ MAGALI SILVANA                4      13.25           A        2810.32
+     73)20195764  -  PISCOYA CESAR BRUNO                5      21.50           A        4560.15
+     74)20202687  -  CHAVEZ PRADO SILVANA               5      19.00           A        4029.90
+     75)20221316  -  VILCARA CORREA VICTOR              4      12.00           A        2545.20
+----------------------------------------------------------------------------------------------------
+Monto total de todos los estudiantes: 286236.89
+====================================================================================================
