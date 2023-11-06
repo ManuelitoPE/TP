@@ -250,15 +250,15 @@ void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
                 double* ARRnum_creditos,double* ARRmonto_pagado){
     for(int i=0;i<num_alumno-1;i++){
         for(int j=i+1;j<num_alumno;j++){
-            if(ARRescalaAlumno[i]-ARRescalaAlumno[j]==0 
+            if(ARRescalaAlumno[i]-ARRescalaAlumno[j]<0 
                 or 
                 ARRescalaAlumno[i]-ARRescalaAlumno[j]==0 and
-                strcmp(ARRnombreAlumno[i],ARRnombreAlumno[j])>0
+                strcmp(ARRnombreAlumno[i],ARRnombreAlumno[j])<0
                 ){
                     cambiarINT(ARRcodigoAlumno[i],ARRcodigoAlumno[j]);
                     cambiarChar(ARRescalaAlumno[i],ARRescalaAlumno[j]);
                     cambiarDouble(ARRmonto_pagado[i],ARRmonto_pagado[j]);
-                    cambiarString(ARRnombreAlumno[i],ARRnombreAlumno[j]);
+                    cambiarString(ARRnombreAlumno,i,j);
                     cambiarDouble(ARRnum_creditos[i],ARRnum_creditos[j]);
                     cambiarINT(ARRnum_cursos[i],ARRnum_cursos[j]);
             }
@@ -283,11 +283,11 @@ void cambiarChar(char& a, char& b){
     a=b;
     b=aux;
 }
-void cambiarString(char* a, char* b){
-    char aux[100];
-    strcpy(aux,a);
-    strcpy(a,b);
-    strcpy(b,aux);
+void cambiarString(char** arr,int i,int j){
+    char *ptr;
+    ptr=arr[i];
+    arr[i]=arr[j];
+    arr[j]=ptr;
 }
     //Calcular monto total
 void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno){

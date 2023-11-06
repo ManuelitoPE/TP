@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
                     ARRcodigoCurso,ARRcreditoCurso,ARRcicloEscala,
                     ARRescalaEscala,ARRcostoEscala,ARRnum_cursos,
                     ARRnum_creditos,ARRmonto_pagado,"source/docs/Matricula.txt");
-    //Ordenar datos
+    // Ordenar datos
     ordenarDatos(num_alumno,ARRcodigoAlumno,ARRnombreAlumno,
                   ARRescalaAlumno,ARRnum_cursos,
                   ARRnum_creditos,ARRmonto_pagado);
