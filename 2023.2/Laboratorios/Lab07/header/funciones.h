@@ -52,6 +52,7 @@ void cambiarINT(int& a,int& b);
 void cambiarDouble(double& a,double& b);
 void cambiarChar(char& a, char& b);
 void cambiarString(char** arr, int i, int j);
+void cambiarString2(char* &a,char* &b);
     //Calcular monto total
 void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno);
 void emitirReporte(int ciclo,int num_alumno,int* ARRcodigoAlumno,

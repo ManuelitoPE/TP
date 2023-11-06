@@ -258,7 +258,8 @@ void ordenarDatos(int num_alumno,int* ARRcodigoAlumno,
                     cambiarINT(ARRcodigoAlumno[i],ARRcodigoAlumno[j]);
                     cambiarChar(ARRescalaAlumno[i],ARRescalaAlumno[j]);
                     cambiarDouble(ARRmonto_pagado[i],ARRmonto_pagado[j]);
-                    cambiarString(ARRnombreAlumno,i,j);
+                    // cambiarString(ARRnombreAlumno,i,j);  
+                    cambiarString2(ARRnombreAlumno[i],ARRnombreAlumno[j]);
                     cambiarDouble(ARRnum_creditos[i],ARRnum_creditos[j]);
                     cambiarINT(ARRnum_cursos[i],ARRnum_cursos[j]);
             }
@@ -288,6 +289,13 @@ void cambiarString(char** arr,int i,int j){
     ptr=arr[i];
     arr[i]=arr[j];
     arr[j]=ptr;
+}
+//CAMBIAMOS LOS PUNTEROS
+void cambiarString2(char* &a,char* &b){
+    char *ptr;
+    ptr=a;
+    a=b;
+    b=ptr;
 }
     //Calcular monto total
 void calcularMonto(double& total,double* ARRmonto_pagado,int num_alumno){
