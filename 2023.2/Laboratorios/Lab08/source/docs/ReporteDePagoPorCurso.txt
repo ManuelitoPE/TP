@@ -1,0 +1,43 @@
+                                    INSTITUCION EDUCATIVA_TP
+                            DETALLE DE PAGOS REALIZADOS POR CICLO
+                                         CICLO: 2023-1
+====================================================================================================
+No.            CURSO                                             CREDITOS  ALUMNOS.MAT  MONTO PAGADO
+----------------------------------------------------------------------------------------------------
+01)375219 - HERRAMIENTAS MATEMATICAS                               2.25        3         3343.39   
+02)481248 - MECANICA CLASICA 1                                     4.00        3         5911.80   
+03)481247 - OPTICA Y FOTONICA                                      3.75        3         5869.54   
+04)481208 - TEMAS DE FISICA GENERAL                                3.75        3         5216.21   
+05)375218 - ECUACIONES DIFERENCIALES APLICADAS                     3.25        4         3562.16   
+06)481239 - ESTADO SOLIDO                                          4.25        4         5291.04   
+07)481203 - FISICA 4                                               4.25        4         5736.78   
+08)231270 - PROCESOS DE MANUFACTURA                                5.75        4         10830.07  
+09)109248 - SISTEMAS DE INFORMACION 1                              3.25        4         5889.26   
+10)481219 - SISTEMAS ELECTROMAGNETICOS Y OPTOELECTRONICOS          3.25        4         4587.28   
+11)481220 - TECNICAS COMPUTACIONALES EN FISICA                     3.75        4         6765.86   
+12)231289 - TURBOMAQUINAS Y MAQUINAS DE DESPLAZAMIENTO POSITIVO    3.00        4         5674.47   
+13)109263 - ALGORITMIA                                             4.25        5         10207.48  
+14)231269 - LABORATORIO DE TERMODINAMICA Y FLUIDOS                 4.75        5         9872.83   
+15)109250 - SISTEMAS DE INFORMACION 2                              4.75        5         7876.40   
+16)481230 - TEORIA DE CAMPOS ELECTROMAGNETICOS                     3.75        5         7169.89   
+17)481218 - FISICA MODERNA                                         5.25        6         12948.65  
+18)109281 - LENGUAJE DE PROGRAMACION 1                             3.25        6         7273.82   
+19)375781 - MATEMATICA COMPUTACIONAL PARA CONTROL                  4.75        6         11421.94  
+20)481227 - PARTICULAS ELEMENTALES                                 4.00        6         9619.08   
+21)231286 - TRANSFERENCIA DE CALOR                                 3.25        6         9149.24   
+22)109245 - INGENIERIA DE SOFTWARE                                 4.25        7         14320.12  
+23)231209 - MECANICA DE FLUIDOS                                    3.75        7         9780.94   
+24)109246 - BASES DE DATOS                                         4.75        8         16140.12  
+25)109239 - SISTEMAS OPERATIVOS                                    4.25        8         13404.75  
+26)481229 - TRABAJO DE INVESTIGACION                               3.75        8         13002.79  
+27)231292 - INTRODUCCION AL DISENO DE MAQUINAS                     2.75        9         9069.83   
+28)109282 - LENGUAJE DE PROGRAMACION 2                             4.25        9         13046.05  
+29)375241 - METODOS NUMERICOS EN INGENIERIA                        5.75        9         22179.19  
+30)231283 - LABORATORIO DE INTRODUCCION AL DISENO DE MAQUINAS      3.75        10        14570.92  
+31)231373 - METROLOGIA                                             2.75        10        8928.95   
+32)109220 - FUNDAMENTOS DE PROGRAMACION                            3.25        11        13462.22  
+33)109238 - REDES DE COMPUTADORAS                                  5.00        11        20187.45  
+34)231206 - TERMODINAMICA 1                                        2.75        11        13217.96  
+----------------------------------------------------------------------------------------------------
+MONTO TOTAL PAGADO:                                                                     335528.48
+----------------------------------------------------------------------------------------------------
