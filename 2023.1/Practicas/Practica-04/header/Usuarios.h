@@ -3,7 +3,7 @@
 #include "LibroPrestado.h"
 struct Usuarios{
     int dni;
-    char nombre[40];
+    char *nombre;
     char categoria;
     double calificacion;
     struct LibroPrestado *LibrosEntregados;

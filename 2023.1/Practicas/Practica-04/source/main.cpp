@@ -1,3 +1,4 @@
+//Author: MAKO
 #include<iostream>
 #include<iomanip>
 using namespace std;
@@ -6,17 +7,18 @@ using namespace std;
 #include"../header/Solicitudes.h"   
 #include"../header/Usuarios.h"
 int main(int argc, char** argv){
-    //Estructuras
+    //ESTRUCTURAS
     struct Usuarios *usuarios;
     struct Libros *libros;
     struct Solicitudes *solicitudes;
+    //ASIGNAMOS ESPACIO
     usuarios= new struct Usuarios[70]{};
     libros= new struct Libros[40]{};
     solicitudes= new struct Solicitudes[300]{};   
-    //Numero de estrucutras
+    //NUMERO DE ESTRUCTURAS
     int num_Usuarios=0, num_Libros=0, num_Solicitudes=0;
-    //Lectura de
-    //Leemos las usuarios
+    //LECTURA DE DATOS
+    //Leemos los usuarios
     lecturaDeUsuarios(usuarios,num_Usuarios,
                     "source/docs/Usuarios.csv");
     //Leemos los libros
@@ -25,17 +27,18 @@ int main(int argc, char** argv){
     //Leemos las solicitudes
     lecturaDeSolicitudes(solicitudes,num_Solicitudes,
                     "source/docs/SolicitudesDePrestamo.txt");
-    //Impresionde los datos
+    //IMPRESION DE DATOS
     impresionDeDatos(usuarios,libros,solicitudes,num_Usuarios,
                     num_Libros,num_Solicitudes,
                     "source/docs/DatosDeLosArreglos.txt");
-    //Ordenamos los datos
-    ordenandoSegunPolitica(usuarios,solicitudes,num_Usuarios,
-                        num_Solicitudes);
-    //Atender los pedidos
+    //ORDENAMOS LOS USUARIOS
+    ordenandoSegunPolitica(usuarios,num_Usuarios);
+    ordenandoSolicitudes(usuarios,solicitudes,num_Usuarios,
+                       num_Solicitudes);
+    //ATENDEMOS LOS PEDIDOS 
     atendiendoPedidos(usuarios,libros,solicitudes,num_Usuarios,
-                   num_Libros,num_Solicitudes);
-    //Emitiendo el segundo reporte
+                  num_Libros,num_Solicitudes);
+    //IMPRESION DE DATOS
     impresionDeDatos(usuarios,libros,solicitudes,num_Usuarios,
                     num_Libros,num_Solicitudes,
                     "source/docs/DatosDeLosArreglos2.txt");

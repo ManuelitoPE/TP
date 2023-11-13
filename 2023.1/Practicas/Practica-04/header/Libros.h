@@ -2,9 +2,9 @@
 #define LIBROS_H
 #include "UsuarioConLibro.h"
 struct Libros{
-    char codigo[8];
-    char nombre[80];
-    char autor[40];
+    char *codigo;
+    char *nombre;
+    char *autor;
     int cantidad;
     double precio;
     struct UsuarioConLibro *UsuariosQueTieneUnEjemplar;

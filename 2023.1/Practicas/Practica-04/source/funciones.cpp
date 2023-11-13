@@ -4,11 +4,14 @@
 #include<fstream>
 #include<cstring>
 using namespace std;
+
 #include"../header/funciones.h"
 #include"../header/Libros.h"
 #include"../header/Solicitudes.h"
 #include"../header/Usuarios.h"
+
 #define MAX_LINEA 95    
+
 void lecturaDeUsuarios(struct Usuarios *usuarios,int& num_Usuarios,
                     const char* nomArch){
     ifstream arch(nomArch,ios::in);
@@ -18,24 +21,32 @@ void lecturaDeUsuarios(struct Usuarios *usuarios,int& num_Usuarios,
     }
     //variables
     int dni;
-    char nombre_usuario[60];
     char categoria,c;
     double calificacion;
+
     while(true){
         arch>>dni;
         if(arch.eof())break;
         usuarios[num_Usuarios].dni=dni;
-        arch.get();
-        arch.getline(nombre_usuario,60,',');
-        strcpy(usuarios[num_Usuarios].nombre,nombre_usuario);
+        arch.get(); //Le quitamos la coma
+        usuarios[num_Usuarios].nombre=leeCadenaExacta(arch,',');
         arch>>categoria>>c>>calificacion;
-        arch.get();
+        arch.get();//Le quitamos el salto de linea
         usuarios[num_Usuarios].categoria=categoria;
         usuarios[num_Usuarios].calificacion=calificacion;
         //Cantidad de 4 a alumno, 6 profesor y 2 por visitante
         creandoEspacioLibrosPrestados(categoria, usuarios[num_Usuarios].LibrosEntregados);
         num_Usuarios++;
     }
+}
+char* leeCadenaExacta(ifstream& arch,const char deli){
+    //Variables
+    char *ptr,buffer[100];
+    arch.getline(buffer,100,deli);
+    if(arch.eof()) return nullptr;
+    ptr=new char[strlen(buffer)+1];
+    strcpy(ptr,buffer);
+    return ptr;
 }
 void creandoEspacioLibrosPrestados(char categoria, struct LibroPrestado *&libro){
     switch (categoria){
@@ -59,27 +70,21 @@ void lecturaDeLibros(struct Libros *libros,int& num_Libros,
         exit(1);
     }
     //variables
-    char codigo[8];
-    char nombre[60];
-    char autor[40];
     int cantidad;
     double precio;
+    char c;
     while(true){
-        arch.getline(codigo,10,',');
+        libros[num_Libros].codigo=leeCadenaExacta(arch,',');
         if(arch.eof())break;
-        strcpy(libros[num_Libros].codigo,codigo);
-        arch.getline(nombre,60,',');
-        strcpy(libros[num_Libros].nombre,nombre);
-        arch.getline(autor,40,',');
-        strcpy(libros[num_Libros].autor,autor);
-        arch>>cantidad;
-        arch.get();
-        arch>>precio;
-        arch.get();
+        libros[num_Libros].nombre=leeCadenaExacta(arch,',');
+        libros[num_Libros].autor=leeCadenaExacta(arch,',');
+        arch>>cantidad>>c>>precio;
+        arch.get();//Le quitamos el salto de linea
         libros[num_Libros].cantidad=cantidad;
         libros[num_Libros].precio=precio;
         //Cantidad
-        libros[num_Libros].UsuariosQueTieneUnEjemplar=new struct UsuarioConLibro[cantidad]{};
+        libros[num_Libros].UsuariosQueTieneUnEjemplar=
+                    new struct UsuarioConLibro[cantidad]{};
         num_Libros++;
     }
 }
@@ -94,14 +99,12 @@ void lecturaDeSolicitudes(struct Solicitudes *solicitudes,
     }
     //variables
     int dni_solicitudes;
-    char codigo_solicitudes[10];
     while(true){
         arch>>dni_solicitudes;
         if(arch.eof())break;
         solicitudes[num_Solicitudes].dni=dni_solicitudes;
         arch>>ws;
-        arch.getline(codigo_solicitudes,10,'\n');
-        strcpy(solicitudes[num_Solicitudes].codigo,codigo_solicitudes);
+        solicitudes[num_Solicitudes].codigo=leeCadenaExacta(arch,'\n');
         num_Solicitudes++;
     }
 }
@@ -132,7 +135,7 @@ void linea(ofstream& arch, char signo){
 }
 void impresionDatosUsuarios(ofstream& arch,struct Usuarios *usuarios,
                             int num_Usuarios){
-    arch<<"Datos del usuarios"<<endl;
+    arch<<"DATOS DEL USUARIO"<<endl;
     for(int i=0;i<num_Usuarios;i++){
         linea(arch,'=');
         arch<<setw(10)<<"DNI"<<setw(38)<<"NOMBRE"<<setw(15)<<"CATEGORIA"
@@ -154,9 +157,9 @@ void impresionDatosUsuarios(ofstream& arch,struct Usuarios *usuarios,
     } 
 }
 void impresionDatosLibros(ofstream& arch,struct Libros *libros,
-                            int num_Usuarios){
-    arch<<"Datos de los libros"<<endl;
-    for(int i=0;i<num_Usuarios;i++){
+                            int num_Libros){
+    arch<<"DATOS DE LOS LIBROS"<<endl;
+    for(int i=0;i<num_Libros;i++){
         linea(arch,'=');
         arch<<setw(10)<<"CODIGO"<<setw(32)<<"NOMBRE"<<setw(28)<<"AUTOR"
             <<setw(15)<<"CANTIDAD"<<setw(10)<<"PRECIO"<<endl;
@@ -180,17 +183,30 @@ void impresionDatosLibros(ofstream& arch,struct Libros *libros,
     } 
 }
 void impresionDatosSolicitudes(ofstream& arch,struct Solicitudes *solicitudes,
-                            int num_Usuarios){
-    arch<<"Datos de las Solicitudes"<<endl;
+                            int num_Solicitudes){
+    arch<<"DATOS DE LAS SOLICITUDES"<<endl;
     linea(arch,'-');
     arch<<setw(10)<<"DNI"<<setw(38)<<"CODIGO"<<endl;
-    for(int i=0;i<num_Usuarios;i++){
+    for(int i=0;i<num_Solicitudes;i++){
         arch<<setw(10)<<solicitudes[i].dni
             <<setw(42)<<solicitudes[i].codigo
             <<endl;
     } 
 }
-void ordenandoSegunPolitica(struct Usuarios *usuarios,
+void ordenandoSegunPolitica(struct Usuarios *usuarios,int num_Usuarios){
+    //Ordenamos primero alumnos, docentes y visitantes
+    //despues mayor calificacion
+    for(int i=0;i<num_Usuarios-1;i++){
+        for(int k=i+1;k<num_Usuarios;k++){
+            if((usuarios[i].categoria-usuarios[k].categoria)>0 
+            or (usuarios[i].categoria-usuarios[k].categoria)==0
+            and usuarios[i].calificacion<usuarios[k].calificacion){
+                cambiarStructura(usuarios[i],usuarios[k]);
+            }
+        }
+    }
+}
+void ordenandoSolicitudes(struct Usuarios *usuarios,
                 struct Solicitudes *solicitudes,int num_Usuarios,
                 int num_Solicitudes){
     //Ordenamos primero alumnos, docentes y visitantes
@@ -199,7 +215,7 @@ void ordenandoSegunPolitica(struct Usuarios *usuarios,
         for(int k=i+1;k<num_Solicitudes;k++){
             if(politica(solicitudes[i].dni,solicitudes[k].dni,
                         usuarios,num_Usuarios)){
-                cambiarStructura(solicitudes[i],solicitudes[k]);
+                cambiarSoli(solicitudes[i],solicitudes[k]);
             }
         }
     }
@@ -217,25 +233,24 @@ bool politica(int dniA,int dniB, struct Usuarios *usuarios,
             and usuarios[posUsuarioA].calificacion<usuarios[posUsuarioB].calificacion;
     return valor;
 }
-int BuscarUsuario(struct Usuarios *usuarios,int num_Usuarios,int dni){
-    int i;
-    for(i=0;i<num_Usuarios;i++){
-        if(usuarios[i].dni==dni)break;
-    }
-    return i;
-}
-void cambiarStructura(struct Solicitudes &solicitudesA,
-                    struct Solicitudes &solicitudesB){
+void cambiarSoli(struct Solicitudes &usuarioA,
+                    struct Solicitudes &usuarioB){
     struct Solicitudes aux;
-    aux=solicitudesA;
-    solicitudesA=solicitudesB;
-    solicitudesB=aux;
+    aux=usuarioA;
+    usuarioA=usuarioB;
+    usuarioB=aux;
+}
+void cambiarStructura(struct Usuarios &usuarioA,
+                    struct Usuarios &usuarioB){
+    struct Usuarios aux;
+    aux=usuarioA;
+    usuarioA=usuarioB;
+    usuarioB=aux;
 }
 void atendiendoPedidos(struct Usuarios *usuarios,struct Libros *libros,
                 struct Solicitudes *solicitudes,int num_Usuarios,
                 int num_Libros,int num_Solicitudes){
     int posUsuario, posLibro,cantidad_usuario,cant_libro;
-    char codigo[8];
     double precio;
     for(int i=0;i<num_Solicitudes;i++){
         //Leemos la primera solicitud 
@@ -248,11 +263,9 @@ void atendiendoPedidos(struct Usuarios *usuarios,struct Libros *libros,
             //COMPLETAMOS LA ESTRUCUTRA DE LIBRO PRESTADO
             //CANTIDAD DE LO PRESTADO
             cantidad_usuario=usuarios[posUsuario].cant_prestado;
-            //ASIGNAMOS EL CODIGO A UNA VARIABLE
-            strcpy(codigo,solicitudes[i].codigo);
             //ASIGNAMOS EL PRECIO A UNA VARIABLE
             precio=libros[posLibro].precio;
-            strcpy(usuarios[posUsuario].LibrosEntregados[cantidad_usuario].codigo,codigo);
+            usuarios[posUsuario].LibrosEntregados[cantidad_usuario].codigo=libros[posLibro].codigo;
             usuarios[posUsuario].LibrosEntregados[cantidad_usuario].precio=precio;
             usuarios[posUsuario].cant_prestado++;
             //COMPLETAMOS LA ESTRUCTURA DE USUARIO CON LIBRO
@@ -263,6 +276,13 @@ void atendiendoPedidos(struct Usuarios *usuarios,struct Libros *libros,
             libros[posLibro].cant_prestado++;
         }
     }
+}
+int BuscarUsuario(struct Usuarios *usuarios,int num_Usuarios,int dni){
+    int i;
+    for(i=0;i<num_Usuarios;i++){
+        if(usuarios[i].dni==dni)break;
+    }
+    return i;
 }
 int BuscarLibro(struct Libros *libros,int num_Libros,
                 char *codigo){
