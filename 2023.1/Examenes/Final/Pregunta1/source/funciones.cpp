@@ -9,6 +9,7 @@ using namespace std;
 #include "../header/Libro.h"
 #include "../header/funciones.h"
 #define MAX_LINEA 110
+#define NO_ENCONTRADO -1
 void leerLibros(struct Libro *libros,int & num_libros,
             const char* nomArch){
     ifstream arch(nomArch,ios::in);
@@ -28,7 +29,7 @@ void leerLibros(struct Libro *libros,int & num_libros,
         arch>>cantidad>>c>>precio;
         libros[num_libros].cantidad=cantidad;
         libros[num_libros].precio=precio;
-        libros[num_libros].usuarios=new struct UsuariosConElLibro[20]{};
+        libros[num_libros].usuarios=new struct UsuariosConElLibro[cantidad]{};
         lecturaLibrosUsuarios(arch,libros[num_libros].usuarios,libros[num_libros].cantUsuarios);
         num_libros++;
     }
@@ -199,41 +200,46 @@ void devoluciones(struct Usuario *usuarios,struct Libro *libros,
     fecha=aa*10000+mm*100+dd;
     while(true){    
         arch>>dni;
-        arch>>ws;
-        arch.getline(codigo,10,'\n');
+        if(arch.eof())break;
+        arch>>codigo;
         //Buscamos la posicion
         posUsuario=buscarUsuario(dni,usuarios,num_usuarios);
         posLibro=buscarLibro(codigo,libros,num_libros);
-        posLibroUsuario=buscarUsuarioLibro(dni,libros[posLibro].usuarios,libros[posLibro].cantUsuarios);
-        if(libros[posLibro].usuarios[posLibroUsuario].fechaDeDevolucion<
+        posLibroUsuario=buscarUsuarioLibro(dni,
+                        libros[posLibro].usuarios,
+                        libros[posLibro].cantUsuarios);
+        if(posLibro!=NO_ENCONTRADO and posLibroUsuario!=NO_ENCONTRADO
+            and posUsuario!=NO_ENCONTRADO){
+           if(libros[posLibro].usuarios[posLibroUsuario].fechaDeDevolucion<
             fecha){
             disminucionCalificacion(usuarios[posUsuario].clasificacion,usuarios[posUsuario].categoria);
+            }
+            eliminarLibro(usuarios[posUsuario].libros,libros[posLibro].usuarios,
+                usuarios[posUsuario].cantLibros,libros[posLibro].cantUsuarios,
+                dni,codigo); 
         }
-        eliminarLibro(usuarios[posUsuario].libros,libros[posLibro].usuarios,
-                    usuarios[posUsuario].cantLibros,libros[posLibro].cantUsuarios,
-                    dni,codigo);
     }
 }
 int buscarUsuario(int dni,struct Usuario *usuarios,int num_usuarios){
     int i;
     for( i=0;i<num_usuarios;i++){
-        if(dni==usuarios[i].dni)break;
+        if(dni==usuarios[i].dni)return i;
     }   
-    return i;
+    return NO_ENCONTRADO;
 }
 int buscarLibro(char *codigo,struct Libro *libros,int num_libros){
     int i;
     for( i=0;i<num_libros;i++){
-        if(strcmp(codigo,libros[i].codigo)==0)break;
+        if(strcmp(codigo,libros[i].codigo)==0)return i;
     }   
-    return i;
+    return NO_ENCONTRADO;
 }
 int buscarUsuarioLibro(int dni,struct UsuariosConElLibro *usuarios,int cantUsuarios){
     int i;
     for( i=0;i<cantUsuarios;i++){
-        if(usuarios[i].dni == dni)break;
+        if(usuarios[i].dni == dni)return i;
     }   
-    return i;
+    return NO_ENCONTRADO;
 }
 void disminucionCalificacion(double& clasificacion,char categoria){
     double descuento;
@@ -254,7 +260,7 @@ void disminucionCalificacion(double& clasificacion,char categoria){
     if(clasificacion<0)clasificacion=0;
 }
 void eliminarLibro(struct LibroEnSuPoder *libros,struct UsuariosConElLibro *usuarios,
-                    int  cantLibros,int cantUsuarios,
+                    int& cantLibros,int& cantUsuarios,
                     int dni,char *codigo){
     //Eliminamos de libros
     for(int i=0;i<cantLibros;i++){
@@ -267,7 +273,7 @@ void eliminarLibro(struct LibroEnSuPoder *libros,struct UsuariosConElLibro *usua
     //Eliminamos del usuarios
     for(int i=0;i<cantUsuarios;i++){
         if(usuarios[i].dni==dni){
-            usuarios[i].dni=usuarios[cantUsuarios-1].dni;
+            usuarios[i]=usuarios[cantUsuarios-1];
             cantUsuarios--;
             break;
         };

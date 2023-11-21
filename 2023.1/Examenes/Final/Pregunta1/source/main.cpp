@@ -28,10 +28,10 @@ int main(int argc, char** argv){
     //VALIDACION DE DATOS u
     validacionDatosUsuarios(usuarios,num_usuarios,
                             "source/docs/ArregloInicialUsuario.txt");
-    //DEVOLUCIONES
+    // //DEVOLUCIONES
     devoluciones(usuarios,libros,num_usuarios,num_libros,
                 "source/docs/DevolucionDeLibros.txt");
-    //VALIDACIONES FINALES
+    // //VALIDACIONES FINALES
     validacionDatos(libros,num_libros,"source/docs/ArregloFinalLibros.txt");
     validacionDatosUsuarios(usuarios,num_usuarios,
                             "source/docs/ArregloFinalUsuario.txt");

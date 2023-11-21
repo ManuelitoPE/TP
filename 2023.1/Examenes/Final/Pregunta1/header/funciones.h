@@ -32,6 +32,6 @@ int buscarLibro(char *codigo,struct Libro *libros,int num_libros);
 int buscarUsuarioLibro(int dni,struct UsuariosConElLibro *usuarios,int cantUsuarios);
 void disminucionCalificacion(double& clasificacion,char categoria);
 void eliminarLibro(struct LibroEnSuPoder *libros,struct UsuariosConElLibro *usuarios,
-                    int  cantLibros,int cantUsuarios,
+                    int& cantLibros,int& cantUsuarios,
                     int dni,char *codigo);
 #endif
