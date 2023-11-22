@@ -1,3 +1,4 @@
+//Author: MAKO
 #ifndef USUARIOS_H
 #define USUARIOS_H
 #include "LibroPrestado.h"

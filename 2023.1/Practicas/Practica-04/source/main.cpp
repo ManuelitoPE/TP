@@ -42,5 +42,9 @@ int main(int argc, char** argv){
     impresionDeDatos(usuarios,libros,solicitudes,num_Usuarios,
                     num_Libros,num_Solicitudes,
                     "source/docs/DatosDeLosArreglos2.txt");
+    aperturaLibrosBin("source/docs/Libros.csv",
+                    "source/docs/Libros.bin");
+    pruebaDeLibrosBin("source/docs/Libros.bin",
+                    "source/docs/PruebaDeArchivo.txt");
     return 0;
 }

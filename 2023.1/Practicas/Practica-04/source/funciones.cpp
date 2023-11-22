@@ -27,11 +27,11 @@ void lecturaDeUsuarios(struct Usuarios *usuarios,int& num_Usuarios,
     while(true){
         arch>>dni;
         if(arch.eof())break;
-        usuarios[num_Usuarios].dni=dni;
         arch.get(); //Le quitamos la coma
         usuarios[num_Usuarios].nombre=leeCadenaExacta(arch,',');
         arch>>categoria>>c>>calificacion;
         arch.get();//Le quitamos el salto de linea
+        usuarios[num_Usuarios].dni=dni;
         usuarios[num_Usuarios].categoria=categoria;
         usuarios[num_Usuarios].calificacion=calificacion;
         //Cantidad de 4 a alumno, 6 profesor y 2 por visitante
@@ -102,9 +102,9 @@ void lecturaDeSolicitudes(struct Solicitudes *solicitudes,
     while(true){
         arch>>dni_solicitudes;
         if(arch.eof())break;
-        solicitudes[num_Solicitudes].dni=dni_solicitudes;
         arch>>ws;
         solicitudes[num_Solicitudes].codigo=leeCadenaExacta(arch,'\n');
+        solicitudes[num_Solicitudes].dni=dni_solicitudes;
         num_Solicitudes++;
     }
 }
@@ -135,7 +135,7 @@ void linea(ofstream& arch, char signo){
 }
 void impresionDatosUsuarios(ofstream& arch,struct Usuarios *usuarios,
                             int num_Usuarios){
-    arch<<"DATOS DEL USUARIO"<<endl;
+    arch<<right<<setw(50)<<"DATOS DEL USUARIO"<<left<<endl;
     for(int i=0;i<num_Usuarios;i++){
         linea(arch,'=');
         arch<<setw(10)<<"DNI"<<setw(38)<<"NOMBRE"<<setw(15)<<"CATEGORIA"
@@ -158,7 +158,7 @@ void impresionDatosUsuarios(ofstream& arch,struct Usuarios *usuarios,
 }
 void impresionDatosLibros(ofstream& arch,struct Libros *libros,
                             int num_Libros){
-    arch<<"DATOS DE LOS LIBROS"<<endl;
+    arch<<right<<setw(50)<<"DATOS DE LOS LIBROS"<<left<<endl;
     for(int i=0;i<num_Libros;i++){
         linea(arch,'=');
         arch<<setw(10)<<"CODIGO"<<setw(32)<<"NOMBRE"<<setw(28)<<"AUTOR"
@@ -308,4 +308,60 @@ bool verificacion(int cantPrestado_Usuaio,char categoria,
         break;
     }
     return verification;
+}
+void aperturaLibrosBin(const char* nomArch,
+                    const char* nomArchBin){
+    ifstream arch(nomArch,ios::in);
+    if(not arch.is_open()){
+        cout<<"Error en abrir "<<nomArch<<endl;
+        exit(1);
+    }
+    ofstream archBin(nomArchBin,ios::out|ios::binary);
+    if(not archBin.is_open()){
+        cout<<"Error en abrir "<<nomArchBin<<endl;
+        exit(1);
+    }
+    //Variables
+    char c;
+    struct Libros libros{};
+    while(true){
+        libros.codigo=leeCadenaExacta(arch,',');
+        if(arch.eof())break;
+        libros.nombre=leeCadenaExacta(arch,',');
+        libros.autor=leeCadenaExacta(arch,',');
+        arch>>libros.cantidad>>c>>libros.precio;
+        arch.get();//Le quitamos el salto de linea
+        archBin.write(reinterpret_cast<const char*>(&libros),
+                    sizeof(struct Libros));
+    }
+}
+void pruebaDeLibrosBin(const char* nomArchBin,const char* nomArch){
+    ofstream arch(nomArch,ios::out);
+    if(not arch.is_open()){
+        cout<<"Error en abrir "<<nomArch<<endl;
+        exit(1);
+    }
+    ifstream archBin(nomArchBin,ios::in|ios::binary);
+    if(not archBin.is_open()){
+        cout<<"Error en abrir "<<nomArchBin<<endl;
+        exit(1);
+    }
+    //Variables 
+    struct Libros libro{};
+    arch<<right<<setw(50)<<"DATOS DE LOS LIBROS"<<left<<endl;
+    while(true){
+        archBin.read(reinterpret_cast<char*>(&libro),
+                    sizeof(struct Libros));
+        if(archBin.eof())break;
+        linea(arch,'=');
+        arch<<setw(10)<<"CODIGO"<<setw(32)<<"NOMBRE"<<setw(28)<<"AUTOR"
+            <<setw(15)<<"CANTIDAD"<<setw(10)<<"PRECIO"<<endl;
+        arch<<setw(10)<<libro.codigo
+            <<setw(32)<<libro.nombre
+            <<setw(31)<<libro.autor
+            <<setw(13)<<libro.cantidad
+            <<libro.precio
+            <<endl;
+        linea(arch,'-');   
+    }
 }

@@ -44,5 +44,8 @@ int BuscarLibro(struct Libros *libros,int num_Libros,
                 char *codigo);
 bool verificacion(int cantPrestado_Usuaio,char categoria,
                 int cantPrestado_Libro,int cantidad);
-
+void aperturaLibrosBin(const char* nomArch,
+                    const char* nomArchBin);
+void pruebaDeLibrosBin(const char* nomArchBin,
+                    const char* nomArch);
 #endif

@@ -1,3 +1,4 @@
+//Author: MAKO
 #ifndef USUARIOCONLIBRO_H
 #define USUARIOCONLIBRO_H
 struct UsuarioConLibro{

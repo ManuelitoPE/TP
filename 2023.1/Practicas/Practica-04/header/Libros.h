@@ -1,3 +1,4 @@
+//Author: MAKO
 #ifndef LIBROS_H
 #define LIBROS_H
 #include "UsuarioConLibro.h"
