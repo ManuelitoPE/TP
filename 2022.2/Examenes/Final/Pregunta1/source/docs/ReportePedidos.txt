@@ -1,0 +1,108 @@
+                                          TP_RAPPI
+REPORTE DE PEDIDOS PARA EL DIA DE HOY
+====================================================================================================
+Pedido: 234 Nombre: Erasmo Gomez                   Hora:14:45
+          Destino: Surco, Jr. Pando 234
+          Usuario: USR123
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Coca Cola 1L Sabor Original             4.50           2         9.00      
+Galletas Margarita 125g                 3.10           3         9.30      
+Mantequilla De Mani Union 410g          24.00          1         24.00     
+Fresas Organicas                        7.50           10        75.00     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          4 items            117.30
+====================================================================================================
+Pedido: 345 Nombre: Cecilia Roncal                 Hora:08:23
+          Destino: Magdalena, Jr.La Paz 1090
+          Usuario: USR455
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Platano De Seda                         0.54           5         2.70      
+Fresas Organicas Empacadas 500 g        14.95          1         14.95     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          2 items             17.65
+====================================================================================================
+Pedido: 128 Nombre: Erasmo Gomez                   Hora:10:45
+          Destino: Surco, Jr. Pando 234
+          Usuario: USR123
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Fresas Orgánicas Empacadas 500 g       14.95          1         14.95     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          1 items             14.95
+====================================================================================================
+Pedido: 245 Nombre: Cecilia Roncal                 Hora:16:23
+          Destino: Magdalena, Jr.La Paz 1090
+          Usuario: USR455
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Galletas Margarita 125g                 3.10           3         9.30      
+Fresas Organicas Empacadas 500 g        14.95          1         14.95     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          2 items             24.25
+====================================================================================================
+Pedido: 137 Nombre: Erasmo Gomez                   Hora:20:45
+          Destino: Surco, Jr. Pando 234
+          Usuario: USR123
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Platano De Seda                         0.54           5         2.70      
+----------------------------------------------------------------------------------------------------
+Resumen:                                          1 items              2.70
+====================================================================================================
+Pedido: 148 Nombre: Cecilia Roncal                 Hora:12:23
+          Destino: Magdalena, Jr.La Paz 1090
+          Usuario: USR455
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Coca Cola 1L Sabor Original             4.50           2         9.00      
+Platano De Seda                         0.54           5         2.70      
+Fresas Organicas Empacadas 500 g        14.95          1         14.95     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          3 items             26.65
+====================================================================================================
+Pedido: 140 Nombre: Cecilia Roncal                 Hora:12:23
+          Destino: Magdalena, Jr.La Paz 1090
+          Usuario: USR455
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Platano De Seda                         0.54           5         2.70      
+Fresas Organicas Empacadas 500 g        14.95          1         14.95     
+Coca Cola 1L Sabor Original             4.50           2         9.00      
+Mango Edward                            10.20          2         20.40     
+Galletas Margarita 125g                 3.10           5         15.50     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          5 items             62.55
+====================================================================================================
+Pedido: 120 Nombre: Erasmo Gomez                   Hora:20:45
+          Destino: Miraflores, P Sherman calle Wallaby 42 Sydney
+          Usuario: USR120
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Galletas Margarita 125g                 3.10           3         9.30      
+Fresas Organicas Empacadas 500 g        14.95          1         14.95     
+----------------------------------------------------------------------------------------------------
+Resumen:                                          2 items             24.25
+====================================================================================================
+Pedido: 122 Nombre: Erasmo Gomez                   Hora:20:45
+          Destino: Miraflores, P Sherman calle Wallaby 42 Sydney
+          Usuario: USR120
+Datos de la Boleta:
+PRODUCTO                           PRECIO UNITARIO   CANTIDAD  PRECIO TOTAL
+----------------------------------------------------------------------------------------------------
+Platano De Seda                         0.54           5         2.70      
+Galletas Margarita 125g                 3.10           3         9.30      
+----------------------------------------------------------------------------------------------------
+Resumen:                                          2 items             12.00
+====================================================================================================
+Total Vendido S/.302.30
+====================================================================================================
