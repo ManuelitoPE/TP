@@ -98,7 +98,7 @@ int buscarCodigo(fstream& archBin,int codigo){
     //Variables
     struct Pedido pedido;
     int sizePedido, cantPedido, posCodigo;
-    sizePedido=sizeof(struct Direccion);
+    sizePedido=sizeof(struct Pedido);
     cantPedido=cantidadEstructuras(archBin,sizePedido);
     archBin.seekg(0,ios::beg);
     for(int i=0;i<cantPedido;i++){
