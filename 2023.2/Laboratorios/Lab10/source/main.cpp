@@ -18,6 +18,7 @@ int main(int argc,char** argv){
     correccionVendedores("source/docs/Vendedores.bin");
     ordenarVendedores("source/docs/Vendedores.bin");
     emitirReporte("source/docs/Vendedores.bin",
+                "source/docs/Articulos.bin",
                 "source/docs/ReporteDePagos.txt");
     return 0;
 }

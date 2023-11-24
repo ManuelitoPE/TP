@@ -1,3 +1,4 @@
+//Author:MAKO
 #include <iostream>
 #include <iomanip>
 #include <fstream>
@@ -7,7 +8,7 @@ using namespace std;
 #include "../header/Articulo.h"
 #include "../header/Vendedor.h"
 #define NO_ENCONTRADO -1
-#define MAX_LINEA 80
+#define MAX_LINEA 125
 void leerDatosArticulos(const char* nomArch,const char* nomArchBin){
     ifstream arch(nomArch,ios::in);
     if(not arch.is_open()){
@@ -29,6 +30,7 @@ void leerDatosArticulos(const char* nomArch,const char* nomArchBin){
         arch.getline(descripcion,70,',');
         arch>>precio;
         arch.get();
+        cambiarMayusculas(descripcion);
         strcpy(articulo.codigo,codigo);
         strcpy(articulo.descripcion,descripcion);
         articulo.precio=precio;
@@ -36,6 +38,13 @@ void leerDatosArticulos(const char* nomArch,const char* nomArchBin){
         articulo.montoVendido=0;
         archBin.write(reinterpret_cast<const char*>(&articulo),
                     sizeof(struct Articulo));
+    }
+}
+void cambiarMayusculas(char* codigo){
+    char c;
+    for(int i=0;codigo[i];i++){
+        c=codigo[i];
+        codigo[i]-=('a'<=c and 'z'>=c)?'a'-'A':0;
     }
 }
 void leerDatosVendedores(const char* nomArch,const char* nomArchBin){
@@ -62,14 +71,29 @@ void leerDatosVendedores(const char* nomArch,const char* nomArchBin){
         arch>>porcentaje>>c>>cuota;
         arch.get();
         vendedor.codigo=codigo;
+        cambiarNombre(nombre);
         strcpy(vendedor.nombre,nombre);
         vendedor.cuotaMinima=cuota;
         vendedor.porcentaje=porcentaje;
-        vendedor.cantElementos=-1;
+        vendedor.cantElementos=0;
         vendedor.montoTotal=0;
         vendedor.SuperoCuotaMinima=true;
         archBin.write(reinterpret_cast<const char*>(&vendedor),
                     sizeof(struct Vendedor));
+    }
+}
+void cambiarNombre(char* nombre){
+    bool Primera=true;
+    char c;
+    for(int i=0;nombre[i];i++){
+        c=nombre[i];
+        if(c=='/' or c=='-'){
+            Primera=true;
+            nombre[i]=' ';
+        }else{ 
+            nombre[i]+=('a'<=c and 'z'>=c or Primera)?0:'a'-'A';
+            Primera=false;
+        }
     }
 }
 void actualizarEstrucutras(const char* nomArchVendedores,
@@ -139,6 +163,7 @@ int cantidadEstructuras(fstream& arch,int size){
 }
 int buscarArticulo(fstream& archArticulos,int cantArticulos,char* codigo){
     struct Articulo articulo;
+    archArticulos.seekg(0,ios::beg);
     for(int i=0;i<cantArticulos;i++){
         archArticulos.read(reinterpret_cast<char*>(&articulo),
                             sizeof(struct Articulo));
@@ -167,10 +192,10 @@ void actualizar(struct Vendedor& vendedor,struct Articulo &articulo,int cant){
     articulo.montoVendido+=cant*articulo.precio;
     //Actualizamos Vendedor
     if(posArticulo==NO_ENCONTRADO){
-        vendedor.cantElementos++;
         posArticulo=vendedor.cantElementos;
         strcpy(vendedor.articulosVendidos[posArticulo].codigo
                 ,articulo.codigo);
+        vendedor.cantElementos++;
     }
     vendedor.articulosVendidos[posArticulo].cantVendido+=cant;
     vendedor.articulosVendidos[posArticulo].montoTotalVendido+=
@@ -194,15 +219,20 @@ void correccionVendedores(const char* nomArchBin){
     }
     //Variables
     int sizeVendedores,cantVendedores;
+    double totalVendido=0;
     struct Vendedor vendedor;
     sizeVendedores=sizeof(struct Vendedor);
     cantVendedores=cantidadEstructuras(archBin,sizeVendedores);
     for (int i = 0; i < cantVendedores; i++){
+        totalVendido=0;
         archBin.seekg(i*sizeVendedores,ios::beg);
         archBin.read(reinterpret_cast<char*>(&vendedor),sizeVendedores);
-        vendedor.SuperoCuotaMinima=vendedor.cuotaMinima<vendedor.montoTotal;
-        if(vendedor.SuperoCuotaMinima){
-            vendedor.montoTotal-=vendedor.cuotaMinima;
+        for(int j=0;j<vendedor.cantElementos;j++){
+            totalVendido+=vendedor.articulosVendidos[j].montoTotalVendido;
+        }
+        vendedor.SuperoCuotaMinima=vendedor.cuotaMinima<totalVendido;
+        if(!vendedor.SuperoCuotaMinima){
+            vendedor.montoTotal=0;
         }
         archBin.seekg(i*sizeVendedores,ios::beg);
         archBin.write(reinterpret_cast<const char*>(&vendedor),
@@ -240,10 +270,12 @@ void ordenarVendedores(const char* nomArchBin){
         }
     } 
 }
-void emitirReporte(const char* nomArchBin,const char* nomArch){
-    ifstream archBin(nomArchBin,ios::in|ios::binary);
-    if(not archBin.is_open()){
-        cout<<"Error: Se produjo un error al abrir "<<nomArchBin<<endl;
+void emitirReporte(const char* nomArchVendedores,
+                    const char* nomArchArticulos,
+                    const char* nomArch){
+    ifstream archVendedores(nomArchVendedores,ios::in|ios::binary);
+    if(not archVendedores.is_open()){
+        cout<<"Error: Se produjo un error al abrir "<<nomArchVendedores<<endl;
         exit(1);
     } 
     ofstream arch(nomArch,ios::out);
@@ -251,56 +283,118 @@ void emitirReporte(const char* nomArchBin,const char* nomArch){
         cout<<"Error: Se produjo un error al abrir "<<nomArch<<endl;
         exit(1);
     } 
+    fstream archArticulos(nomArchArticulos,ios::in|ios::out|ios::binary);
+    if(not archArticulos.is_open()){
+        cout<<"Error: Se produjo un error al abrir "<<nomArchArticulos<<endl;
+        exit(1);
+    } 
+    double pago=0;
+    arch.precision(2);
+    arch<<fixed;
+    impresionVendedores(arch,archVendedores,pago,archArticulos);
+    impresionArticulos(arch, archArticulos,pago);
+}
+void impresionVendedores(ofstream& arch,ifstream& archVendedores
+                        ,double& pago,fstream& archArticulos){
     //Variables
-    int num=1,num2=1;
+    int num=1,num2=1,sizeArticulo,cantArticulo,posArticulo;
+    sizeArticulo=sizeof(struct Articulo);
+    cantArticulo=cantidadEstructuras(archArticulos,sizeArticulo);
+    double monto;
+    struct Articulo articulo;
     struct Vendedor vendedor;
     encabezado(arch);
     while(true){
-        archBin.read(reinterpret_cast<char*>(&vendedor),
+        archVendedores.read(reinterpret_cast<char*>(&vendedor),
                             sizeof(struct Vendedor));
-        if(archBin.eof())break;
+        if(archVendedores.eof())break;
         subEncabezado(arch);
         arch<<right<<setfill('0')<<setw(2)<<num<<")   "
             <<setfill(' ')<<left
             <<setw(10)<<vendedor.codigo
-            <<setw(30)<<vendedor.nombre
-            <<setw(10)<<vendedor.porcentaje
+            <<setw(35)<<vendedor.nombre
+            <<setw(15)<<vendedor.porcentaje
             <<setw(10)<<vendedor.cuotaMinima;
         if(!vendedor.SuperoCuotaMinima){
-            arch<<"NO SUPERO LA CUOTA"<<endl;
+            arch<<setw(23)<<right<<"NO SUPERO LA CUOTA"<<left<<endl;
         } else{
+            monto=0;
             num2=1;
+            arch<<endl;
             subEncabezado2(arch);
             for(int i=0;i<vendedor.cantElementos;i++){
-                arch<<setw(10)<<" "<<right<<setfill('0')<<setw(2)<<num2<<")   "
+                posArticulo=buscarArticulo(archArticulos,cantArticulo,
+                                vendedor.articulosVendidos[i].codigo);
+                archArticulos.seekg(posArticulo*sizeArticulo,ios::beg);
+                archArticulos.read(reinterpret_cast<char*>(&articulo),
+                                    sizeArticulo);
+                arch<<setw(6)<<" "<<right<<setfill('0')<<setw(2)<<num2<<") "
                     <<setfill(' ')<<left
                     <<setw(10)<<vendedor.articulosVendidos[i].codigo
-                    <<setw(60)<<" "
+                    <<setw(58)<<articulo.descripcion
                     <<setw(10)<<vendedor.articulosVendidos[i].cantVendido
-                    <<setw(10)<<vendedor.articulosVendidos[i].montoTotalVendido
+                    <<setw(14)<<vendedor.articulosVendidos[i].montoTotalVendido
                     <<setw(10)<<vendedor.articulosVendidos[i].pagoVendedor<<endl;
+                    num2++;
+                    monto+=vendedor.articulosVendidos[i].montoTotalVendido;
+                    pago+=vendedor.articulosVendidos[i].pagoVendedor;
                 }
+            arch<<"TOTAL DE PAGO POR VENTAS: "<<monto<<endl;
             }
         linea(arch,'=');
         num++;
     }
 }
+void impresionArticulos(ofstream& arch,fstream& archArticulos,
+                        double pago){
+    //Variables
+    int num=1,num2=1;
+    double monto=0;
+    struct Articulo articulo;
+    encabezadoA(arch);
+    while(true){
+        archArticulos.read(reinterpret_cast<char*>(&articulo),
+                            sizeof(struct Articulo));
+        if(archArticulos.eof())break;
+        arch<<right<<setfill('0')<<setw(2)<<num<<")   "
+            <<setfill(' ')<<left
+            <<setw(8)<<articulo.codigo
+            <<setw(60)<<articulo.descripcion
+            <<setw(18)<<articulo.precio
+            <<setw(15)<<articulo.cantVendido
+            <<setw(10)<<articulo.montoVendido<<endl;
+        num++;
+        monto+=articulo.montoVendido;
+    }
+    linea(arch,'=');
+    arch<<"TOTAL DE INGRESOS POR VENTAS, DESCONTADO PAGO: "<<monto-pago<<endl;
+    linea(arch,'=');
+}
+void encabezadoA(ofstream& arch){
+    arch<<endl<<right<<setw(60)<<"DETALLE DE INGRESOS POR ARTICULO"<<endl;
+    linea(arch,'=');
+    arch<<left<<setw(6)<<"No."<<setw(68)<<"ARTICULO"
+            <<setw(10)<<"PRECIO"
+            <<setw(20)<<"CANTIDAD VENDIDA"
+            <<setw(10)<<"INGRESO POR VENTAS"<<endl;
+    linea(arch,'-');   
+}
 void encabezado(ofstream& arch){
-    arch<<setw(50)<<"TIENDA POR DEPARTAMENTOS TP"<<endl<<endl
-        <<setw(50)<<"DETALLE DE PAGOS A LOS VENDEDORES"<<endl;
+    arch<<setw(60)<<"TIENDA POR DEPARTAMENTOS TP"<<endl<<endl
+        <<setw(63)<<"DETALLE DE PAGOS A LOS VENDEDORES"<<endl;
     linea(arch,'=');
 }
 void subEncabezado(ofstream& arch){
-    arch<<setw(6)<<"No."<<setw(40)<<"VENDEDOR"<<"%"
-            <<setw(10)<<"POR VENTAS"
+    arch<<left<<setw(6)<<"No."<<setw(43)<<"VENDEDOR"<<"%"
+            <<setw(15)<<"POR VENTAS"
             <<setw(20)<<"CUOTA MINIMA"
             <<setw(10)<<"OBSERVACION"<<endl;
     linea(arch,'-');   
 }
 void subEncabezado2(ofstream& arch){
-    arch<<setw(6)<<"ARTICULOS VENDIDOS"<<endl
-        <<setw(4)<<"No."<<setw(70)<<"ATICULO"
-        <<setw(10)<<"CANTIDAD"
+    arch<<setw(6)<<" "<<"ARTICULOS VENDIDOS"<<endl
+        <<setw(6)<<" "<<setw(4)<<"No."<<setw(65)<<"ATICULO"
+        <<setw(14)<<"CANTIDAD"
         <<setw(10)<<"TOTAL"
         <<setw(10)<<"PAGO POR VENTAS"<<endl;
 }
