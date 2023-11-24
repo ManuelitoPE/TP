@@ -9,7 +9,7 @@ struct Pedido{
     int cantProductos;
     int hora;
     char repartidorRappi[30];
-    int codigoUsuarios[7];
+    char codigoUsuarios[7];
     struct Direccion direccionRappi;
     double distancia;
     double montoTotal;
