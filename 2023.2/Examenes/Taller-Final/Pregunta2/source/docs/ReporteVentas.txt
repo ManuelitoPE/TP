@@ -1,0 +1,256 @@
+                            CADENA DE FARMACIAS_TP
+====================================================================================================
+LISTADO DE FARMACIAS
+----------------------------------------------------------------------------------------------------
+CODIGO: 565126                               DISTRITO: San Miguel
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     98          866.51    
+CB8168M   CARBAMAZEPINA 120ML SUSP           46          2461.86   
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    103         92.29     
+PP4187N   PROPANOLOL 40 MG C/20 TAB          84          4621.58   
+HD5260L   HIDRALAZINA 20T 10MG               85          4037.58   
+MT2414P   METILPREDNISOLONA 500MG            71          4806.41   
+PA9090E   PARACETAMOL 300MG C/5 SUP          66          281.14    
+====================================================================================================
+CODIGO: 193984                               DISTRITO: Villa El Salvador
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+AO4976C   AMOXICILINA 250MG C12              45          2691.9    
+HD5260L   HIDRALAZINA 20T 10MG               25          1229.5    
+TO5037I   TAMOXIFENO 10MG 30T                36          1080.4    
+CT1234Z   CLOTRIMAZOL C/6 CPR VAG            30          295.97    
+KT8008T   KETOTIFENO SOL 120ML               9           313.65    
+CT1089Z   CETIRIZINA 10 MG TABS C/10         15          704.55    
+NP5001X   NAPROXENO 500 MG C/10 TAB          45          1288.91   
+CB7171T   CLENBUTEROL .02MG 50T              33          1650.33   
+LT4227L   LACTULOSA 125ML                    28          666.4     
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     13          110.5     
+====================================================================================================
+CODIGO: 874970                               DISTRITO: Jesús María
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+TO5037I   TAMOXIFENO 10MG 30T                29          859.55    
+TI8432N   TRETINOINA 30G CREMA 0.05%         42          450.6     
+HD5260L   HIDRALAZINA 20T 10MG               76          3450.62   
+AO4976C   AMOXICILINA 250MG C12              49          2820.35   
+PA9090E   PARACETAMOL 300MG C/5 SUP          49          211.01    
+PP4187N   PROPANOLOL 40 MG C/20 TAB          45          2469.9    
+CI2388T   CLARITROMICINA 125MG SUSP          43          410.73    
+====================================================================================================
+CODIGO: 826741                               DISTRITO: Chorrillos
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+TI8432N   TRETINOINA 30G CREMA 0.05%         42          453.82    
+CB8168M   CARBAMAZEPINA 120ML SUSP           23          1250.05   
+CI2388T   CLARITROMICINA 125MG SUSP          34          318.78    
+OO5456A   OFLOXACINO 400 MG C/8              37          3075.68   
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    14          12.6      
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     14          125.58    
+HD5260L   HIDRALAZINA 20T 10MG               33          1486.65   
+PP4187N   PROPANOLOL 40 MG C/20 TAB          32          1740.8    
+MT2414P   METILPREDNISOLONA 500MG            29          1974.32   
+AO4976C   AMOXICILINA 250MG C12              22          1234.2    
+====================================================================================================
+CODIGO: 823507                               DISTRITO: Independencia
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+CT1234Z   CLOTRIMAZOL C/6 CPR VAG            16          149.6     
+HD5260L   HIDRALAZINA 20T 10MG               8           376.64    
+TO5037I   TAMOXIFENO 10MG 30T                22          639.16    
+VT1924I   VITAMINA+OMEGA 3 30T               27          1877.41   
+NP5001X   NAPROXENO 500 MG C/10 TAB          34          953.7     
+AM6189F   ACIDO MEFENAMICO 500MG C10 TAB     22          1626.9    
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     54          468.57    
+AO4976C   AMOXICILINA 250MG C12              13          763.23    
+LT4227L   LACTULOSA 125ML                    13          309.4     
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    11          10.01     
+====================================================================================================
+CODIGO: 365231                               DISTRITO: La Molina
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+HD5260L   HIDRALAZINA 20T 10MG               78          3677.8    
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     72          637.96    
+CT1234Z   CLOTRIMAZOL C/6 CPR VAG            71          700.63    
+AO4976C   AMOXICILINA 250MG C12              65          3730.27   
+TO5037I   TAMOXIFENO 10MG 30T                50          1483.52   
+CB7171T   CLENBUTEROL .02MG 50T              57          2790.12   
+VT1924I   VITAMINA+OMEGA 3 30T               71          5088.09   
+LT4227L   LACTULOSA 125ML                    85          2070.14   
+====================================================================================================
+CODIGO: 886470                               DISTRITO: Miraflores
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+DL8478X   DICLOXACILINA 250 MG C20           39          1333.07   
+OO5456A   OFLOXACINO 400 MG C/8              46          3760.44   
+ET6834O   ERITROMICINA 250MG SUSP            65          2390.87   
+BT9668E   BETAMETASONA CREMA 30GR            56          2258.85   
+====================================================================================================
+CODIGO: 919120                               DISTRITO: Santa María del Mar
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    31          26.35     
+DL8478X   DICLOXACILINA 250 MG C20           25          807.5     
+HD5260L   HIDRALAZINA 20T 10MG               17          765.85    
+CI2388T   CLARITROMICINA 125MG SUSP          25          233.75    
+PP4187N   PROPANOLOL 40 MG C/20 TAB          15          893.25    
+AO4976C   AMOXICILINA 250MG C12              40          2339.94   
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     23          205.85    
+MT2414P   METILPREDNISOLONA 500MG            10          654.5     
+CB8168M   CARBAMAZEPINA 120ML SUSP           29          1479      
+PA9090E   PARACETAMOL 300MG C/5 SUP          21          92.61     
+====================================================================================================
+CODIGO: 571979                               DISTRITO: Chaclacayo
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+BT9668E   BETAMETASONA CREMA 30GR            47          1930.08   
+DL8478X   DICLOXACILINA 250 MG C20           78          2619.68   
+TI8432N   TRETINOINA 30G CREMA 0.05%         83          869.37    
+CI2388T   CLARITROMICINA 125MG SUSP          95          939.75    
+OO5456A   OFLOXACINO 400 MG C/8              80          6508.16   
+ET6834O   ERITROMICINA 250MG SUSP            24          856.8     
+====================================================================================================
+CODIGO: 198541                               DISTRITO: Puente Piedra
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+ET6834O   ERITROMICINA 250MG SUSP            27          963.9     
+BT9668E   BETAMETASONA CREMA 30GR            9           351.9     
+====================================================================================================
+CODIGO: 977067                               DISTRITO: Pueblo Libre
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+CB8168M   CARBAMAZEPINA 120ML SUSP           36          1882.62   
+OO5456A   OFLOXACINO 400 MG C/8              56          4544.08   
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    16          13.6      
+PA9090E   PARACETAMOL 300MG C/5 SUP          37          166.99    
+PP4187N   PROPANOLOL 40 MG C/20 TAB          60          3364.17   
+CI2388T   CLARITROMICINA 125MG SUSP          71          694.13    
+MT2414P   METILPREDNISOLONA 500MG            23          1505.35   
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     26          221       
+HD5260L   HIDRALAZINA 20T 10MG               14          630.7     
+TI8432N   TRETINOINA 30G CREMA 0.05%         26          278.46    
+====================================================================================================
+CODIGO: 307939                               DISTRITO: San Borja
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+HD5260L   HIDRALAZINA 20T 10MG               54          2530.94   
+DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    74          65.86     
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     57          496.55    
+AO4976C   AMOXICILINA 250MG C12              87          4959.51   
+MT2414P   METILPREDNISOLONA 500MG            74          5076.24   
+====================================================================================================
+CODIGO: 112539                               DISTRITO: San Isidro
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+CB8168M   CARBAMAZEPINA 120ML SUSP           24          1224      
+PP4187N   PROPANOLOL 40 MG C/20 TAB          16          870.4     
+TO5037I   TAMOXIFENO 10MG 30T                22          635.8     
+OO5456A   OFLOXACINO 400 MG C/8              27          2111.4    
+NP5001X   NAPROXENO 500 MG C/10 TAB          15          420.75    
+MT2414P   METILPREDNISOLONA 500MG            8           523.6     
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     21          178.5     
+CB7171T   CLENBUTEROL .02MG 50T              26          1237.6    
+TI8432N   TRETINOINA 30G CREMA 0.05%         8           81.6      
+HD5260L   HIDRALAZINA 20T 10MG               27          1216.35   
+====================================================================================================
+CODIGO: 962001                               DISTRITO: Magdalena del Mar
+----------------------------------------------------------------------------------------------------
+CODIGO    DESCRIPCION                        CANTIDAD    MONTO TOTAL
+CT1089Z   CETIRIZINA 10 MG TABS C/10         57          2624.67   
+CB7171T   CLENBUTEROL .02MG 50T              41          2028.82   
+VT1924I   VITAMINA+OMEGA 3 30T               17          1170.45   
+KT8008T   KETOTIFENO SOL 120ML               13          453.05    
+AZ5487R   AZITROMICINA 500MG C/3T            29          1474.07   
+NP5001X   NAPROXENO 500 MG C/10 TAB          45          1274.68   
+AM6189F   ACIDO MEFENAMICO 500MG C10 TAB     56          4144.77   
+LT4227L   LACTULOSA 125ML                    21          509.88    
+CT1234Z   CLOTRIMAZOL C/6 CPR VAG            25          233.75    
+VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     20          170       
+====================================================================================================
+
+PRODUCTOS NO PROCESADOS
+====================================================================================================
+FARMACIA  CODIGO    DESCRIPCION                        CANTIDAD    PRECIO    
+----------------------------------------------------------------------------------------------------
+826741    PA9090E   PARACETAMOL 300MG C/5 SUP          12          4.53      
+826741    MT2414P   METILPREDNISOLONA 500MG            33          68.06     
+919120    HD5260L   HIDRALAZINA 20T 10MG               33          48.15     
+919120    PA9090E   PARACETAMOL 300MG C/5 SUP          29          4.25      
+826741    VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     13          8.5       
+919120    PP4187N   PROPANOLOL 40 MG C/20 TAB          15          54.4      
+919120    ET6834O   ERITROMICINA 250MG SUSP            12          35.7      
+919120    CB8168M   CARBAMAZEPINA 120ML SUSP           26          51.84     
+919120    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    11          0.92      
+823507    AO4976C   AMOXICILINA 250MG C12              29          56.1      
+193984    CT1089Z   CETIRIZINA 10 MG TABS C/10         32          45.9      
+962001    KT8008T   KETOTIFENO SOL 120ML               26          37.97     
+823507    MT2414P   METILPREDNISOLONA 500MG            8           65.45     
+962001    LT4227L   LACTULOSA 125ML                    28          23.8      
+112539    CT1089Z   CETIRIZINA 10 MG TABS C/10         18          45.9      
+112539    AO4976C   AMOXICILINA 250MG C12              35          56.1      
+112539    AZ5487R   AZITROMICINA 500MG C/3T            14          49.3      
+919120    VT1924I   VITAMINA+OMEGA 3 30T               30          68.85     
+919120    VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     14          8.5       
+962001    HD5260L   HIDRALAZINA 20T 10MG               19          46.73     
+962001    TO5037I   TAMOXIFENO 10MG 30T                28          28.9      
+919120    OO5456A   OFLOXACINO 400 MG C/8              14          82.15     
+962001    CT1234Z   CLOTRIMAZOL C/6 CPR VAG            21          9.54      
+193984    AO4976C   AMOXICILINA 250MG C12              28          58.97     
+112539    VT1924I   VITAMINA+OMEGA 3 30T               25          68.85     
+112539    ET6834O   ERITROMICINA 250MG SUSP            9           35.7      
+962001    AZ5487R   AZITROMICINA 500MG C/3T            8           49.3      
+919120    OO5456A   OFLOXACINO 400 MG C/8              21          78.2      
+919120    CI2388T   CLARITROMICINA 125MG SUSP          21          9.95      
+826741    CB8168M   CARBAMAZEPINA 120ML SUSP           23          54.82     
+193984    VT1924I   VITAMINA+OMEGA 3 30T               21          73.01     
+112539    KT8008T   KETOTIFENO SOL 120ML               22          34.85     
+962001    LT4227L   LACTULOSA 125ML                    10          24.75     
+823507    CB7171T   CLENBUTEROL .02MG 50T              8           47.6      
+823507    AZ5487R   AZITROMICINA 500MG C/3T            14          49.3      
+193984    LT4227L   LACTULOSA 125ML                    34          24.14     
+823507    HD5260L   HIDRALAZINA 20T 10MG               31          45.05     
+919120    MT2414P   METILPREDNISOLONA 500MG            20          66.64     
+112539    LT4227L   LACTULOSA 125ML                    10          23.8      
+826741    MT2414P   METILPREDNISOLONA 500MG            21          65.45     
+112539    DL8478X   DICLOXACILINA 250 MG C20           8           32.3      
+826741    VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     26          8.94      
+193984    HD5260L   HIDRALAZINA 20T 10MG               31          45.05     
+193984    TO5037I   TAMOXIFENO 10MG 30T                14          29.29     
+919120    TI8432N   TRETINOINA 30G CREMA 0.05%         35          10.2      
+112539    BT9668E   BETAMETASONA CREMA 30GR            15          39.1      
+919120    TI8432N   TRETINOINA 30G CREMA 0.05%         26          11.04     
+193984    AZ5487R   AZITROMICINA 500MG C/3T            22          49.3      
+193984    AM6189F   ACIDO MEFENAMICO 500MG C10 TAB     26          73.95     
+919120    TO5037I   TAMOXIFENO 10MG 30T                20          28.9      
+962001    VT1924I   VITAMINA+OMEGA 3 30T               13          75.27     
+823507    PA9090E   PARACETAMOL 300MG C/5 SUP          12          4.25      
+823507    CT1089Z   CETIRIZINA 10 MG TABS C/10         9           45.9      
+193984    VT1924I   VITAMINA+OMEGA 3 30T               13          68.98     
+826741    PA9090E   PARACETAMOL 300MG C/5 SUP          9           4.25      
+826741    PP4187N   PROPANOLOL 40 MG C/20 TAB          15          59.05     
+193984    VT1924I   VITAMINA+OMEGA 3 30T               10          68.85     
+193984    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    25          0.85      
+193984    CB7171T   CLENBUTEROL .02MG 50T              11          47.6      
+823507    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    24          0.85      
+962001    VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     17          8.89      
+193984    VM2814I   VITAMINAS A C Y D 3AMP/3ML ING     20          8.97      
+977067    TI8432N   TRETINOINA 30G CREMA 0.05%         35          10.2      
+823507    CB8168M   CARBAMAZEPINA 120ML SUSP           28          51        
+112539    CI2388T   CLARITROMICINA 125MG SUSP          14          9.35      
+919120    BT9668E   BETAMETASONA CREMA 30GR            16          39.1      
+823507    PP4187N   PROPANOLOL 40 MG C/20 TAB          18          54.4      
+826741    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    18          0.87      
+112539    CT1234Z   CLOTRIMAZOL C/6 CPR VAG            32          9.35      
+826741    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    15          0.92      
+826741    HD5260L   HIDRALAZINA 20T 10MG               8           46.47     
+962001    TO5037I   TAMOXIFENO 10MG 30T                11          30.98     
+962001    AO4976C   AMOXICILINA 250MG C12              14          61.43     
+962001    AO4976C   AMOXICILINA 250MG C12              27          56.1      
+826741    CB8168M   CARBAMAZEPINA 120ML SUSP           35          51        
+112539    PA9090E   PARACETAMOL 300MG C/5 SUP          25          4.25      
+962001    HD5260L   HIDRALAZINA 20T 10MG               31          45.05     
+112539    AM6189F   ACIDO MEFENAMICO 500MG C10 TAB     11          73.95     
+977067    PA9090E   PARACETAMOL 300MG C/5 SUP          11          4.25      
+826741    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    17          0.85      
+112539    DO8541F   DICLOFENACO SODICO 1MG GTS 5 ML    26          0.85      
+====================================================================================================

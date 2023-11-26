@@ -1,0 +1,18 @@
+   REPORTE SIMPLE DE FARMACIAS
+========================================
+CODIGO    DISTRITO  
+----------------------------------------
+565126    San Miguel
+193984    Villa El Salvador
+874970    Jesús María
+826741    Chorrillos
+823507    Independencia
+365231    La Molina 
+886470    Miraflores
+919120    Santa María del Mar
+571979    Chaclacayo
+198541    Puente Piedra
+977067    Pueblo Libre
+307939    San Borja 
+112539    San Isidro
+962001    Magdalena del Mar
