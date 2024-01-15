@@ -2,8 +2,9 @@
 #include <iostream>
 #include <iomanip>
 using namespace std;
+#include "header/funciones.h"
 int main(int argc, char **argv)
 {
-    cout << "hello world";
+    emitirReporte();
     return 0;
 }
