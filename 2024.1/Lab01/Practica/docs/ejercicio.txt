@@ -1,0 +1,20 @@
+Código Ciudad, Inicial Ciudad, Fecha Precipitación, inicio, fin, volumen
+
+
+                               REPORTE DE PRECIPITACIONES
+==================================================================================							   
+Estado Registro    Ciudad         Fecha    Inicio      Fin      Duracion   Volumen  
+==================================================================================
+    Correcto     001000 - L     23/2/2020  03:45:12  06:12:33   02:27:21   127.875  
+    Incorrecto   001000 - L     24/2/2020 
+	...
+----------------------------------------------------------------------------------	
+Estadisticas:
+----------------------------------------------------------------------------------
+Ciudad con mayor tiempo de lluvia: código, inicial y tiempo en horas:minutos:segundos
+Cantidad de registros con error: 
+Ciudad con mayor volumen de precipitación:  código, inicial y volumen
+Precipitación más antigua: código, inicial,volumen
+Tiempo total de lluvia y volumen: duración total horas:minutos:segundos suma volumen
+Menor y mayor fecha del periodo: dd/mm/aaaa - dd/mm/aaaa
+

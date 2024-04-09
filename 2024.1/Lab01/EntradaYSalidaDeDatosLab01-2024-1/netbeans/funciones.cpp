@@ -119,8 +119,8 @@ void impresionDeDatos(int dd,int mm,int aa,int dni,int hhI,int minI,
     impresionDuracion(hhI,minI,ssI,hhF,minF,ssF,duracionH);
     //Especialidad
     impresionEspecialidad(especialidad);
-    if(receta=='N')monto=0;
     //Pago
+    if(receta=='N')monto=0;
     impresionPago(duracionH,monto,tarifa,totalDeIngresos);
     
 }
