@@ -16,11 +16,18 @@ void lecturaImpresionDatos(ifstream& arch,ofstream& report,int hh,
                       int min,int ss,int hhD,int minD,
                       int ssD,char alimentos,int aux_distrito,
                       int& contPeliculas);
-void impresionNombre(ifstream& arch,ofstream& report);
+void impresionNombre(ifstream& arch,ofstream& report,
+                     int& cont);
 void encabezado2(ofstream& report);
 
 bool condicionales(int hh,int min,int ss,int hhD,int minD,int ssD,
                    char alimentos,char aux_alimento,int hhI,
-                   int minI,int ssI,int hhF,int minF,int ssF);
+                   int minI,int ssI,int hhF,int minF,int ssF,
+                   int& duracionPelicula);
 int convertirSeg(int hh,int min,int ss);
+void impresionPelicula(int sala,double costo,int hhI,int minI,
+                       int ssI,int hhF,int minF,int ssF,
+                       int duracion,ofstream& report,
+                       ifstream& arch);
+void convertirHMS(int& hh,int& min,int& ss,int duracion);
 #endif
