@@ -3,7 +3,7 @@
 #include<iomanip>
 using namespace std;
 #include "header/funciones.h"
-#define MAX_LINEA 101
+#define MAX_LINEA 120
 int num;
 void emitirReporte(){
     cout.precision(2);
@@ -40,14 +40,12 @@ void encabezado(){
         <<setw(15)<<"Fecha"
         <<setw(15)<<"Inicio"
         <<setw(10)<<"Fin"
-        <<setw(15)<<"Dueracion"
+        <<setw(15)<<"Duracion"
         <<setw(15)<<"Volumen"<<endl;
     linea(MAX_LINEA,'=');
 }
 void linea(int num,char c){
-    for (int i = 0; i < num; i++){
-        cout<<c;
-    }
+    for (int i = 0; i < num; i++)cout<<c;
     cout<<endl;
 }
 void lecturaDeDatos(int& codigoCiudad,int& dd,int& mm,int& aa,
@@ -82,7 +80,7 @@ void impresionDatos(int codigoCiudad,int dd,int mm,int aa,
             <<setfill('0')<<setw(2)<<hhF<<":"<<setw(2)<<minF
             <<':'<<setw(2)<<ssF<<setfill(' ')<<setw(5)<<" "<<left;
         impresionDuracion(hhI,minI,ssI,hhF,minF,ssF,duracion);
-        cout<<volumen<<endl;                
+        cout<<right<<setw(7)<<volumen<<left<<endl;                
     }else{
         cout<<endl;
     }
@@ -131,4 +129,5 @@ void emitirEstadisticas(int error,double duracion,double volumenMax){
         <<setw(99)<<"Precipitación más antigua: código, inicial,volumen"<<endl
         <<setw(99)<<"Tiempo total de lluvia y volumen: duración total horas:minutos:segundos suma volumen"<<endl
         <<setw(99)<<"Menor y mayor fecha del periodo: dd/mm/aaaa - dd/mm/aaaa"<<endl;
+    linea(MAX_LINEA,'=');
 }

@@ -184,7 +184,3 @@ void estadisticas(int televidentes,int tiempoPromedio,
           <<setw(5)<<" "<<setw(89)<<"Porcentaje de mujeres que ve TVPUCP"<<porcentajeMu<<'%'<<endl;
     linea(report,MAX_LINEA,'=');
 }
-
-
-
-
