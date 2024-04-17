@@ -1,0 +1,17 @@
+310   /Television Peruana/
+311     /Nuevo Mundo TV/
+312     /La Luna television/
+313     /Canal M/
+550       /SudAmerica Radio Y TV/
+551   /PPR RadioTV/
+553       /TV Estella Plus/ 
+555       /Deportes Internacional/
+556     /Goleada Peru/
+557       /Cine Norteamericano/
+577       /Canal Europeo/
+701   /Verdadera Television/
+705  /Canal de Historia/
+771     /Hogar & Salud/
+772     /TV Alemana/
+773     /Cultura y Arte TV/
+775   /Canal del tiempo/
