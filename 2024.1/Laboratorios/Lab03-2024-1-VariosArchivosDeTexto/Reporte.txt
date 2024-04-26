@@ -1,0 +1,294 @@
+                                                           EMPRESA DE SALUD S.A.
+============================================================================================================================================================
+                                                       REGISTRO DE CITAS MEDICAS
+============================================================================================================================================================
+Fecha        Paciente    Inicio      Fin      Duracion    % por Seguro    Medico                                  Especialidad        Pago (cita+medicinas)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+09/09/2023   94683380   11:17:52   12:48:30   01:30:38         2.60%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 395.35
+09/08/2023   63640178   09:43:25   11:01:02   01:17:37        35.11%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  142.23
+16/01/2024   35852072   15:30:50   17:41:25   02:10:35        12.96%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1492.43
+16/01/2024   36471787   09:28:04   09:54:07   00:26:03        24.26%      Marina Natalia Garcia Inga              CARDIOLOGIA                 103.79
+06/08/2023   53420926   10:30:32   11:21:03   00:50:31        15.57%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 886.50
+29/03/2024   72330000   11:27:18   14:14:46   02:47:28        85.19%      Valentina Paula Urbina Antezano         PEDIATRIA                   294.83
+16/09/2023   12484697   12:44:29   15:14:54   02:30:25        84.78%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           388.18
+05/08/2023   51465986   12:34:38   13:18:52   00:44:14        21.32%      Rosario Tabori Arias                    OFTALMOLOGIA                903.41
+15/12/2023   51465986   15:55:39   16:30:58   00:35:19        62.10%      Delia Estefania Cabrera Moreno          UROLOGIA                    174.26
+01/09/2023   34697743   12:03:54   13:38:40   01:34:46        34.67%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           542.33
+22/10/2023   77440060   14:40:59   15:52:49   01:11:50        15.02%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           509.21
+27/10/2023   93231760   11:55:54   14:12:26   02:16:32        58.66%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              467.41
+01/08/2023   53420926   16:13:29   18:57:19   02:43:50        22.25%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 340.50
+09/09/2023   51465986   13:17:55   14:12:18   00:54:23        70.47%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           81.12
+18/08/2023   15290194   14:28:55   16:09:45   01:40:50        11.25%      Rosario Tabori Arias                    OFTALMOLOGIA                1496.43
+04/08/2023   62287143   08:53:25   10:55:32   02:02:07         7.80%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                1547.02
+08/11/2023   22598563   14:12:33   16:19:27   02:06:54        48.69%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 334.31
+16/09/2023   62287143   08:02:53   09:58:28   01:55:35        83.54%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              303.08
+04/10/2023   63640178   15:16:39   17:06:38   01:49:59        85.27%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   152.87
+26/10/2023   72330000   15:55:20   15:57:19   00:01:59        42.96%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           318.42
+29/08/2023   32538825   15:55:56   16:35:39   00:39:43        44.25%      Emilio Emigdio Gonzales Aguirre         UROLOGIA                    362.13
+10/08/2023   22598563   09:59:49   11:39:10   01:39:21         4.87%      David Carlos Perez Antezano             ENDOCRINOLOGIA              240.23
+14/08/2023   36471787   12:38:31   15:05:33   02:27:02         5.05%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           661.67
+29/03/2024   51642949   09:58:00   10:46:21   00:48:21         4.19%      Humberto Alfonso Amezquita Contreras    DERMATOLOGIA                808.13
+29/12/2023   77324146   14:05:16   15:06:45   01:01:29        27.79%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               386.81
+14/09/2023   93961840   16:42:50   17:48:54   01:06:04         6.22%      Raul Collado Villa                      CARDIOLOGIA                 151.12
+29/11/2023   30246960   15:48:15   18:24:22   02:36:07        84.79%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                282.27
+27/10/2023   54815159   12:14:21   14:11:15   01:56:54        25.37%      Giovana Mejia Zegarra                   TRAUMATOLOGIA               1283.89
+02/08/2023   61061535   09:57:08   12:50:43   02:53:35        44.29%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               662.91
+24/08/2023   13731806   16:57:19   19:10:06   02:12:47        26.18%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               620.12
+21/08/2023   45914393   14:18:52   16:45:39   02:26:47        81.22%      Delia Zarate Urbina                     GASTROENTEROLOGIA           253.40
+23/02/2024   54815159   12:14:21   13:48:27   01:34:06        35.49%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                913.63
+06/12/2023   99891737   11:10:13   12:41:33   01:31:20        52.58%      Edgar Munoz Vergel                      UROLOGIA                    461.86
+06/02/2024   62126128   12:19:56   14:58:41   02:38:45        24.13%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                959.38
+27/11/2023   90367684   10:44:31   11:38:00   00:53:29        58.30%      Milena Cinthia Zarate Acuna             TRAUMATOLOGIA               294.42
+19/08/2023   45914393   16:22:19   17:43:45   01:21:26        79.54%      Zkenia Irma Chung Zuniga                TRAUMATOLOGIA               331.11
+29/08/2023   93961840   15:30:07   16:25:38   00:55:31        29.98%      Francisco Zimic Salas                   ENDOCRINOLOGIA              778.86
+06/03/2024   31284904   14:34:00   16:08:29   01:34:29        88.17%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  220.81
+17/03/2024   93282118   12:17:57   13:49:31   01:31:34        77.30%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  257.69
+09/03/2024   32538825   16:40:27   16:47:53   00:07:26         4.44%      David Carlos Perez Antezano             ENDOCRINOLOGIA              90.40
+01/04/2024   80694546   13:20:32   16:09:11   02:48:39         0.00%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                2131.26
+05/04/2024   15290194   16:04:17   16:18:52   00:14:35         9.49%      Delicia Arca Aquino                     DERMATOLOGIA                444.52
+02/10/2023   93961840   11:32:55   13:46:21   02:13:26        22.47%      Wilmer Saenz Aranda                     GINECOLOGIA                 349.13
+05/04/2024   77440060   08:31:09   09:27:42   00:56:33        39.11%      Valentina Paula Urbina Antezano         PEDIATRIA                   353.17
+01/09/2023   36934113   08:08:24   08:19:58   00:11:34        63.25%      Delia Estefania Cabrera Moreno          UROLOGIA                    55.34
+27/11/2023   52313890   16:53:48   17:10:23   00:16:35        79.07%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           80.99
+17/08/2023   62126128   09:57:41   10:53:58   00:56:17        28.09%      Alfonso Waldemar Cabello Lam            CARDIOLOGIA                 286.82
+15/09/2023   93939698   09:39:06   10:02:06   00:23:00        72.10%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           115.69
+29/08/2023   22598563   14:52:19   15:05:37   00:13:18         6.95%      Delia Estefania Cabrera Moreno          UROLOGIA                    161.12
+27/11/2023   62287143   12:33:38   12:40:19   00:06:41        29.81%      Valentina Paula Urbina Antezano         PEDIATRIA                   96.09
+29/08/2023   36934113   15:56:02   16:37:10   00:41:08        20.23%      Estefania Zegarra Casanova              PEDIATRIA                   144.49
+15/12/2023   61061535   09:09:27   10:21:54   01:12:27        14.49%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                344.40
+06/09/2023   15290194   11:54:55   14:38:28   02:43:33        11.46%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 2616.31
+12/02/2024   54815159   09:42:51   10:26:04   00:43:13         0.00%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               368.19
+26/03/2024   93231760   08:53:45   11:12:58   02:19:13        42.13%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              841.80
+03/04/2024   93939698   09:38:37   10:51:03   01:12:26        23.10%      Raul Collado Villa                      CARDIOLOGIA                 405.01
+20/08/2023   54149342   12:54:29   15:32:20   02:37:51        53.14%      Rosario Tabori Arias                    OFTALMOLOGIA                1498.64
+06/02/2024   95656771   09:22:36   11:08:33   01:45:57        77.02%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           238.42
+03/08/2023   95656771   15:38:49   16:48:28   01:09:39        59.80%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                108.55
+06/08/2023   65912822   16:51:23   16:55:00   00:03:37        77.12%      Estefania Zegarra Casanova              PEDIATRIA                   3.64
+29/08/2023   54815159   11:22:49   14:08:46   02:45:57        38.99%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           1322.92
+14/12/2023   59596317   13:38:06   16:32:32   02:54:26        22.82%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           1191.05
+06/12/2023   35852072   08:49:00   09:59:53   01:10:53        64.08%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  282.54
+12/08/2023   12484697   15:26:09   16:13:12   00:47:03        76.71%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           123.34
+04/08/2023   54149342   14:50:34   17:07:06   02:16:32         2.07%      Rosario Tabori Arias                    OFTALMOLOGIA                2558.57
+26/08/2023   58643376   08:26:42   08:53:56   00:27:14        65.08%      Raul Collado Villa                      CARDIOLOGIA                 23.20
+03/04/2024   15290194   11:29:35   12:06:09   00:36:34        16.88%      Javier Edgard Landa Cabrera             PEDIATRIA                   454.65
+03/08/2023   59561864   08:52:03   10:08:24   01:16:21        19.72%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                721.19
+21/08/2023   45201670   13:23:15   13:26:31   00:03:16         7.40%      Ofelia Carmen Mercado Caro              NEUMOLOGIA                  26.54
+04/08/2023   34697743   10:59:59   11:58:08   00:58:09        36.82%      Marina Natalia Garcia Inga              CARDIOLOGIA                 438.54
+16/08/2023   68269451   10:28:48   12:50:16   02:21:28         0.00%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   45.48
+29/03/2024   93231760   15:37:28   18:13:22   02:35:54        15.63%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               777.35
+16/08/2023   91187814   12:39:07   15:18:00   02:38:53         9.52%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                576.28
+11/01/2024   37282858   16:23:36   19:06:13   02:42:37         3.59%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   245.04
+09/02/2024   72330000   09:38:13   12:14:03   02:35:50        21.72%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              1315.35
+29/08/2023   37282858   09:57:00   12:19:09   02:22:09        41.69%      Raul Collado Villa                      CARDIOLOGIA                 391.32
+17/08/2023   94683380   14:18:37   15:14:57   00:56:20        68.98%      Fiorella Erika Florencio Polo           DERMATOLOGIA                137.09
+09/02/2024   72973662   13:22:18   14:00:16   00:37:58        28.00%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           239.46
+20/08/2023   61061535   11:46:58   12:39:22   00:52:24         7.36%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   258.74
+23/08/2023   35347567   15:16:31   16:33:45   01:17:14        63.25%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               319.40
+28/02/2024   62126128   16:46:47   17:56:47   01:10:00         2.70%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   393.37
+04/10/2023   81539774   13:05:39   14:15:25   01:09:46        79.80%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 369.85
+27/03/2024   27709566   16:55:49   19:55:11   02:59:22        46.81%      Delia Zarate Urbina                     GASTROENTEROLOGIA           635.91
+27/01/2024   43704548   15:34:34   16:02:24   00:27:50        43.49%      Estefania Zegarra Casanova              PEDIATRIA                   69.26
+06/08/2023   93282118   11:40:31   13:22:22   01:41:51        89.93%      Delia Zarate Urbina                     GASTROENTEROLOGIA           66.65
+16/08/2023   52313890   15:55:58   17:16:24   01:20:26        68.66%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 599.35
+27/11/2023   36934113   13:00:41   13:12:09   00:11:28        16.89%      David Carlos Perez Antezano             ENDOCRINOLOGIA              284.01
+26/10/2023   93282118   13:54:51   14:36:03   00:41:12        37.73%      Raul Collado Villa                      CARDIOLOGIA                 62.58
+16/01/2024   65912822   13:48:09   15:42:30   01:54:21        73.13%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           399.69
+19/08/2023   68114999   11:12:19   13:32:56   02:20:37        68.40%      Edgar Munoz Vergel                      UROLOGIA                    249.60
+26/08/2023   68114999   10:42:43   12:56:27   02:13:44        20.17%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           1388.74
+17/03/2024   27709566   12:25:02   12:51:00   00:25:58        48.34%      Delia Estefania Cabrera Moreno          UROLOGIA                    332.88
+11/03/2024   49357767   16:15:17   17:15:12   00:59:55         2.55%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                885.06
+17/12/2023   59561864   15:30:02   17:03:27   01:33:25         6.79%      Estefania Zegarra Casanova              PEDIATRIA                   383.43
+01/08/2023   93939698   16:27:39   19:16:44   02:49:05        48.80%      David Carlos Perez Antezano             ENDOCRINOLOGIA              196.18
+01/08/2023   93961840   11:41:15   13:41:04   01:59:49         5.67%      Milena Cinthia Zarate Acuna             TRAUMATOLOGIA               1653.42
+01/09/2023   72330000   12:53:39   15:05:31   02:11:52         1.89%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   249.32
+09/02/2024   15290194   08:48:47   10:40:49   01:52:02        48.44%      Estefania Zegarra Casanova              PEDIATRIA                   338.12
+01/08/2023   62126128   16:44:04   17:03:29   00:19:25         5.76%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   373.90
+18/08/2023   68269451   10:34:47   12:44:49   02:10:02        83.99%      Zkenia Irma Chung Zuniga                TRAUMATOLOGIA               338.46
+11/03/2024   62287143   09:31:35   10:28:09   00:56:34        42.85%      Emilio Emigdio Gonzales Aguirre         UROLOGIA                    709.30
+01/08/2023   81647285   10:36:28   10:57:19   00:20:51        64.29%      Fiorella Erika Florencio Polo           DERMATOLOGIA                298.78
+21/08/2023   14956687   10:43:37   12:25:25   01:41:48        32.42%      Javier Edgard Landa Cabrera             PEDIATRIA                   1349.00
+09/02/2024   51642949   11:31:11   13:34:34   02:03:23        64.89%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                318.38
+09/09/2023   43704548   10:17:44   11:26:45   01:09:01        53.14%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 583.52
+27/10/2023   17299012   11:15:00   12:11:43   00:56:43        46.44%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 679.24
+28/08/2023   20371464   13:36:02   14:06:21   00:30:19        89.88%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               159.13
+14/01/2024   63640178   10:24:38   13:14:27   02:49:49        44.67%      David Carlos Perez Antezano             ENDOCRINOLOGIA              7.14
+16/11/2023   13731806   11:00:52   12:59:08   01:58:16        63.80%      Ofelia Carmen Mercado Caro              NEUMOLOGIA                  553.39
+14/08/2023   15290194   12:33:40   12:57:33   00:23:53         8.12%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           400.24
+06/03/2024   22679759   13:37:28   16:22:35   02:45:07        53.04%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               404.24
+02/02/2024   36471787   08:16:07   08:33:21   00:17:14         6.96%      Rosario Tabori Arias                    OFTALMOLOGIA                368.71
+29/11/2023   93939698   13:46:31   13:50:17   00:03:46         2.94%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 337.86
+29/08/2023   30246960   16:19:54   16:30:57   00:11:03         1.04%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                72.87
+14/08/2023   68114999   09:47:11   11:50:35   02:03:24        18.45%      Delia Estefania Cabrera Moreno          UROLOGIA                    1324.40
+25/10/2023   68114999   08:12:17   10:29:02   02:16:45        89.26%      Javier Edgard Landa Cabrera             PEDIATRIA                   302.44
+26/10/2023   90367684   13:18:38   15:18:01   01:59:23        17.87%      Zkenia Irma Chung Zuniga                TRAUMATOLOGIA               1672.84
+27/08/2023   62126128   13:13:07   15:04:45   01:51:38         1.55%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           469.01
+06/04/2024   35347567   14:37:57   16:40:10   02:02:13        22.70%      Glenda Cabrera Mori                     ONCOLOGIA                   1573.38
+23/09/2023   66091742   12:21:06   13:05:09   00:44:03        65.99%      Glenda Cabrera Mori                     ONCOLOGIA                   414.12
+17/08/2023   51465986   16:21:42   16:42:03   00:20:21        77.09%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              248.18
+12/02/2024   51642949   10:42:57   13:15:45   02:32:48        37.77%      Miguel Alex Landeo Estrada              CARDIOLOGIA                 1519.67
+21/01/2024   22679759   11:25:31   13:34:17   02:08:46        31.73%      Edgar Munoz Vergel                      UROLOGIA                    543.92
+25/08/2023   66039166   16:05:03   16:48:52   00:43:49        67.54%      Valentina Paula Urbina Antezano         PEDIATRIA                   313.18
+09/08/2023   72330000   12:42:32   13:43:13   01:00:41        23.84%      Javier Edgard Landa Cabrera             PEDIATRIA                   981.99
+23/08/2023   27709566   13:08:17   15:04:49   01:56:32        86.33%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  179.09
+02/04/2024   36471787   11:41:18   14:17:19   02:36:01        49.98%      Raul Collado Villa                      CARDIOLOGIA                 339.02
+13/09/2023   12484697   12:32:47   15:18:16   02:45:29        58.53%      Marina Natalia Garcia Inga              CARDIOLOGIA                 248.97
+05/04/2024   59596317   14:00:50   14:33:27   00:32:37        56.32%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 319.75
+25/10/2023   77324146   15:33:25   15:34:32   00:01:07         0.60%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   389.37
+14/03/2024   41964357   11:31:45   13:10:42   01:38:57        37.20%      Delia Zarate Urbina                     GASTROENTEROLOGIA           614.79
+25/08/2023   68269451   15:30:18   15:31:58   00:01:40        70.79%      Raul Collado Villa                      CARDIOLOGIA                 97.09
+04/08/2023   90367684   14:49:34   16:06:03   01:16:29        70.67%      Humberto Alfonso Amezquita Contreras    DERMATOLOGIA                560.09
+26/01/2024   85395219   13:21:43   15:32:26   02:10:43         3.70%      Glenda Cabrera Mori                     ONCOLOGIA                   1974.03
+26/03/2024   90367684   09:45:17   10:33:51   00:48:34        87.38%      Giovana Mejia Zegarra                   TRAUMATOLOGIA               281.84
+08/11/2023   13731806   11:19:32   11:20:28   00:00:56        54.35%      Estefania Zegarra Casanova              PEDIATRIA                   171.92
+01/09/2023   68114999   14:14:00   14:14:43   00:00:43        16.85%      Glenda Cabrera Mori                     ONCOLOGIA                   9.34
+18/11/2023   32538825   09:03:50   09:37:51   00:34:01        25.56%      Ofelia Carmen Mercado Caro              NEUMOLOGIA                  452.99
+29/08/2023   22598563   15:10:16   15:47:01   00:36:45        14.25%      Ofelia Carmen Mercado Caro              NEUMOLOGIA                  582.91
+06/04/2024   20371464   15:17:03   18:01:02   02:43:59        73.21%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           384.83
+27/08/2023   91187814   12:21:17   13:30:25   01:09:08        52.06%      Raul Collado Villa                      CARDIOLOGIA                 124.96
+01/12/2023   77324146   12:32:34   13:01:10   00:28:36         4.16%      Ofelia Carmen Mercado Caro              NEUMOLOGIA                  532.45
+01/09/2023   59596317   14:47:05   16:55:33   02:08:28        61.41%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  140.00
+24/01/2024   45914393   16:48:03   19:14:41   02:26:38        56.00%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                349.82
+27/08/2023   51465986   13:30:48   14:35:43   01:04:55        45.31%      Fiorella Erika Florencio Polo           DERMATOLOGIA                278.53
+03/04/2024   35852072   12:02:59   13:46:54   01:43:55        58.33%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              424.83
+27/08/2023   31284904   12:08:26   13:34:59   01:26:33        83.19%      Alfonso Waldemar Cabello Lam            CARDIOLOGIA                 272.23
+16/12/2023   59596317   10:24:37   11:23:55   00:59:18         9.56%      Milena Cinthia Zarate Acuna             TRAUMATOLOGIA               707.99
+26/01/2024   85395219   16:59:44   17:05:59   00:06:15         5.25%      David Carlos Perez Antezano             ENDOCRINOLOGIA              0.45
+17/08/2023   62126128   13:55:59   16:02:41   02:06:42        89.53%      Fiorella Erika Florencio Polo           DERMATOLOGIA                291.15
+22/10/2023   51465986   10:04:28   12:10:43   02:06:15         7.62%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 1970.85
+17/03/2024   35852072   11:00:19   13:47:54   02:47:35        33.64%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           974.17
+17/08/2023   71422479   08:18:40   10:48:24   02:29:44        59.59%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  170.87
+29/08/2023   93939698   14:30:27   17:02:41   02:32:14         6.57%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                2146.69
+08/08/2023   13731806   13:57:16   16:39:33   02:42:17        18.45%      Emilio Emigdio Gonzales Aguirre         UROLOGIA                    2354.32
+08/08/2023   13731806   14:05:18   15:55:32   01:50:14        87.86%      Estefania Zegarra Casanova              PEDIATRIA                   87.04
+27/11/2023   51642949   16:32:04   16:43:11   00:11:07        48.78%      Edgar Munoz Vergel                      UROLOGIA                    165.69
+14/09/2023   86988155   10:38:00   11:40:51   01:02:51        48.91%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 268.52
+17/10/2023   62126128   16:25:48   18:56:00   02:30:12         1.86%      Glenda Cabrera Mori                     ONCOLOGIA                   2610.48
+23/09/2023   71422479   14:41:45   17:03:15   02:21:30        44.03%      Giovana Mejia Zegarra                   TRAUMATOLOGIA               1178.27
+05/04/2024   57182371   12:18:20   15:13:32   02:55:12        45.14%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1457.12
+17/09/2023   30246960   13:32:43   16:25:21   02:52:38        84.00%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 518.81
+28/02/2024   22598563   16:25:00   18:07:44   01:42:44         3.89%      Delia Estefania Cabrera Moreno          UROLOGIA                    1285.47
+04/04/2024   81647285   10:42:53   11:02:46   00:19:53        60.95%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 162.83
+11/01/2024   13731806   14:39:37   15:48:34   01:08:57        86.24%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                46.84
+01/08/2023   62126128   16:51:34   17:24:42   00:33:08        73.62%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           223.23
+03/04/2024   35606314   16:19:48   17:26:10   01:06:22        44.75%      Francisco Zimic Salas                   ENDOCRINOLOGIA              522.47
+17/08/2023   36934113   15:19:37   16:49:06   01:29:29        86.89%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 242.32
+02/04/2024   35606314   11:31:04   12:28:36   00:57:32        25.52%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   237.22
+29/03/2024   20371464   13:34:41   16:26:29   02:51:48        50.96%      Delia Zarate Urbina                     GASTROENTEROLOGIA           547.50
+10/08/2023   12484697   13:12:46   14:24:10   01:11:24        66.25%      Edgar Munoz Vergel                      UROLOGIA                    245.84
+05/08/2023   34697743   15:26:09   18:07:20   02:41:11        69.91%      Miguel Alex Landeo Estrada              CARDIOLOGIA                 936.99
+12/02/2024   62287143   14:16:59   15:07:52   00:50:53        68.83%      Edgar Munoz Vergel                      UROLOGIA                    89.09
+06/03/2024   99891737   09:43:27   10:18:04   00:34:37        64.66%      Valentina Paula Urbina Antezano         PEDIATRIA                   83.67
+26/10/2023   57182371   16:12:47   16:52:01   00:39:14        76.11%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 232.63
+17/08/2023   28992638   13:01:10   14:18:36   01:17:26         6.37%      Rosario Tabori Arias                    OFTALMOLOGIA                1276.85
+01/10/2023   93961840   13:18:30   15:45:43   02:27:13        34.45%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 285.30
+15/08/2023   99891737   14:09:10   16:28:52   02:19:42        15.43%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 1785.99
+22/08/2023   71422479   16:47:50   17:27:37   00:39:47        55.68%      Fiorella Erika Florencio Polo           DERMATOLOGIA                199.51
+22/10/2023   51873364   15:04:27   15:44:28   00:40:01        74.88%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           96.27
+03/04/2024   99891737   14:26:32   17:05:41   02:39:09        23.96%      Estefania Zegarra Casanova              PEDIATRIA                   740.48
+29/12/2023   51873364   08:15:42   08:20:27   00:04:45        89.46%      Delia Estefania Cabrera Moreno          UROLOGIA                    79.24
+30/10/2023   36934113   12:26:11   14:13:42   01:47:31         4.63%      Zkenia Irma Chung Zuniga                TRAUMATOLOGIA               1694.81
+18/08/2023   62287143   10:23:21   10:46:17   00:22:56        62.23%      Raul Collado Villa                      CARDIOLOGIA                 237.35
+21/11/2023   57182371   10:22:44   11:50:08   01:27:24         4.43%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1211.54
+17/03/2024   54815159   13:58:23   16:44:48   02:46:25        22.66%      Valentina Paula Urbina Antezano         PEDIATRIA                   1145.38
+27/01/2024   35606314   08:17:40   09:25:12   01:07:32        78.51%      Miguel Alex Landeo Estrada              CARDIOLOGIA                 341.87
+02/03/2024   58643376   15:13:14   18:07:54   02:54:40        60.56%      Miguel Alex Landeo Estrada              CARDIOLOGIA                 1025.68
+03/08/2023   66091742   14:21:11   15:26:09   01:04:58        43.65%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                308.98
+04/04/2024   14956687   12:43:20   12:43:38   00:00:18        47.70%      Fiorella Erika Florencio Polo           DERMATOLOGIA                1.23
+19/08/2023   71422479   15:48:08   18:39:56   02:51:48         3.82%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                1117.25
+15/10/2023   91187814   15:54:08   15:58:04   00:03:56        80.26%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 223.97
+30/08/2023   93282118   16:53:21   17:38:30   00:45:09        37.82%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                215.34
+17/03/2024   45201670   14:39:47   15:47:51   01:08:04        70.97%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   6.35
+14/03/2024   90367684   14:57:24   17:16:19   02:18:55        63.09%      Milena Cinthia Zarate Acuna             TRAUMATOLOGIA               879.34
+01/09/2023   86988155   11:33:40   14:28:32   02:54:52         2.09%      Emilio Emigdio Gonzales Aguirre         UROLOGIA                    2800.14
+16/08/2023   41964357   14:55:36   16:54:05   01:58:29         1.98%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 1746.67
+11/03/2024   54149342   14:49:14   14:57:45   00:08:31         9.89%      Delia Estefania Cabrera Moreno          UROLOGIA                    273.36
+27/08/2023   58643376   11:00:53   13:25:58   02:25:05        22.58%      David Carlos Perez Antezano             ENDOCRINOLOGIA              295.16
+18/12/2023   51642949   09:06:48   09:45:58   00:39:10        15.22%      Alfonso Waldemar Cabello Lam            CARDIOLOGIA                 115.39
+29/12/2023   86988155   11:11:44   12:58:24   01:46:40        27.88%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                485.42
+26/08/2023   54149342   15:24:42   15:36:36   00:11:54        64.07%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   185.91
+24/08/2023   13731806   16:21:39   17:42:49   01:21:10         5.26%      David Carlos Perez Antezano             ENDOCRINOLOGIA              5.84
+17/09/2023   41964357   12:16:53   12:55:37   00:38:44        44.58%      Surami Heli Preciado Pinto              TRAUMATOLOGIA               526.66
+24/01/2024   95656771   09:32:04   12:03:50   02:31:46        30.19%      Glenda Cabrera Mori                     ONCOLOGIA                   1953.60
+22/11/2023   86988155   16:37:14   18:29:10   01:51:56         7.91%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                1489.32
+01/09/2023   30246960   15:20:30   15:36:32   00:16:02         1.34%      Valentina Paula Urbina Antezano         PEDIATRIA                   477.89
+01/08/2023   43704548   15:23:13   16:52:32   01:29:19         6.74%      Lourdes Carmela Yallico Paredes         OFTALMOLOGIA                322.93
+01/10/2023   20371464   13:12:11   14:49:19   01:37:08        73.53%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           118.76
+13/11/2023   93961840   11:34:31   11:52:31   00:18:00        54.83%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           34.70
+26/08/2023   31284904   09:12:23   09:45:36   00:33:13        66.56%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 342.66
+26/08/2023   77440060   08:46:27   09:14:43   00:28:16        52.30%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  132.11
+17/08/2023   85395219   16:05:47   16:43:44   00:37:57        10.30%      Delia Zarate Urbina                     GASTROENTEROLOGIA           221.22
+30/08/2023   75100362   10:59:22   12:56:27   01:57:05        44.63%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           431.46
+01/09/2023   32538825   12:37:26   14:14:47   01:37:21         9.04%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   472.35
+04/08/2023   20371464   13:42:22   16:18:53   02:36:31        53.14%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                702.33
+02/08/2023   92275859   08:00:16   09:40:50   01:40:34         4.87%      Delia Estefania Cabrera Moreno          UROLOGIA                    1604.59
+30/08/2023   20371464   12:51:37   13:16:13   00:24:36        83.04%      Delia Zarate Urbina                     GASTROENTEROLOGIA           118.83
+13/09/2023   20371464   11:37:52   13:25:01   01:47:09        29.85%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1138.54
+20/10/2023   62287143   15:26:33   15:27:36   00:01:03        71.43%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                33.17
+29/12/2023   85395219   12:21:37   12:49:28   00:27:51         4.30%      Wilmer Saenz Aranda                     GINECOLOGIA                 78.45
+22/11/2023   54815159   09:18:26   10:15:53   00:57:27        78.80%      Francisco Zimic Salas                   ENDOCRINOLOGIA              192.11
+02/08/2023   80694546   15:24:00   15:27:15   00:03:15        63.64%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           240.18
+09/09/2023   99891737   13:10:54   13:57:03   00:46:09        30.92%      Zkenia Irma Chung Zuniga                TRAUMATOLOGIA               642.51
+17/03/2024   54149342   08:32:08   08:50:54   00:18:46        34.11%      Carmen Zamora Cabrera                   ENDOCRINOLOGIA              307.60
+14/08/2023   45201670   14:17:57   15:12:17   00:54:20        62.42%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                474.71
+20/12/2023   45914393   10:42:31   12:57:47   02:15:16        34.99%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 1322.54
+12/08/2023   20371464   11:57:41   11:59:20   00:01:39        19.44%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               6.61
+04/08/2023   49357767   12:19:53   13:36:11   01:16:18         9.92%      Surami Heli Preciado Pinto              TRAUMATOLOGIA               1097.93
+18/08/2023   61061535   16:12:07   18:13:08   02:01:01        24.86%      Delia Zarate Urbina                     GASTROENTEROLOGIA           924.68
+03/08/2023   54815159   12:44:31   13:53:17   01:08:46        65.68%      Walter Jolay Chumpitaz                  TRAUMATOLOGIA               320.53
+19/08/2023   35852072   10:19:05   12:27:38   02:08:33        35.85%      Delicia Arca Aquino                     DERMATOLOGIA                719.55
+13/08/2023   93961840   12:02:19   12:42:49   00:40:30        33.62%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  84.05
+19/08/2023   72973662   12:08:41   13:16:36   01:07:55        35.72%      Yliana Flor Ortiz Guevara               GINECOLOGIA                 314.97
+17/11/2023   31284904   13:44:02   15:54:09   02:10:07        17.93%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                759.45
+06/02/2024   93961840   16:50:51   18:25:00   01:34:09         5.71%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           1334.11
+09/08/2023   15290194   12:51:33   14:06:50   01:15:17        59.53%      Emilio Emigdio Gonzales Aguirre         UROLOGIA                    680.59
+06/02/2024   85395219   09:31:54   10:59:22   01:27:28        35.85%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                379.39
+06/09/2023   94683380   09:27:38   12:11:20   02:43:42        35.88%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           1365.39
+01/10/2023   71422479   10:38:52   12:45:46   02:06:54        87.07%      Wilmer Saenz Aranda                     GINECOLOGIA                 98.70
+01/04/2024   34571095   16:28:50   17:07:56   00:39:06        29.25%      Humberto Alfonso Amezquita Contreras    DERMATOLOGIA                728.88
+19/09/2023   93282118   14:55:00   17:23:01   02:28:01        16.57%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1556.90
+30/08/2023   54149342   08:09:18   10:37:57   02:28:39        69.96%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                487.08
+09/02/2024   37282858   13:01:44   13:13:22   00:11:38         3.68%      Delia Estefania Cabrera Moreno          UROLOGIA                    145.88
+16/01/2024   81647285   10:42:40   12:36:22   01:53:42         5.92%      David Carlos Perez Antezano             ENDOCRINOLOGIA              8.13
+20/08/2023   77440060   12:58:28   14:32:11   01:33:43        24.25%      Delicia Arca Aquino                     DERMATOLOGIA                801.50
+09/03/2024   54149342   12:40:05   13:01:26   00:21:21        47.82%      Javier Edgard Landa Cabrera             PEDIATRIA                   166.64
+29/08/2023   80694546   08:37:56   11:16:51   02:38:55        46.13%      Rosario Tabori Arias                    OFTALMOLOGIA                1608.33
+29/08/2023   15290194   16:53:35   18:59:37   02:06:02        76.83%      David Carlos Perez Antezano             ENDOCRINOLOGIA              86.26
+22/12/2023   53420926   14:23:08   16:12:11   01:49:03        37.85%      Humberto Alberto Vargas Guevara         GASTROENTEROLOGIA           901.17
+02/04/2024   99891737   14:23:20   15:10:59   00:47:39        45.75%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                391.20
+14/12/2023   35852072   08:43:01   09:25:09   00:42:08        88.82%      Valentina Paula Urbina Antezano         PEDIATRIA                   184.77
+17/08/2023   52313890   10:44:35   12:32:19   01:47:44        29.69%      Alfonso Waldemar Cabello Lam            CARDIOLOGIA                 408.28
+04/12/2023   36934113   12:56:26   14:12:03   01:15:37        29.01%      Miguel Alex Landeo Estrada              CARDIOLOGIA                 799.25
+16/02/2024   51642949   12:52:01   13:49:04   00:57:03        67.33%      Jaime Julian Shirakawa Florian          NEUMOLOGIA                  80.60
+03/08/2023   51642949   08:15:17   09:37:46   01:22:29        80.27%      Fiorella Erika Florencio Polo           DERMATOLOGIA                351.05
+13/09/2023   37282858   14:49:04   17:23:11   02:34:07        21.07%      Edgar Munoz Vergel                      UROLOGIA                    851.77
+29/08/2023   61061535   15:36:41   15:46:12   00:09:31        77.73%      Victoria Fiorella Cuba Pomajambo        GASTROENTEROLOGIA           173.67
+29/03/2024   51465986   08:48:21   10:44:16   01:55:55        60.21%      Marina Natalia Garcia Inga              CARDIOLOGIA                 332.52
+01/12/2023   27709566   10:09:16   11:35:16   01:26:00         9.20%      Valentina Paula Urbina Antezano         PEDIATRIA                   656.58
+03/08/2023   51873364   12:08:12   13:43:11   01:34:59         5.50%      David Carlos Perez Antezano             ENDOCRINOLOGIA              389.17
+13/08/2023   86988155   09:25:31   10:00:47   00:35:16         5.34%      Rosario Maribel Yep Zavaleta            GINECOLOGIA                 623.33
+26/08/2023   72330000   10:10:44   13:02:44   02:52:00        42.72%      Luz Sofia Jauregui Bravo                DERMATOLOGIA                1330.29
+22/11/2023   77324146   14:20:56   14:39:28   00:18:32         0.64%      Humberto Alfonso Amezquita Contreras    DERMATOLOGIA                586.30
+29/12/2023   72973662   10:37:21   11:14:11   00:36:50        15.09%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           273.97
+29/08/2023   93282118   12:40:25   14:38:43   01:58:18        30.85%      Francisco Zimic Salas                   ENDOCRINOLOGIA              1421.56
+11/01/2024   35606314   16:51:01   19:40:24   02:49:23        88.99%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                387.40
+27/03/2024   77324146   08:48:46   09:53:23   01:04:37        69.45%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           320.44
+17/09/2023   90367684   11:10:34   13:32:03   02:21:29        63.09%      Humberto Alfonso Amezquita Contreras    DERMATOLOGIA                756.63
+20/08/2023   32538825   14:49:59   16:04:01   01:14:02        89.31%      Gustavo Alonso Del Castillo Mejia       GERIATRIA                   217.66
+17/03/2024   65912822   12:19:32   14:39:23   02:19:51        10.37%      Alfonso Waldemar Cabello Lam            CARDIOLOGIA                 524.53
+14/03/2024   81647285   13:06:37   14:57:18   01:50:41        17.56%      Glenda Cabrera Mori                     ONCOLOGIA                   1776.49
+16/08/2023   93231760   13:01:54   14:41:43   01:39:49        53.11%      Cinthia Milena Zegarra Cabello          GINECOLOGIA                 929.19
+17/09/2023   54815159   08:43:39   10:53:42   02:10:03         6.30%      Blanca Luz Acuna Ayllon                 OFTALMOLOGIA                1329.17
+01/09/2023   93961840   09:03:45   12:02:58   02:59:13        31.93%      Delia Zarate Urbina                     GASTROENTEROLOGIA           800.03
+14/01/2024   12484697   13:31:10   14:00:16   00:29:06         8.40%      Delicia Rosa Arca Leiva                 OFTALMOLOGIA                238.01
+01/02/2024   94683380   11:25:03   11:25:53   00:00:50        79.03%      Surami Heli Preciado Pinto              TRAUMATOLOGIA               209.46
+29/11/2023   20371464   10:36:59   13:29:07   02:52:08        17.44%      Ofelia Beatriz Montero Bolanos          GASTROENTEROLOGIA           1425.62
+02/10/2023   49357767   16:48:25   17:59:43   01:11:18        16.99%      Victoria Milagros Shirakawa Saona       PEDIATRIA                   241.13
+30/08/2023   80694546   10:25:24   12:27:50   02:02:26        39.73%      Delia Zarate Urbina                     GASTROENTEROLOGIA           693.70
+01/08/2023   68269451   12:05:05   12:54:22   00:49:17        38.85%      Estefania Zegarra Casanova              PEDIATRIA                   337.88
+27/03/2024   61061535   13:52:21   15:00:22   01:08:01        86.19%      Teresa Teresa Martel Mercado            PEDIATRIA                   120.30
+============================================================================================================================================================
+Total de ingresos: 162246.72
+============================================================================================================================================================
+Paciente que mas gasto en una cita medica:        86988155
+Monto gastado:                                    2800.14
+============================================================================================================================================================
