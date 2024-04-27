@@ -118,17 +118,6 @@ void ordenar(int num_Alumnos,int num_cursos,int* ARRcodigoAlumno,
         }
         
     }
-    for(int i=0;i<num_Alumnos-1;i++){
-        for (int k = i+1; k < num_Alumnos; k++){
-            if(totalApagar[i]<totalApagar[k]){
-                cambiarInt(ARRcodigoAlumno[i],ARRcodigoAlumno[k]);
-                cambiarInt(ARRescalaAlumno[i],ARRescalaAlumno[k]);
-                cambiarInt(totalCursos[i],totalCursos[k]);
-                cambiarDouble(totalCreditos[i],totalCreditos[k]);
-                cambiarDouble(totalApagar[i],totalApagar[k]);                
-            }
-        }
-    }
     for(int i=0;i<num_cursos-1;i++){
         for (int k = i+1; k < num_cursos; k++){
             if(alumnosMatriculados[i]>alumnosMatriculados[k]){
