@@ -1,0 +1,5 @@
+32    Argentina
+604     Peru
+76     Brasil
+17     Uruguay
+59  Colombia
