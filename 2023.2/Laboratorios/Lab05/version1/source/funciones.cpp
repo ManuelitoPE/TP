@@ -115,8 +115,7 @@ void ordenar(int num_Alumnos,int num_cursos,int* ARRcodigoAlumno,
                 cambiarDouble(totalCreditos[i],totalCreditos[k]);
                 cambiarDouble(totalApagar[i],totalApagar[k]);                
             }
-        }
-        
+        }   
     }
     for(int i=0;i<num_cursos-1;i++){
         for (int k = i+1; k < num_cursos; k++){
@@ -129,7 +128,7 @@ void ordenar(int num_Alumnos,int num_cursos,int* ARRcodigoAlumno,
         }
     }
 }
-void cambiarInt(int& a, int& b){\
+void cambiarInt(int& a, int& b){
     int aux=a;
     a=b;
     b=aux;
