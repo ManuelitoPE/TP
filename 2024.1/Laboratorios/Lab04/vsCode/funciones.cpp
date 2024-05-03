@@ -81,7 +81,7 @@ void imprimirNombre(ofstream& report,ifstream& arch,
     }
     if(aux=='A')report<<setw(50-cont)<<" ";
     else if(aux=='B')report<<setw(25-cont)<<" ";
-    else report<<setw(30-cont)<<" ";
+    else report<<setw(34-cont)<<" ";
 }
 void lecturaImpresionCitas(int codMedico,double tarifa,int& codMedicoMAX,
                            double& totalMedicoMAX,ifstream& archCitasMedicas,
@@ -210,7 +210,7 @@ void imprimirMedicina(int codPRo,int cantPro,double porcentaje,
             imprimirNombre(report,archMedicinas,' ','C'); archMedicinas>>precio;
             descuento= ((precio*cantPro)*porcentaje)/200;
             total= (precio*cantPro)-descuento;
-            report<<setw(10)<<cantPro<<setw(10)<<precio<<total<<endl;
+            report<<setw(7)<<cantPro<<setw(9)<<precio<<total<<endl;
             pago+=total;
             break;
         }else while(archMedicinas.get()!='\n');

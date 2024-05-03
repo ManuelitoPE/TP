@@ -32,7 +32,8 @@ void lecturaMedicinasRecetas(ifstream& archCitasMedicas,ifstream& archMedicinas,
 void buscarImprimirMedicina(ofstream& report,ifstream& archMedicinas,
                             int codProducto,int cantPro,
                             double& pagoMedicinasTotal,double porcentaje);
-
+void mejorMedico(ifstream& archMedicos,int codMedicoAporte,
+                 double totalMedico, ofstream&  report);
 
 
 #endif /* FUNCIONES_H */

@@ -58,13 +58,10 @@ void emitirReporte(const char* nomCitasMedicas,const char* nomMedicinas,
         report<<endl<<setw(20)<<"Tarifa:"<<tarifa<<endl<<"PACIENTES ATENDIDOS"<<endl;
         //Leemos y imprimimos
         lecturaDeCitas(codigoMedico,tarifa,codMedicoAporte,totalMedico,
-                       archCitasMedicas,archMedicinas,report);
-        report<<"MEDICO QUE APORTO MAS INRESOS "<<endl
-              <<"Codigo"<<codMedicoAporte<<endl
-              <<"Total ingresado: "<<totalMedico<<endl;
-              
-             
+                       archCitasMedicas,archMedicinas,report);     
+        linea(report,MAX_LINEA,'=');   
     }
+    mejorMedico(archMedicos,codMedicoAporte,totalMedico,report);
 }
 void encabezado(ofstream& report){
     report<<setw(60)<<"EMPRESA DE SALUD S.A."<<endl;
@@ -94,16 +91,16 @@ void impresionNombre(ofstream& report,ifstream& arch,
     }
     if(aux=='A')report<<setw(50-cont)<<" ";
     else if(aux=='B')report<<setw(25-cont)<<" ";
-    else report<<setw(35-cont)<<" ";
+    else report<<setw(34-cont)<<" ";
 }
 void sub_encabezado(ofstream& report){
     linea(report,MAX_LINEA,'-');   
-    report<<setw(20)<<"Fecha"
-          <<setw(20)<<"Paciente"
-          <<setw(20)<<"Inicio"
-          <<setw(20)<<"Fin"
-          <<setw(20)<<"Duracion"
-          <<setw(20)<<"% de descuento por Seguro"
+    report<<setw(13)<<"Fecha"
+          <<setw(12)<<"Paciente"
+          <<setw(12)<<"Inicio"
+          <<setw(9)<<"Fin"
+          <<setw(12)<<"Duracion"
+          <<setw(28)<<"% de descuento por Seguro"
           <<setw(20)<<"Pago por cita"<<endl;
     linea(report,MAX_LINEA,'-');   
 }
@@ -112,7 +109,7 @@ void lecturaDeCitas(int codigoMedico,double tarifa,int& codMedicoAporte,
                     ifstream& archMedicinas,ofstream& report){
     //Variables
     int dd,mm,aa,dni,hhI,minI,ssI,hhF,minF,ssF,aux_codigoMedico,duracion;
-    double porcentaje,duracionH,pagoCita,pagoMedicinasTotal=0,total;
+    double porcentaje,duracionH,pagoCita,pagoMedicinasTotal=0,total,ingresado=0;
     char c;
             
     //Reiniciamos cursor de archCitas Medicas
@@ -131,13 +128,14 @@ void lecturaDeCitas(int codigoMedico,double tarifa,int& codMedicoAporte,
             lecturaMedicinasRecetas(archCitasMedicas,archMedicinas,pagoMedicinasTotal,
                                     report,porcentaje);
             total=pagoCita+pagoMedicinasTotal;
+            ingresado+=total;
             report<<"Pago total: "<<total<<endl;
         }else while(archCitasMedicas.get()!='\n');
         //pago total
     }
     //si es el mayor pago resgistrado
-    if(total>totalMedico){
-        totalMedico=total;
+    if(ingresado>totalMedico){
+        totalMedico=ingresado;
         codMedicoAporte=codigoMedico;
     }
 }
@@ -161,17 +159,17 @@ void impresionDatosCita(int dd,int mm,int aa,int dni,int hhI,int minI,
     double descuento=((tarifa*duracionH)*porcentaje)/100;
     sub_encabezado(report);
     report<<right<<setfill('0')<<setw(2)<<dd<<'/'<<setw(2)<<mm<<'/'
-          <<setw(4)<<aa<<setfill(' ')<<setw(3)<<" "<<left<<setw(10)<<dni
+          <<setw(4)<<aa<<setfill(' ')<<setw(3)<<" "<<left<<setw(11)<<dni
           <<right<<setfill('0')<<setw(2)<<hhI<<':'<<setw(2)<<minI<<':'
           <<setw(2)<<ssI<<setfill(' ')<<setw(3)<<" "<<setfill('0')
           <<setw(2)<<hhF<<':'<<setw(2)<<minF<<':'
           <<setw(2)<<ssF<<setfill(' ')<<setw(3)<<" "<<left;
     convertHMS(hh,min,ss,duracion);
     report<<right<<setfill('0')<<setw(2)<<hh<<':'<<setw(2)<<min<<':'
-          <<setw(2)<<ss<<setfill(' ')<<setw(5)<<" "<<porcentaje<<'%';
+          <<setw(2)<<ss<<setfill(' ')<<setw(13)<<" "<<porcentaje<<'%';
     pagoCita= (tarifa*duracionH)-descuento;
-    report<<setw(10)<<pagoCita<<endl<<left
-          <<"Medicinas Recetadas: "<<endl;
+    report<<setw(24)<<pagoCita<<endl<<left
+          <<setw(25)<<"Medicinas Recetadas: "<<endl;
 }
 void convertHMS(int& hh,int& min,int& ss,int duracion){
     hh=(int)duracion/3600;
@@ -185,16 +183,16 @@ void lecturaMedicinasRecetas(ifstream& archCitasMedicas,ifstream& archMedicinas,
                              ofstream& report,double porcentaje){
     //Variables
     int codProducto,cantPro,cont=1;
-    report<<setw(5)<<" "<<setw(5)<<"No."
-              <<setw(10)<<"Codigo"
+    report<<setw(22)<<" "<<setw(5)<<"No."
+              <<setw(9)<<"Codigo"
               <<setw(30)<<"Descripcion"
-              <<setw(10)<<"Cantidad"
-              <<setw(10)<<"Precio"
+              <<setw(13)<<"Cantidad"
+              <<setw(12)<<"Precio"
               <<setw(10)<<"Pago"<<endl;
     while(archCitasMedicas.get()!='\n'){
         archCitasMedicas>>codProducto>>cantPro;
-        report<<setw(5)<<" "<<right<<setfill('0')<<setw(2)<<cont<<left<<setfill(' ')
-              <<setw(3)<<" "<<setw(10)<<codProducto;
+        report<<setw(22)<<" "<<right<<setfill('0')<<setw(2)<<cont<<left<<setfill(' ')
+              <<setw(3)<<" "<<setw(9)<<codProducto;
         buscarImprimirMedicina(report,archMedicinas,codProducto,cantPro,
                                pagoMedicinasTotal,porcentaje);
         cont++;
@@ -220,11 +218,37 @@ void buscarImprimirMedicina(ofstream& report,ifstream& archMedicinas,
             archMedicinas>>precio;
             report<<setw(10)<<cantPro
                   <<setw(10)<<precio;
-            descuento=((cantPro*precio)*porcentaje)/100;
+            descuento=((cantPro*precio)*porcentaje)/200;
             pago=(cantPro*precio)-descuento;
             pagoMedicinasTotal+=pago;
             report<<pago<<endl;
             break;
         }else while(archMedicinas.get()!='\n');
     }
+}
+void mejorMedico(ifstream& archMedicos,int codMedicoAporte,
+                 double totalMedico, ofstream&  report){
+    //Variables
+    int aux_cod;
+    double tarifa;
+    //Reiniciamos el cursor
+    archMedicos.clear();
+    archMedicos.seekg(0,ios::beg);
+    while(true){
+        archMedicos>>aux_cod;
+        if(aux_cod==codMedicoAporte){
+            archMedicos>>ws; archMedicos.get();
+            report<<"MEDICO QUE APORTO MAS INGRESOS AL INSTITUTO:"<<endl
+                <<setw(20)<<"Codigo del medico:"<<codMedicoAporte<<endl
+                <<setw(20)<<"Nombre del medico:";
+            impresionNombre(report,archMedicos,'/','A');
+            report<<endl<<setw(20)<<"Especialidad:"; archMedicos>>ws;
+            impresionNombre(report,archMedicos,' ','B'); archMedicos>>tarifa;
+            report<<endl<<setw(20)<<"Tarifa:"<<tarifa<<endl
+                  <<"Total ingresado por el medico: "<<totalMedico<<endl;
+            linea(report,MAX_LINEA,'=');
+            break;
+        }else while(archMedicos.get()!='\n');
+    } 
+
 }
