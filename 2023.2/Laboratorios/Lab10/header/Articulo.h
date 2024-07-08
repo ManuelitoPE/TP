@@ -1,11 +1,13 @@
 //Author: MAKO
 #ifndef ARTICULO_H
 #define ARTICULO_H
+
 struct Articulo{
-    char codigo[8];
-    char descripcion[70];
-    double precio;
-    int cantVendido;
+    char code[8];
+    char description[100];
+    double price;
+    int cant;
     double montoVendido;
 };
+
 #endif
