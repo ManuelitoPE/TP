@@ -1,0 +1,1464 @@
+                               LISTA DE VENDEDORES
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+001) 11602775  HIJAR ARCA ADOLFO                               5.61       67000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3758.70
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3758.70
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+002) 12663268  BARRERA FLORES ENRIQUE                          13.05       36000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4698.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4698.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+003) 13245501  ESCALANTE YINO EDWARD GONZALO                   6.03      103000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6210.90
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6210.90
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+004) 15210391  QUIROGA CASANOVA BRUNO                          7.82       35000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2737.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2737.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+005) 15561764  VILLEGAS CASTRO ALONSO                          19.24        6000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1154.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1154.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+006) 16151792  DURAND CASTRO FLOR MARTHA                       22.74       59000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -13416.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -13416.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+007) 16552775  YALLICO PAREDES LOURDES CARMELA                 15.52       31000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4811.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4811.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+008) 17913944  PALOMARES SANTISTEBAN HENRRY                    18.46       18000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3322.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3322.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+009) 17972674  PISCOYA PORTUGAL WALDEMAR GUSTAVO               7.34       16000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1174.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1174.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+010) 19829266  TOMASICHE MEJIA MELVIN                          12.52       13000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1627.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1627.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+011) 20864087  ZEGARRA CASANOVA ESTEFANIA                      27.50       35000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -9625.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -9625.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+012) 22280452  GONZALES MALDONADO ZKENIA ERIKA                 23.35       25000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5837.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5837.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+013) 22777006  ASMAD PINTO MARIA LORENA                        26.48        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2118.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2118.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+014) 23928045  ARCA VILCA RONALD                               26.20      125000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -32750.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -32750.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+015) 24995742  MEREL TAVERA WALTER                             17.36       19000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3298.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3298.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+016) 25171011  CRUZ JUGO SANDRO FAUSTO                         6.24       53000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3307.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3307.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+017) 26233063  TSUKAZAN AYALA MARINA MAGDA                     9.18       17000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1560.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1560.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+018) 26290971  SANTISTEBAN AYALA CAROLA MARITZA                6.08       36000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2188.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2188.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+019) 26976877  TORO CUBA DIALY DIANA                           23.14       38000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -8793.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -8793.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+020) 27635082  CONTRERAS GUEVARA MARINA                        3.29       35000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1151.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1151.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+021) 27912250  CUBA CHUNG ISRAEL EDILBERTO                     26.85       50000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -13425.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -13425.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+022) 28390487  IPARRAGUIRRE PAREDES RAUL                       27.44        3000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -823.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -823.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+023) 29337157  VIZCARDO YEP GUIDA YOLANDA                      15.82       33000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5220.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5220.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+024) 29847168  ALDAVE ZEVALLOS ROSARIO                         12.17        1000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -121.70
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -121.70
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+025) 31193794  GARCIA YINO AMERICO WALDEMAR                    8.77       13000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1140.10
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1140.10
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+026) 31611146  LANDEO LARRIEGA MARTIN                          10.74       30000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3222.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3222.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+027) 32565207  RIVERA ZARATE MARINA                            3.93       44000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1729.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1729.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+028) 32821689  ZAVALETA EPIQUEN CARMEN ZKENIA                  11.00       27000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2970.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2970.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+029) 32904023  PRADO FORZANI LOURDES                           4.46       52000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2319.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2319.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+030) 33397650  RONDON EGUSQUIZA CARMELA VALENTINA              6.79        7000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -475.30
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -475.30
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+031) 33713901  VILLEGAS CASTRO SOFIA VIRGINIA                  16.61       30000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4983.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4983.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+032) 35565959  VILCARA RODRIGUEZ ANNIE                         16.41       60000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -9846.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -9846.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+033) 35584593  LAM VIZCARDO MILAGROS YVONNE                    16.76       21000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3519.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3519.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+034) 36008913  CASTILLO ZAMORA VICTOR NESTOR                   7.84       12000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -940.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -940.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+035) 36380447  RIVERO RETTO JESUS                              15.35        4000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -614.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -614.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+036) 37110873  VERGEL HIJAR JESUS                              4.62       47000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2171.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2171.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+037) 38637282  TABORI CARBAJAL YDALI MAGDA                     23.08        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1846.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1846.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+038) 38913831  FUENTES TSUKAZAN PATRICIA OFELIA                12.57       44000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5530.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5530.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+039) 40112594  CARO RARAZ CHRISTIAN RONAL                      3.17       23000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -729.10
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -729.10
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+040) 40348917  VEGA TSUKAZAN VALENTINA                         14.89       70000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -10423.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -10423.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+041) 41036366  JUSTINO LOYOLA JENNY MAGDA                      5.46       10000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -546.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -546.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+042) 42157219  LUNA CUEVA RICHARD                              4.42       34000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1502.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1502.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+043) 42798099  ZEGARRA MUNOZ SONIA GUIDA                       25.94       16000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4150.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4150.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+044) 42928709  HERNANDEZ MALCA VIRGINIA                        19.81       22000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4358.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4358.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+045) 43043986  LOZADA VALVERDE MOISES HENRRY                   4.30       23000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -989.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -989.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+046) 43053402  BENAVENTE ZIMIC MADELEINE ZKENIA                16.48       27000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4449.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4449.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+047) 43488351  MINAYA CERNA LORENA FIORELLA                    6.92       22000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1522.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1522.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+048) 43877279  RARAZ SUCHERO ADOLFO                            25.30       43000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -10879.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -10879.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+049) 44229880  PALOMARES BARRIOS EDWARD CESAR                  24.11       21000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5063.10
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5063.10
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+050) 44679500  CORREA ARCA HELI                                3.46        3000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -103.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -103.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+051) 45783712  POZO CHUNG RAFAEL DEL                           3.97       46000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1826.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1826.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+052) 45828535  SEDANO MERCADO FIORELLA GLORIA                  11.15       37000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4125.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4125.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+053) 45877001  SORIA VILLA HENRRY                              18.76       17000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3189.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3189.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+054) 46462527  LOYOLA MORI NICOLAS FERNANDO                    19.94       25000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4985.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4985.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+055) 48184351  LOPEZ JAUREGUI ROLANDO                          3.59       24000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -861.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -861.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+056) 48467976  BENITES SANCHEZ MARGOT DELICIA                  24.36        7000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1705.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1705.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+057) 49087435  GALLO MARTINEZ VICTOR GUILLERMO                 26.68       42000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -11205.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -11205.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+058) 50365593  SUAREZ BRAVO MARIELLA TATIANA                   23.59       49000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -11559.10
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -11559.10
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+059) 50375303  SANCHEZ HUAYANAY DIALY LUCERO                   23.76       56000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -13305.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -13305.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+060) 52097922  CUBA DURAND YVONNE                              15.51       35000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5428.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5428.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+061) 53166028  CANO CHUNG EMILIO NICOLAS                       9.63        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -770.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -770.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+062) 54716824  VALVERDE SEGURA MIGUEL JOSE                     27.43       47000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -12892.10
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -12892.10
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+063) 54761731  LOYOLA IBEROS ANGEL GUSTAVO                     3.66       68000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2488.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2488.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+064) 55552996  SUCHERO PRECIADO MILAGROS ERICKA                25.46       71000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -18076.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -18076.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+065) 57263719  PRADO TORREALBA CARMEN JANET                    24.67       50000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -12335.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -12335.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+066) 57690875  NORABUENA VILLEGAS ARTURO RAFAEL                3.07       38000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1166.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1166.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+067) 58187172  SUAREZ ZIMIC MOISES                             24.45        4000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -978.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -978.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+068) 59162728  HUAYANAY CORTES GLENDA MARINA                   12.74        1000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -127.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -127.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+069) 59407188  CANALES MOYA ALONSO JULIO                       5.69       32000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1820.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1820.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+070) 60574154  LOZADA GONZALES JAIME                           12.27       17000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2085.90
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2085.90
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+071) 62324793  GAVIDIA MORENO ISRAEL ROLANDO                   5.89       52000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3062.80
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3062.80
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+072) 62566305  ROMERO ALFARO MONICA JOHANA                     15.34       16000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2454.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2454.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+073) 63437380  PINTO CABELLO SILVIA FELICITA                   15.03       35000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5260.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5260.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+074) 64394265  SALAZAR GONZALES DAVID RAFAEL                   10.61       25000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2652.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2652.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+075) 66409237  CANO DELGADO WILLIAMS                           22.60       41000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -9266.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -9266.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+076) 67418025  MOSCOSO SUELDO MARINA                           20.35       27000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5494.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5494.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+077) 69324480  FLORES IPARRAGUIRRE HENRRY RICARDO              14.26       19000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2709.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2709.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+078) 69639726  ROJAS PATINO GONZALO JAIR                       4.12       12000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -494.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -494.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+079) 69975105  VALDERRAMA MENDOZA LUIS ADOLFO                  4.98       40000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1992.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1992.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+080) 71378466  MIYAKE CARO HENRRY EDGAR                        19.15       20000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3830.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3830.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+081) 71463316  PRADO CALIXTO KARIN                             14.02       43000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6028.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6028.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+082) 71984468  IPARRAGUIRRE VILLEGAS NICOLAS EDILBERTO         25.37       21000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5327.70
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5327.70
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+083) 73185299  CORTES LANDA SURAMI                             19.16       80000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -15328.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -15328.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+084) 73535476  AYALA SANCHEZ MARIA TERESA                      26.07       46000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -11992.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -11992.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+085) 73786035  ORTIZ EPIQUEN HENRY ISRAEL                      8.25        6000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -495.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -495.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+086) 73914283  CASANOVA CARBAJAL RICARDO ISRAEL                27.37       26000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -7116.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -7116.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+087) 76388967  GONZALES QUIO ISABEL                            6.76       56000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3785.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3785.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+088) 77191257  CORRALES ZUNIGA JENNY                           11.65       59000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6873.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6873.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+089) 77484838  EPIQUEN ALAMO NANCY                             21.95       59000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -12950.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -12950.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+090) 77642521  SORIA CASTILLO LUIS GUSTAVO                     24.34       19000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4624.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4624.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+091) 78078115  TSUKAZAN AMEZQUITA DELIA                        27.94       73000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -20396.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -20396.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+092) 78757121  ASTETE SOLIS FANNY                              6.87       47000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3228.90
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3228.90
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+093) 78922174  ALAMO MEZA ALVARO                               12.98       28000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3634.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3634.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+094) 79140840  TORREALBA ARCA VICTORIA GLENDA                  10.47       20000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2094.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2094.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+095) 79372768  BERROCAL YALLICO ANNIE SOFIA                    17.91       43000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -7701.30
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -7701.30
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+096) 79420973  AURIS JOLAY DIANA                               20.59       24000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4941.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4941.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+097) 79464412  PORTUGAL RAFFO ALEXANDER                        21.69       21000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4554.90
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4554.90
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+098) 79475585  RETTO ARCA ANNIE MAGDA                          21.44        4000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -857.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -857.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+099) 79901434  SALAZAR FLORENCIO SANDRO JOHNNY                 4.09      234000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -9570.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -9570.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+100) 80048864  JUSTINO CASTILLO SANDRO CHRISTIAN               7.21       14000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1009.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1009.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+101) 81114108  ZAMBRANO SHIRAKAWA WILMER                       4.85       28000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1358.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1358.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+102) 83236386  RIVERO CORRALES JUAN FERNANDO                   16.48       34000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -5603.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -5603.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+103) 83505958  CONTRERAS MEZA ERIKA BLANCA                     20.89        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1671.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1671.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+104) 84165595  SALAMANCA GAVIDIA ALEX                          25.68       24000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6163.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6163.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+105) 85871751  AYALA LAURA JANET                               23.07        1000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -230.70
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -230.70
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+106) 85949265  LEYVA GONZALES CINTHIA                          17.14       48000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -8227.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -8227.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+107) 86241107  SANCHEZ EPIQUEN EDGAR MELVIN                    9.70       46000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -4462.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -4462.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+108) 86402303  RUIZ RUIZ OFELIA DELIA                          6.81       25000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1702.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1702.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+109) 86828079  PRECIADO ADAMS ERIKA DELIA                      7.41       16000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1185.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1185.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+110) 87800799  QUIROGA SALAZAR JOHNNY ROBERTO                  6.78       54000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3661.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3661.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+111) 87813843  AYALA ACUNA RONY ALEX                           27.24       26000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -7082.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -7082.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+112) 88956889  CHUMPITAZ CARBAJAL MARITZA                      21.03       30000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6309.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6309.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+113) 88995291  PEREZ TORRES MILAGROS REBECA                    27.53        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2202.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2202.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+114) 89148118  ZAMBRANO LEYVA ALVARO                           18.76       51000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -9567.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -9567.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+115) 89298238  ALFARO PRECIADO JOHNNY                          22.55       49000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -11049.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -11049.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+116) 89429489  SERRANO IPARRAGUIRRE VIRGINIA                   6.69       45000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3010.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3010.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+117) 89863424  SANTISTEBAN BRAVO EDGARD                        18.16       42000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -7627.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -7627.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+118) 90237332  ESPINOZA CASTRO YDALI GIOVANA                   20.89        8000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1671.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1671.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+119) 90365520  PALOMINO ADAMS SANDRO RONALD                    20.82       90000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -18738.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -18738.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+120) 91897732  GAMARRA ALCOCER VIRGINIA                        27.25       71000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -19347.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -19347.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+121) 93160528  SANTISTEBAN MARTEL MARTIN LUIS                  9.69       28000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2713.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2713.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+122) 93845419  QUIO GAVIDIA DIALY FELICITA                     25.04       85000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                              -21284.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:    -21284.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+123) 94080926  SORIA CRUZ MADELEINE                            9.91       37000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -3666.70
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -3666.70
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+124) 94326707  CHANG SEGURA ANGEL                              18.51        5000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -925.50
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -925.50
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+125) 95015539  CHANG SAONA RONALD                              17.25       50000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -8625.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -8625.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+126) 95161027  FALCON POZO WALTER                              19.72       15000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2958.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2958.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+127) 95751208  CORONEL ZEGARRA FIORELLA                        3.64       30000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1092.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1092.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+128) 96258632  FLORENCIO GARCIA WALTER                         9.84       25000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2460.00
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2460.00
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+129) 96659352  BRAVO VIZCARRA ROBERTO                          10.81       23000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2486.30
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2486.30
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+130) 97403853  PISCOYA MALCA MARIA MONICA                      11.41       56000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -6389.60
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -6389.60
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+131) 98140264  ALAMO ZEGARRA ISRAEL GUSTAVO                    26.82        1000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                                -268.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:      -268.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+132) 98589725  FORZANI ANTEZANO OSCAR JOSE                     9.53       18000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -1715.40
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -1715.40
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
+No.  VENDEDOR                                               % VENTAS    CUOTA MINIMA    TOTAL VENDIDO    TOTAL NO VENDIDO 
+133) 99842319  MARTINEZ MARTINEZ CARMELA                       11.48       19000.00             0.00          0.00
+     ARTICULOS VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+     ARTICULOS NO VENDIDOS
+     No.  ARTICULO                                                            CANTIDAD     MONTO    FECHA MAS RECIENTES
+
+TOTAL PAGADO AL VENDEDOR:                                               -2181.20
+TOTAL PAGADO AL VENDEDOR SI SE UBIERAN VENDIDO TODOS LOS PRODUCTOS:     -2181.20
+TOTAL PERDIDO POR FALTA DE STOCK                                            0.00
+========================================================================================================================
