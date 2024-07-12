@@ -1,0 +1,61 @@
+                               REPORTE DE CLIENTES
+========================================================================================================================================================================================================
+DNI       NOMBRE                                         MONTO COMPRADO    DESCUENTO FUTURO    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+69200503  Norabuena Preciado Cinthia                      2001.65              200.16
+65830353  Caro Polo Sandro                                2000.32              200.03
+15129661  Valverde Flores Irma Ydali                      1126.86              112.69
+33583840  Villa Yallico Tatiana Nancy                     1293.40              129.34
+58717040  Cabrera Canales Guillermo Edric                  543.92               54.39
+57431952  Castro Suarez Rolando                           2696.31              269.63
+47659552  Prado Vergel Carlos Julian                      1961.22              196.12
+87570336  Pairazaman Alamo Moises Miguel                     0.00                0.00
+50860318  Salazar Corrales Lorena Irma                     322.91               32.29
+83265244  Wong Martel Madeleine                           1570.37              157.04
+48053960  Corrales Tsukazan Irma Lourdes                   617.70               61.77
+37328103  Palomares Vera Henrry Humberto                  1136.59              113.66
+42302422  Maldonado Ramirez Silvana                       2300.36              230.04
+66152145  Hernandez Barrios Emilio                           0.00                0.00
+17750908  Chumpitaz Iberos Ronal                          1438.67              143.87
+27109544  Henriquez Espino Beatriz                        1242.30              124.23
+46582367  Justino Forzani Ericka Victoria                  523.38               52.34
+37751890  Romero Palomares Gloria Tatiana                 2771.89              277.19
+51235238  Prado Falcon Edgar Richard                      1127.24              112.72
+63602514  Shirakawa Miranda Madeleine                      646.27               64.63
+65071478  Arroyo Gordillo Maria Heli                      1979.50              197.95
+20610190  Auris Zimic Javier Daniel                        220.33               22.03
+86898639  Pasquel Quio Surami Janet                        910.60               91.06
+33958767  Perez Farfan Richard Sandro                      954.11               95.41
+14268463  Diaz Correa Irma Virginia                       3107.95              621.59
+36699613  Mejia De La Haza Francisco Edgar                 515.32               51.53
+14142586  Piscoya Bravo Cesar Bruno                          0.00                0.00
+61039260  Cerna Pairazaman Fiorella Margot                   0.00                0.00
+79743481  Salas Aguero Daniel                              336.76               33.68
+76693511  Laura Wong Melvin Henrry                         801.52               80.15
+21344013  Aquino Toro Valentina Rocio                     2604.08              260.41
+61212473  Forzani Caro Alonso                              295.86               29.59
+88080249  Coronel Chumpitaz Heli                          1024.22              102.42
+66747161  Vasquez Paz Alex Martin                         1071.69              107.17
+72832218  Vega Garcia Janet Rebeca                        1449.26              144.93
+20449598  Velasquez Huayanay Edgard Henry                  544.34               54.43
+85870289  Paredes Patino Christian                         530.78               53.08
+11750801  Raffo Arias Surami Annie                        2278.06              227.81
+34460612  Morales Valverde Ines Martha                    1690.03              169.00
+49516360  Mendoza Egusquiza Rosario                       1515.36              151.54
+60740809  Lozada Yino Martha                              1144.65              114.47
+38724322  Inga Flores Cesar Adolfo                         849.65               84.97
+96056368  Raffo Chung Adria Gloria                         495.55               49.55
+45002711  Landeo Sueldo Adolfo                             903.53               90.35
+45181396  Cerna Durand Martin                             1013.89              101.39
+92240876  Mejia Diaz Blanca Milagros                      2188.93              218.89
+81082011  Shirakawa Ortega Angel                          1735.86              173.59
+35030611  Cabrera Luna Shirley Isabel                      585.54               58.55
+45834351  Santisteban Meza Rosa                            811.98               81.20
+37500242  Pinto Calixto Shirley                              0.00                0.00
+81462164  Fernandez Ortega Elizabeth Elizabeth            1562.80              156.28
+87804471  Diaz Antezano Magali Silvana                    1733.43              173.34
+26916299  Chung Lee Alvaro                                   0.00                0.00
+14500753  Delgado Gonzales Guillermo Alfonso              1863.02              186.30
+32231860  Cerna Hijar Jose Rolando                         379.15               37.91
+67066631  Arca Amezquita Edric Ronald                      818.75               81.88
+54393647  Reyes Tang Edward                                780.64               78.06

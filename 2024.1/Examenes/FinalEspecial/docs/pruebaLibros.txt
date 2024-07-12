@@ -1,0 +1,1070 @@
+                    REPORTE DE VENTAS POR LIBROS Y LIBRERIAS
+========================================================================================================================================================================================================
+LIBROS NO.     1
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NFP3266   Sabotaje                                                    Arturo Perez-Reverte                101.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     2
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BZX4462   Culpa mia                                                   Mercedes Ron                         89.66       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     3
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JKE9650   La metamorfosis                                             Franz Kafka                         192.81       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     4
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RRE8138   Trilogia de la Fundacion                                    Isaac Asimov                        357.57       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     5
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DEK2757   En llamas                                                   Suzanne Collins                     337.07       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     6
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JOF6762   Ojos azules                                                 Arturo Perez-Reverte                218.80       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     7
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HPM0950   Fahrenheit 451                                              Ray Bradbury                        123.40       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     8
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KLO8691   Catedral                                                    Raymond Carver                      144.15       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     9
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UCA0857   SPQR: una historia de la antigua Roma                       Mary Beard                          215.07       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     10
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ALH8812   Guerra y Paz                                                Leon Tolstoi                         37.06       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     11
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SIR3963   Memorias de una geisha                                      Arthur Golden                       167.74       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     12
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YXF2137   En agosto nos vemos                                         Gabriel Garcia Marquez              242.03       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     13
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TAB4639   El color que cayo del cielo                                 H. P. Lovecraft                     210.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     14
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JXC1015   Robinson Crusoe                                             Daniel Defoe                        108.84       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     15
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OQK1590   Cometas en el cielo                                         Khaled Hosseini                     369.96       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     16
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VSG3432   Bajo bandera negra                                          David Cordingly                      56.14       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     17
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VYK6352   Armas germenes y acero                                      Jared Diamond                       313.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     18
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GJM4671   Origenes                                                    Lewis Dartnell                      227.01       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     19
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HLC2748   El senior de los anillos (Trilogia)                         J.R.R.Tolkien                       145.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     20
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VYG3594   Los demonios                                                Fiodor Dostoyevski                  295.35       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     21
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RAO4129   Stalingrado                                                 Jonathan Trigg                      112.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     22
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SMI7078   Los cachorros                                               Mario Vargas Llosa                   30.12       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     23
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KGO1734   Una historia del mundo                                      Andrew Marr                         256.90       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     24
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SXT1015   Mientras agonizo                                            William Faulkner                    232.57       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     25
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JZQ8143   Suenios de robot                                            Isaac Asimov                        356.97       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     26
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IFL0150   Romeo y Julieta                                             William Shakespeare                 193.17       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     27
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VDL9379   Los juegos del hambre                                       Suzanne Collins                     308.73       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     28
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XTM9385   El mundo                                                    Simon Sebag Montefiore              155.63       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     29
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VFI8064   A sangre fria                                               Truman Capote                       269.17       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     30
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PCS8992   Y no quedo ninguno                                          Agatha Christie                     324.88       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     31
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QHZ8547   Adios a las armas                                           Hernest Hemingway                   192.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     32
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NEW1762   Territorio comanche                                         Arturo Perez-Reverte                155.89       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     33
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PWB4941   La montania magica                                          Thomas Mann                         238.07       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     34
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NGQ6935   La casa de los espiritus                                    Isabel Allende                      367.20       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     35
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GUN8655   Angeles y demoniosi                                         Dan Brown                            37.00       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     36
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XRL3393   Le dedico mi silencio                                       Mario Vargas Llosa                   24.29       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     37
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UFK9792   El psicoanalista                                            John Katzenbach                      29.95       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     38
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BXE0974   Los viajes de Gulliver                                      Jonathan Swift                      248.60       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     39
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+AGQ7769   La Flecha Negra                                             Robert Louis Stevenson              241.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     40
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JZU0977   El alquimista                                               Paulo Coelho                         50.93       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     41
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MLC7198   Los rios profundos                                          Jose Maria Arguedas                 306.61       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     42
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BTX3816   El jugador                                                  Fiodor Dostoyevski                   63.36       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     43
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QQQ4712   Nuestra Seniora de Paris                                    Victor Hugo                         346.01       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     44
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BZY0235   Fausto                                                      Johann Wolfgang Von Goethe          254.21       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     45
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+AZL1098   El extranjero                                               Albert Camus                        122.15       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     46
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XBC5847   Tiempos recios                                              Mario Vargas Llosa                  318.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     47
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BUT4998   Lolita                                                      Vladimir Nabokov                    105.39       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     48
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KLV1872   Orgullo y prejuicio                                         Jane Austen                         166.42       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     49
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DTH6788   Los perros duros no bailan                                  Arturo Perez-Reverte                288.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     50
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UDS2730   Los Nibelungos                                              Anonimo                             322.91       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     51
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DEF7625   Las uvas de la ira                                          John SteinbecK                      251.95       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     52
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PQB0775   El diablo de la botella y otros cuentos                     Robert Louis Stevenson              199.01       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     53
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OUU5470   La carta esferica                                           Arturo Perez-Reverte                 84.53       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     54
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EHX6253   La isla de las tormentas                                    Ken Follett                         185.52       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     55
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BAP2859   El tunel                                                    Ernesto Sabato                      230.23       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     56
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GDA4236   Gente normal                                                Sally Rooney                        246.62       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     57
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CKR6798   El lobo estepario                                           Hermann Hesse                        53.54       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     58
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HDA2333   Lituma en los Andes                                         Mario Vargas Llosa                  147.48       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     59
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ION3794   Crepusculo                                                  Stephenie Meyer                     193.54       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     60
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CJN4376   Harry Potter y la camara secreta (Harry Potter 2)           J. K. Rowling                        20.25       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     61
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MEH2993   Hijos de un tiempo perdido                                  Jose Maria Bermudez de Castro       125.48       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     62
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LGB2311   Decameron                                                   Giovanni Boccaccio                  275.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     63
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FYV9055   Macbeth                                                     William Shakespeare                 265.73       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     64
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IGT8523   Una columna de fuego                                        Ken Follett                         223.32       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     65
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JEN0751   Ana Karenina                                                Leon Tolstoi                        102.26       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     66
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CRR5443   Un mundo feliz                                              Aldous Huxley                       114.05       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     67
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WYS2674   Secuestrado                                                 Robert Louis Stevenson              291.94       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     68
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RSK1164   El amor en los tiempos del colera                           Gabriel Garcia Marquez              144.93       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     69
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RNG2321   El Aleph                                                    Jorge Luis Borges                    55.75       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     70
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CST1133   Inferno                                                     Dan Brown                           278.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     71
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MBB0685   El capitan Alatriste                                        Arturo Perez-Reverte                253.85       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     72
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EZP0333   La Reina del Sur                                            Arturo Perez-Reverte                 91.75       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     73
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BRG4234   La telarania de Carlota                                     E. B. White                          32.77       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     74
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EFQ0297   Trampa 22                                                   Joseph Heller                       325.88       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     75
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ILA4795   La ladrona de libros                                        Markus ZusaK                        212.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     76
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IPE3429   Sidi                                                        Arturo Perez-Reverte                360.75       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     77
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OBH4691   Crimen y castigo                                            Fiodor Dostoyevski                   34.78       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     78
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HXB2949   El medico                                                   Noah Gordon                         173.83       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     79
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QKH2262   Fiesta                                                      Hernest Hemingway                   105.11       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     80
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QMJ4188   Emma                                                        Jane Austen                          82.40       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     81
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KVL6246   La edad media - barbaros - cristianos y musulmanes          Umberto Eco                          38.27       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     82
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JSM8271   La Odisea                                                   Homero                              304.10       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     83
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MTZ2227   Hamlet                                                      William Shakespeare                  91.11       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     84
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KSX7995   El simbolo perdidoi                                         Dan Brown                            58.39       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     85
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EUO8195   El jardin del Eden                                          Hernest Hemingway                   346.82       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     86
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BUB3833   Otelo                                                       William Shakespeare                 212.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     87
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RYI5447   El corazon es un cazador solitario                          Carson Mccullers                    190.55       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     88
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BHD6079   Zorba el griego                                             Nikos Kazantzakis                   173.67       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     89
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SPM4763   Eva                                                         Arturo Perez-Reverte                165.44       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     90
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FVV9246   Matar a un ruisenior                                        Harper Lee                          348.76       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     91
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EFD3949   La divina comedia                                           Dante Alighieri                      51.42       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     92
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IUI3314   El coronel no tiene quien le escriba                        Gabriel Garcia Marquez              103.39       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     93
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CLG5566   Pantaleon y las visitadoras                                 Mario Vargas Llosa                  253.85       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     94
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YZV6954   Corazon de las tinieblas                                    Joseph Conrad                       155.63       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     95
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OWO8918   Origen                                                      Dan Brown                           213.71       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     96
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VFO4193   La catedral del mar                                         Ildefonso Falcones                  330.92       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     97
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+USK1312   Un mundo sin fin                                            Ken Follett                         129.39       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     98
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BUY4915   La sombra del aguila                                        Arturo Perez-Reverte                287.75       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     99
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BUC5125   El faro de Stalingrado                                      Iain MacGregor                      238.95       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     100
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ICU6090   La fiesta del chivo                                         Mario Vargas Llosa                  358.24       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     101
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WHU1288   La hija italiana                                            Soraya Lane                         206.44       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     102
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EJE8138   Yawar fiesta                                                Jose Maria Arguedas                 336.76       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     103
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OCI8959   David Copperfield                                           Charles Dickens                     190.16       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     104
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ACM9578   Amadis de gaula                                             Garci Rodriguez Montalvo            299.89       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     105
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+AKU9740   Conversacion en La Catedral                                 Mario Vargas Llosa                  225.78       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     106
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EYV0597   Cuentos de la selva                                         Horacio Quiroga                     161.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     107
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PHL4155   El idiota                                                   Fiodor Dostoyevski                  330.10       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     108
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)   J. K. Rowling                       117.19       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     109
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KBF4088   Harry Potter y el prisionero de Azkaban (Harry Potter 3)    J.K. Rowling                        269.58       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     110
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MKB4184   Napoleon                                                    Alejandro Dumas                     261.25       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     111
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HVZ1228   El husar                                                    Arturo Perez-Reverte                150.41       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     112
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FNM6936   Divina comedia                                              Dante Alighieri                      21.84       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     113
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HHR5161   El francotirador paciente                                   Arturo Perez-Reverte                 42.45       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     114
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JNC0786   Mi isla                                                     Elisabet Benavent                    24.53       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     115
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HGN9910   La ciudad y los perros                                      Mario Vargas Llosa                  190.86       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     116
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XMT1768   Los diarios de Adan y Eva                                   Mark Twain                          345.54       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     117
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RZX8790   El senior de las moscas                                     William Golding                     188.11       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     118
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HSE3213   Por quien doblan las campanas                               Hernest Hemingway                   259.22       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     119
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SMW0186   La sombra del viento                                        Carlos Ruiz Zafon                   214.64       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     120
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QMI4747   La isla de los amores infinitos                             Daina Chaviano                       43.56       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     121
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QVX9089   Madame Bovary                                               Gustave Flaubert                     43.74       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     122
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QFG6515   El libro de la selva                                        Rudyard Kipling                     329.44       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     123
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PGK5617   El Rey Lear                                                 William Shakespeare                 331.68       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     124
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ULM8751   La sumisa                                                   Fiodor Dostoyevski                  259.84       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     125
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ELC8965   Las aventuras de Rocambole                                  Ponson Du Terrail                   144.29       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     126
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EBT7258   Linea de fuego                                              Arturo Perez-Reverte                215.98       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     127
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LRV5687   La guerra del fin del mundo                                 Mario Vargas Llosa                  164.06       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     128
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DXP8640   El retrato de Dorian Gray                                   Oscar Wilde                          73.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     129
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZQY9966   El suenio del tio                                           Fiodor Dostoyevski                   93.34       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     130
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FMX8255   Las aventuras de Huckleberry Finn                           Mark Twain                          228.56       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     131
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KCI5219   El Maestro y Margarita                                      Mijail Bulgakov                     321.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     132
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QYH7021   Historia del siglo XX: 1914-1991                            Eric Hobsbawm                        59.37       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     133
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GOG7446   El guardian entre el centeno                                J. D. Salinger                      282.95       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     134
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CXW5879   Los barcos se pierden en tierra                             Arturo Perez-Reverte                243.00       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     135
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EBE0042   Capitanes intrepidos                                        Rudyard Kipling                     224.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     136
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DVR5984   Mil soles esplendidos                                       Khaled Hosseini                     261.65       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     137
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ECT0289   Juego de tronos                                             George R.R.Martin                   235.18       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     138
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BDK4183   La isla del tesoro                                          Robert Louis Stevenson              181.62       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     139
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MIK5358   La transformacion del mundo                                 Jürgen Osterhammel                  315.72       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     140
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JGG5049   El eterno marido                                            Fiodor Dostoyevski                  295.86       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     141
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+USM9579   El perfume                                                  Patrick Suskind                     356.70       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     142
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JXK3142   En el camino                                                Jack Kerouac                        170.15       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     143
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JJV7549   Los hombres que no amaban a las mujeres                     Stieg Larsson                       132.73       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     144
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DPZ8059   El hombre que pudo reinar                                   Rudyard Kipling                     326.37       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     145
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EEJ4830   El Principito                                               Antoine de Saint-Exupery            314.97       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     146
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DDU0764   Dioses tumbas y sabios                                      C. W. Ceram                         305.47       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     147
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PQZ1316   La Eneida                                                   Virgilio                            347.98       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     148
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZAL2738   1984                                                        George Orwell                       348.12       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     149
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MNL3677   El Hobbit                                                   J.R.R. Tolkien                      198.53       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     150
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZLE2920   Historia de la Edad Media                                   Indro Montanelli                    222.63       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     151
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GXB5722   Cumbres borrascosas                                         Emily Brontë                        238.82       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     152
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+BSX2922   Una historia de Espania                                     Arturo Perez-Reverte                141.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     153
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TVR7016   El corazon de las tinieblas                                 Joseph Conrad                       254.93       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     154
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+USE5598   Fortaleza digitali                                          Dan Brown                           268.95       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     155
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ETV5056   Moby Dick                                                   Herman Melville                     287.77       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     156
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SHF2360   Un dia de colera                                            Arturo Perez-Reverte                 33.03       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     157
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CPE5718   Paris era una fiesta                                        Hernest Hemingway                   301.42       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     158
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CMP1150   Don Quijote de la Mancha                                    Miguel de Cervantes                 359.19       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     159
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WWT1581   La piel del tambor                                          Arturo Perez-Reverte                 97.98       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     160
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GKG6581   Hombres buenos                                              Arturo Perez-Reverte                318.48       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     161
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)         J. K. Rowling                       166.96       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     162
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PPI9259   Revolucion                                                  Arturo Perez-Reverte                120.80       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     163
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LJE6687   El codigo Da Vinci                                          Dan Brown                           171.78       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     164
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RWW7975   El nombre de la rosa                                        Umberto Eco                         164.58       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     165
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TMR5068   Los tres mosqueteros                                        Alejandro Dumas                      55.94       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     166
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VOI0019   El evangelio segun Jesucristo                               Jose Saramago                       344.64       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     167
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QBL9575   Los miserables                                              Victor Hugo                          37.19       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     168
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WMN3648   Pasaje a la India                                           E. M. Forster                        81.84       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     169
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CRY6839   Ricardo III                                                 William Shakespeare                 231.85       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     170
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FWP8469   Justine o los infortunios                                   Charles Dickens                     132.76       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     171
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CTW5846   El medievo cristiano                                        Mario Merlino                       313.44       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     172
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZNF2241   El extranio caso del Dr. Jekyll y Mr. Hyde                  Robert Louis Stevenson              153.78       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     173
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YKQ9278   Alicia en el pais de las maravillas                         Lewis Carroll                       104.54       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     174
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WYE2119   El asedio                                                   Arturo Perez-Reverte                227.12       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     175
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JZC7527   El tambor de hojalata                                       Gunter Grass                        220.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     176
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EWI3090   La seniora Dalloway                                         Virginia Woolf                      304.25       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     177
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HWM4049   Romper el circulo                                           Colleen Hoover                       54.57       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     178
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DDQ0721   En busca del tiempo perdido                                 Marcel Proust                       214.57       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     179
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UEJ1235   Grandes esperanzas                                          Charles Dickens                     237.49       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     180
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UXZ2187   Los 7 habitos de la gente altamente efectiva                Stephen R. Covey                    119.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     181
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PWX7633   La tia Julia y el escribidor                                Mario Vargas Llosa                   80.65       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     182
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XIU6076   Rebelion en la granja                                       George Orwell                       149.76       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     183
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LJD9991   Baudolino                                                   Umberto Eco                         165.58       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     184
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DND9446   Lo que el viento se llevo                                   Margaret Mitchell                   344.10       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     185
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HPP3360   El pintor de batallas                                       Arturo Perez-Reverte                231.92       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     186
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HRT0664   Los funerales de la Mama Grande                             Gabriel Garcia Marquez              257.52       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     187
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SFR1226   Ana la de las tejas verdes                                  Lucy Maud Montgomery                186.05       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     188
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OWU1533   Cuatro principes                                            John Julius Norwich                 114.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     189
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JHP0390   El conde de Montecristo                                     Alexandre Dumas                     163.23       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     190
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NBE1339   Palmeras en la nieve                                        Luz Gabas                           305.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     191
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ISY5671   Harry Potter y la piedra filosofal (Harry Potter 1)         J. K. Rowling                       187.23       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     192
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MWB2923   Mudlarking                                                  Lara Maiklem                        281.28       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     193
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KPE7420   Jane Eyre                                                   Charlotte Brontë                    279.51       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     194
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FKK6524   Los renglones torcidos de Dios                              Torcuato Luca de Tena               180.90       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     195
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VTY5195   Un asunto de honor                                          Arturo Perez-Reverte                108.29       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     196
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QVU3526   Vidas intrepidas                                            Julio Albi de la Cuesta              96.25       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     197
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UCJ9882   El reino de este mundo                                      Alejo Carpentier                    250.08       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     198
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OBD2849   El invierno del mundo                                       Ken Follett                         170.91       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     199
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XCC4070   El italiano                                                 Arturo Perez-Reverte                242.41       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     200
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YJE2497   Progreso del peregrino                                      John Bunyan                         329.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     201
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WGA2754   El club Dumas                                               Arturo Perez-Reverte                 64.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     202
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IUG2294   El proceso                                                  Franz Kafka                          44.64       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     203
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZPD6557   El ruido y la furia                                         William Faulkner                    324.55       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     204
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GWE4133   El gato negro y otros cuentos                               Edgar Allan Poe                     256.69       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     205
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TOJ1764   Ensayo sobre la ceguera                                     Jose Saramago                        84.18       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     206
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KTA8754   Ulises                                                      James Joyce                         168.82       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     207
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RLQ7170   El tango de la guardia vieja                                Arturo Perez-Reverte                295.67       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     208
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+UQL8643   Dracula                                                     Bram Stoker                         143.17       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     209
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PZP7176   La caida de los gigantes                                    Ken Follett                         132.91       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     210
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+THT4126   Harry Potter y las reliquias de la muerte (Harry Potter 7)  J. K. Rowling                       165.15       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     211
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XJT3661   Las aventuras de Tom Sawye                                  Mark Twain                          102.81       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     212
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QCA9584   Dr. Jekyll y Mr. Hyde                                       Robert Louis Stevenson              212.16       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     213
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IMK4892   La tabla de Flandes                                         Arturo Perez-Reverte                 62.98       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     214
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LQA8555   Rimas y leyendas                                            Gustavo Adolfo Becquer              347.88       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     215
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MBQ9495   Tormenta de espadas                                         George R.R.Martin                   179.01       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     216
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VMW6915   Travesuras de la ninia mala                                 Mario Vargas Llosa                  136.85       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     217
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CUV7849   Ficciones                                                   Jorge Luis Borges                   365.83       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     218
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WOF6634   El problema final                                           Arturo Perez-Reverte                269.66       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     219
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WCZ0845   El cementerio de Praga                                      Umberto Eco                         109.63       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     220
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FBO8724   El pendulo de Foucault                                      Umberto Eco                          78.33       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     221
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LVP3355   Las aventuras de Sherlock Holmes                            Arthur Conan Doyle                  152.03       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     222
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SBF7018   El handicap de la vida                                      Rudyard Kipling                     186.36       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     223
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PRD1648   Relato de un naufrago                                       Gabriel Garcia Marquez              284.43       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     224
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GQC1814   Apocalipticos e integrados                                  Umberto Eco                         158.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     225
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+FWK6327   El doble                                                    Fiodor Dostoyevski                  175.82       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     226
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IMC3155   Los pilares de la tierra                                    Ken Follett                         221.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     227
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NBL8415   Espania con honra                                           Daniel Aquillue                      86.51       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     228
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TDY0497   La chica del tren                                           Paula Hawkins                       309.91       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     229
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MSW8176   Todo se desmorona                                           Chinua Achebe                        65.85       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     230
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JLQ6546   El retorno del Rey                                          J.R.R.Tolkien                       164.98       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     231
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CKC4095   El Gran Gatsby                                              F. Scott Fitzgerald                 126.76       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     232
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+OMN0252   Los hermanos Karamazov                                      Fiodor Dostoyevski                  231.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     233
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HCT8192   Diario                                                      Ana FranK                           197.59       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     234
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JTX5687   Veinte mil leguas de viaje submarino                        Julio Verne                         300.73       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     235
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+WPU8819   Tristam Shandy                                              Laurence Sterne                     305.36       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     236
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+KWL0415   1923                                                        Roberto Villa Garcia                351.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     237
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+MVU0233   La conspiracioni                                            Dan Brown                           293.09       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     238
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VHK9148   Historia y cronologia del mundo                             Isaac Asimov                        313.39       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     239
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SQB7146   Cronica de una muerte anunciada                             Gabriel Garcia Marquez              159.23       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     240
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HLB4548   Frankenstein o el moderno Prometeo                          Mary W. Shelley                      38.12       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     241
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+HGQ0131   Odisea                                                      Homero                              254.38       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     242
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ILG7766   Iliada                                                      Homero                              136.58       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     243
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DDT0017   Viaje al fin de la noche                                    Louis Ferdinand Celine              169.16       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     244
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+XIU2628   Cabo Trafalgar                                              Arturo Perez-Reverte                 87.23       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     245
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+GPH1575   La gran aventura de los griegos                             Javier Negrete                      149.25       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     246
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IBP7411   Nunca                                                       Ken Follett                         109.00       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     247
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+TBZ2657   Olalla                                                      Robert Louis Stevenson              259.74       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     248
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+NEO9165   Emperador de Roma                                           Mary Beard                           41.71       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     249
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+JBR9372   El maestro de esgrima                                       Arturo Perez-Reverte                191.74       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     250
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+RII8346   Las dos Dianas                                              Alejandro Dumas                     158.65       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     251
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+CRA4157   El forastero misterioso                                     Mark Twain                          256.52       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     252
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZJM1292   El suenio del celta                                         Mario Vargas Llosa                  134.67       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     253
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SBU9053   Tierra arrasada                                             Alfredo Gonzalez Ruibal             300.68       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     254
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LDL2628   Harry Potter y el caliz de fuego (Harry Potter 4)           J.K. Rowling                        326.78       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     255
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+QRH6838   Las cronicas de Narnia                                      C. S. Lewis                         332.14       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     256
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+DVL7760   Falco                                                       Arturo Perez-Reverte                 27.20       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     257
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+PVS2464   Sapiens                                                     Yuval Noah Harari                   307.68       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     258
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VPN5351   El Amante                                                   Ana Maria Moix                       33.79       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     259
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YJI3961   Cien anios de soledad                                       Gabriel Garcia Marquez               48.12       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     260
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+EDQ0577   Las aventuras de Pinocho                                    Carlo Collodi                        82.97       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     261
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+SFZ1256   La Iliada                                                   Homero                              123.04       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     262
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+VFZ9435   El olor de la Edad Media                                    Javier Traite                       302.84       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     263
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+LQL0880   Contra el fascismo                                          Umberto Eco                         149.08       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     264
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ETZ8565   Confesiones de una mascara                                  Yukio Mishima                       339.31       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     265
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+ZOY6470   El viejo y el mar                                           Hernest Hemingway                    88.69       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     266
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+YDK7687   El otonio del patriarca                                     Gabriel Garcia Marquez              368.04       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================
+LIBROS NO.     267
+CODIGO    TITULO                                                      AUTOR                               PRECIO    VENDIDOS    TOTAL.VENTAS    PROM.BUENAS.CALIF    PROM.MALAS.CALIF     PROM.CALIF
+IIM5175   Diamantes y pedernales                                      Jose Maria Arguedas                  69.02       0             0.00              -nan                -nan              -nan
+========================================================================================================================================================================================================

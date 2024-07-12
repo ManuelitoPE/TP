@@ -1,0 +1,61 @@
+                               REPORTE DE CLIENTES
+========================================================================================================================================================================================================
+DNI       NOMBRE                                         MONTO COMPRADO    DESCUENTO FUTURO    
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+69200503  Norabuena Preciado Cinthia                         0.00                0.00
+65830353  Caro Polo Sandro                                   0.00                0.00
+15129661  Valverde Flores Irma Ydali                         0.00                0.00
+33583840  Villa Yallico Tatiana Nancy                        0.00                0.00
+58717040  Cabrera Canales Guillermo Edric                    0.00                0.00
+57431952  Castro Suarez Rolando                              0.00                0.00
+47659552  Prado Vergel Carlos Julian                         0.00                0.00
+87570336  Pairazaman Alamo Moises Miguel                     0.00                0.00
+50860318  Salazar Corrales Lorena Irma                       0.00                0.00
+83265244  Wong Martel Madeleine                              0.00                0.00
+48053960  Corrales Tsukazan Irma Lourdes                     0.00                0.00
+37328103  Palomares Vera Henrry Humberto                     0.00                0.00
+42302422  Maldonado Ramirez Silvana                          0.00                0.00
+66152145  Hernandez Barrios Emilio                           0.00                0.00
+17750908  Chumpitaz Iberos Ronal                             0.00                0.00
+27109544  Henriquez Espino Beatriz                           0.00                0.00
+46582367  Justino Forzani Ericka Victoria                    0.00                0.00
+37751890  Romero Palomares Gloria Tatiana                    0.00                0.00
+51235238  Prado Falcon Edgar Richard                         0.00                0.00
+63602514  Shirakawa Miranda Madeleine                        0.00                0.00
+65071478  Arroyo Gordillo Maria Heli                         0.00                0.00
+20610190  Auris Zimic Javier Daniel                          0.00                0.00
+86898639  Pasquel Quio Surami Janet                          0.00                0.00
+33958767  Perez Farfan Richard Sandro                        0.00                0.00
+14268463  Diaz Correa Irma Virginia                          0.00                0.00
+36699613  Mejia De La Haza Francisco Edgar                   0.00                0.00
+14142586  Piscoya Bravo Cesar Bruno                          0.00                0.00
+61039260  Cerna Pairazaman Fiorella Margot                   0.00                0.00
+79743481  Salas Aguero Daniel                                0.00                0.00
+76693511  Laura Wong Melvin Henrry                           0.00                0.00
+21344013  Aquino Toro Valentina Rocio                        0.00                0.00
+61212473  Forzani Caro Alonso                                0.00                0.00
+88080249  Coronel Chumpitaz Heli                             0.00                0.00
+66747161  Vasquez Paz Alex Martin                            0.00                0.00
+72832218  Vega Garcia Janet Rebeca                           0.00                0.00
+20449598  Velasquez Huayanay Edgard Henry                    0.00                0.00
+85870289  Paredes Patino Christian                           0.00                0.00
+11750801  Raffo Arias Surami Annie                           0.00                0.00
+34460612  Morales Valverde Ines Martha                       0.00                0.00
+49516360  Mendoza Egusquiza Rosario                          0.00                0.00
+60740809  Lozada Yino Martha                                 0.00                0.00
+38724322  Inga Flores Cesar Adolfo                           0.00                0.00
+96056368  Raffo Chung Adria Gloria                           0.00                0.00
+45002711  Landeo Sueldo Adolfo                               0.00                0.00
+45181396  Cerna Durand Martin                                0.00                0.00
+92240876  Mejia Diaz Blanca Milagros                         0.00                0.00
+81082011  Shirakawa Ortega Angel                             0.00                0.00
+35030611  Cabrera Luna Shirley Isabel                        0.00                0.00
+45834351  Santisteban Meza Rosa                              0.00                0.00
+37500242  Pinto Calixto Shirley                              0.00                0.00
+81462164  Fernandez Ortega Elizabeth Elizabeth               0.00                0.00
+87804471  Diaz Antezano Magali Silvana                       0.00                0.00
+26916299  Chung Lee Alvaro                                   0.00                0.00
+14500753  Delgado Gonzales Guillermo Alfonso                 0.00                0.00
+32231860  Cerna Hijar Jose Rolando                           0.00                0.00
+67066631  Arca Amezquita Edric Ronald                        0.00                0.00
+54393647  Reyes Tang Edward                                  0.00                0.00
