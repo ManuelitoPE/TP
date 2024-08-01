@@ -118,7 +118,7 @@ void emitirLibros(const char* nompruebaLibros,
           <<setw(20)<<ptr->datoLibro.sumaMalasCalificaciones/
                       ptr->datoLibro.cantidadMalasCalificaciones
           <<setw(18)<<(ptr->datoLibro.sumaMalasCalificaciones+ptr->datoLibro.sumaBuenasCalificaciones)/
-                      (ptr->datoLibro.cantidadMalasCalificaciones+ptr->datoLibro.cantidadMalasCalificaciones)<<endl;
+                      (ptr->datoLibro.cantidadBuenasCalificaciones+ptr->datoLibro.cantidadMalasCalificaciones)<<endl;
         impresionLibrerias(report,ptr->datoLibro.librerias,
                            ptr->datoLibro.cantidadLibrerias);
         linea(report,MAX_LINEA,'=');
@@ -140,8 +140,8 @@ void impresionLibrerias(ofstream& report,struct Libreria *librerias,
                         int cantidadLibrerias){
     for (int k = 0; k < cantidadLibrerias; k++){
         linea(report,MAX_LINEA,'-');
-        report<<setw(10)<<left<<"LIBRERIA:"<<setw(10)<<librerias->codigo
-            <<setw(20)<<"TOTAL DE VENTAS:"<<librerias->totalVentas<<endl;
+        report<<setw(10)<<left<<"LIBRERIA:"<<setw(10)<<librerias[k].codigo
+            <<setw(20)<<"TOTAL DE VENTAS:"<<librerias[k].totalVentas<<endl;
         linea(report,MAX_LINEA,'-'); encabezadoVentas(report);
         for (int i = 0; i < librerias[k].cantidadVentas; i++){
             report<<setw(15)<<" "<<setw(5)<<i+1
